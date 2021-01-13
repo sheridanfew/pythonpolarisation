@@ -1,0 +1,1304 @@
+#set xrange [0:0]
+#set yrange [0:0]
+#set zrange [0:0]
+
+unset border
+unset ztics
+unset xtics
+unset ytics
+
+# Defines arrow styles and colours for each atom type (numbers assigned to different atom types in later section 'Assign colorid to atom depending on type')
+
+set style arrow 1 head filled size screen 0.015,15,20 lw 2.5 lc rgb "#006400"
+set style arrow 2 head filled size screen 0.015,15,20 lw 2.5 lc rgb "gray"
+set style arrow 3 head filled size screen 0.015,15,20 lw 2.5 lc rgb "blue"
+set style arrow 4 head filled size screen 0.015,15,20 lw 2.5 lc rgb "red"
+set style arrow 5 head filled size screen 0.015,15,20 lw 2.5 lc rgb "orange"
+set style arrow 6 head filled size screen 0.015,15,20 lw 2.5 lc rgb "orange"
+
+#set samples 600
+#set term png size 6400,4800 font "cmunrm" 70
+#set output "testdips_arrow_10.png"
+
+set view equal xyz
+
+#set samples 600
+#set term png size 6400,4800 font "cmunrm" 70
+#set output "testdips_arrow_10.png"
+
+set view equal xyz
+
+#set samples 600
+#set term png size 6400,4800 font "cmunrm" 70
+#set output "testdips_arrow_10.png"
+
+set view equal xyz
+
+#set samples 600
+#set term png size 6400,4800 font "cmunrm" 70
+#set output "testdips_arrow_10.png"
+
+set view equal xyz
+
+#set samples 600
+#set term png size 6400,4800 font "cmunrm" 70
+#set output "testdips_arrow_10.png"
+
+set view equal xyz
+
+#set samples 600
+#set term png size 6400,4800 font "cmunrm" 70
+#set output "testdips_arrow_10.png"
+
+set view equal xyz
+
+#set samples 600
+#set term png size 6400,4800 font "cmunrm" 70
+#set output "testdips_arrow_10.png"
+
+set view equal xyz
+
+#set samples 600
+#set term png size 6400,4800 font "cmunrm" 70
+#set output "testdips_arrow_10.png"
+
+set view equal xyz
+
+#set samples 600
+#set term png size 6400,4800 font "cmunrm" 70
+#set output "testdips_arrow_10.png"
+
+set view equal xyz
+
+#set samples 600
+#set term png size 6400,4800 font "cmunrm" 70
+#set output "testdips_arrow_10.png"
+
+set view equal xyz
+
+#set samples 600
+#set term png size 6400,4800 font "cmunrm" 70
+#set output "testdips_arrow_10.png"
+
+set view equal xyz
+
+#set samples 600
+#set term png size 6400,4800 font "cmunrm" 70
+#set output "testdips_arrow_10.png"
+
+set view equal xyz
+
+#set samples 600
+#set term png size 6400,4800 font "cmunrm" 70
+#set output "testdips_arrow_10.png"
+
+set view equal xyz
+
+#set samples 600
+#set term png size 6400,4800 font "cmunrm" 70
+#set output "testdips_arrow_10.png"
+
+set view equal xyz
+
+#set samples 600
+#set term png size 6400,4800 font "cmunrm" 70
+#set output "testdips_arrow_10.png"
+
+set view equal xyz
+
+#set samples 600
+#set term png size 6400,4800 font "cmunrm" 70
+#set output "testdips_arrow_10.png"
+
+set view equal xyz
+
+#set samples 600
+#set term png size 6400,4800 font "cmunrm" 70
+#set output "testdips_arrow_10.png"
+
+set view equal xyz
+
+#set samples 600
+#set term png size 6400,4800 font "cmunrm" 70
+#set output "testdips_arrow_10.png"
+
+set view equal xyz
+
+#set samples 600
+#set term png size 6400,4800 font "cmunrm" 70
+#set output "testdips_arrow_10.png"
+
+set view equal xyz
+
+#set samples 600
+#set term png size 6400,4800 font "cmunrm" 70
+#set output "testdips_arrow_10.png"
+
+set view equal xyz
+
+#set samples 600
+#set term png size 6400,4800 font "cmunrm" 70
+#set output "testdips_arrow_10.png"
+
+set view equal xyz
+
+#set samples 600
+#set term png size 6400,4800 font "cmunrm" 70
+#set output "testdips_arrow_10.png"
+
+set view equal xyz
+
+#set samples 600
+#set term png size 6400,4800 font "cmunrm" 70
+#set output "testdips_arrow_10.png"
+
+set view equal xyz
+
+#set samples 600
+#set term png size 6400,4800 font "cmunrm" 70
+#set output "testdips_arrow_10.png"
+
+set view equal xyz
+
+#set samples 600
+#set term png size 6400,4800 font "cmunrm" 70
+#set output "testdips_arrow_10.png"
+
+set view equal xyz
+
+#set samples 600
+#set term png size 6400,4800 font "cmunrm" 70
+#set output "testdips_arrow_10.png"
+
+set view equal xyz
+
+#set samples 600
+#set term png size 6400,4800 font "cmunrm" 70
+#set output "testdips_arrow_10.png"
+
+set view equal xyz
+
+#set samples 600
+#set term png size 6400,4800 font "cmunrm" 70
+#set output "testdips_arrow_10.png"
+
+set view equal xyz
+
+#set samples 600
+#set term png size 6400,4800 font "cmunrm" 70
+#set output "testdips_arrow_10.png"
+
+set view equal xyz
+
+#set samples 600
+#set term png size 6400,4800 font "cmunrm" 70
+#set output "testdips_arrow_10.png"
+
+set view equal xyz
+
+#set samples 600
+#set term png size 6400,4800 font "cmunrm" 70
+#set output "testdips_arrow_10.png"
+
+set view equal xyz
+
+#set samples 600
+#set term png size 6400,4800 font "cmunrm" 70
+#set output "testdips_arrow_10.png"
+
+set view equal xyz
+
+#set samples 600
+#set term png size 6400,4800 font "cmunrm" 70
+#set output "testdips_arrow_10.png"
+
+set view equal xyz
+
+#set samples 600
+#set term png size 6400,4800 font "cmunrm" 70
+#set output "testdips_arrow_10.png"
+
+set view equal xyz
+
+#set samples 600
+#set term png size 6400,4800 font "cmunrm" 70
+#set output "testdips_arrow_10.png"
+
+set view equal xyz
+
+#set samples 600
+#set term png size 6400,4800 font "cmunrm" 70
+#set output "testdips_arrow_10.png"
+
+set view equal xyz
+
+#set samples 600
+#set term png size 6400,4800 font "cmunrm" 70
+#set output "testdips_arrow_10.png"
+
+set view equal xyz
+
+#set samples 600
+#set term png size 6400,4800 font "cmunrm" 70
+#set output "testdips_arrow_10.png"
+
+set view equal xyz
+
+#set samples 600
+#set term png size 6400,4800 font "cmunrm" 70
+#set output "testdips_arrow_10.png"
+
+set view equal xyz
+
+#set samples 600
+#set term png size 6400,4800 font "cmunrm" 70
+#set output "testdips_arrow_10.png"
+
+set view equal xyz
+
+#set samples 600
+#set term png size 6400,4800 font "cmunrm" 70
+#set output "testdips_arrow_10.png"
+
+set view equal xyz
+
+#set samples 600
+#set term png size 6400,4800 font "cmunrm" 70
+#set output "testdips_arrow_10.png"
+
+set view equal xyz
+
+#set samples 600
+#set term png size 6400,4800 font "cmunrm" 70
+#set output "testdips_arrow_10.png"
+
+set view equal xyz
+
+#set samples 600
+#set term png size 6400,4800 font "cmunrm" 70
+#set output "testdips_arrow_10.png"
+
+set view equal xyz
+
+#set samples 600
+#set term png size 6400,4800 font "cmunrm" 70
+#set output "testdips_arrow_10.png"
+
+set view equal xyz
+
+#set samples 600
+#set term png size 6400,4800 font "cmunrm" 70
+#set output "testdips_arrow_10.png"
+
+set view equal xyz
+
+#set samples 600
+#set term png size 6400,4800 font "cmunrm" 70
+#set output "testdips_arrow_10.png"
+
+set view equal xyz
+
+#set samples 600
+#set term png size 6400,4800 font "cmunrm" 70
+#set output "testdips_arrow_10.png"
+
+set view equal xyz
+
+#set samples 600
+#set term png size 6400,4800 font "cmunrm" 70
+#set output "testdips_arrow_10.png"
+
+set view equal xyz
+
+#set samples 600
+#set term png size 6400,4800 font "cmunrm" 70
+#set output "testdips_arrow_10.png"
+
+set view equal xyz
+
+#set samples 600
+#set term png size 6400,4800 font "cmunrm" 70
+#set output "testdips_arrow_10.png"
+
+set view equal xyz
+
+#set samples 600
+#set term png size 6400,4800 font "cmunrm" 70
+#set output "testdips_arrow_10.png"
+
+set view equal xyz
+
+#set samples 600
+#set term png size 6400,4800 font "cmunrm" 70
+#set output "testdips_arrow_10.png"
+
+set view equal xyz
+
+#set samples 600
+#set term png size 6400,4800 font "cmunrm" 70
+#set output "testdips_arrow_10.png"
+
+set view equal xyz
+
+set arrow 1 from .20671250000000000000,.21809950000000000000,.21809950000000000000 to -.20671250000000000000,-.21809950000000000000,-.21809950000000000000 as 3 front
+set arrow 2 from 1.15679000000000000000,.35327350000000000000,.35327350000000000000 to .84321000000000000000,-.35327350000000000000,-.35327350000000000000 as 3 front
+set arrow 3 from .41594450000000000000,.43221850000000000000,1.88972610000000000000 to -.41594450000000000000,-.43221850000000000000,1.88972610000000000000 as 3 front
+set arrow 4 from 1.43083300000000000000,.94250100000000000000,1.88972610000000000000 to .56916700000000000000,-.94250100000000000000,1.88972610000000000000 as 3 front
+set arrow 5 from .20671250000000000000,.21809950000000000000,3.56135270000000000000 to -.20671250000000000000,-.21809950000000000000,3.99755170000000000000 as 3 front
+set arrow 6 from 1.15679000000000000000,.35327350000000000000,3.42617870000000000000 to .84321000000000000000,-.35327350000000000000,4.13272570000000000000 as 3 front
+set arrow 7 from .41594450000000000000,1.88972610000000000000,.43221850000000000000 to -.41594450000000000000,1.88972610000000000000,-.43221850000000000000 as 3 front
+set arrow 8 from 1.43083300000000000000,1.88972610000000000000,.94250100000000000000 to .56916700000000000000,1.88972610000000000000,-.94250100000000000000 as 3 front
+set arrow 9 from 1.31502550000000000000,1.88972610000000000000,1.88972610000000000000 to -1.31502550000000000000,1.88972610000000000000,1.88972610000000000000 as 3 front
+set arrow 10 from 7.24132200000000000000,1.88972610000000000000,1.88972610000000000000 to -5.24132200000000000000,1.88972610000000000000,1.88972610000000000000 as 3 front
+set arrow 11 from .41594450000000000000,1.88972610000000000000,3.34723370000000000000 to -.41594450000000000000,1.88972610000000000000,4.21167070000000000000 as 3 front
+set arrow 12 from 1.43083300000000000000,1.88972610000000000000,2.83695120000000000000 to .56916700000000000000,1.88972610000000000000,4.72195320000000000000 as 3 front
+set arrow 13 from .20671250000000000000,3.56135270000000000000,.21809950000000000000 to -.20671250000000000000,3.99755170000000000000,-.21809950000000000000 as 3 front
+set arrow 14 from 1.15679000000000000000,3.42617870000000000000,.35327350000000000000 to .84321000000000000000,4.13272570000000000000,-.35327350000000000000 as 3 front
+set arrow 15 from .41594450000000000000,3.34723370000000000000,1.88972610000000000000 to -.41594450000000000000,4.21167070000000000000,1.88972610000000000000 as 3 front
+set arrow 16 from 1.43083300000000000000,2.83695120000000000000,1.88972610000000000000 to .56916700000000000000,4.72195320000000000000,1.88972610000000000000 as 3 front
+set arrow 17 from .20671250000000000000,3.56135270000000000000,3.56135270000000000000 to -.20671250000000000000,3.99755170000000000000,3.99755170000000000000 as 3 front
+set arrow 18 from 1.15679000000000000000,3.42617870000000000000,3.42617870000000000000 to .84321000000000000000,4.13272570000000000000,4.13272570000000000000 as 3 front
+set arrow 19 from 1.88286660000000000000,.41696700000000000000,.41696700000000000000 to 1.89658560000000000000,-.41696700000000000000,-.41696700000000000000 as 3 front
+set arrow 20 from 2.70909860000000000000,.33524400000000000000,.33524400000000000000 to 3.07035360000000000000,-.33524400000000000000,-.33524400000000000000 as 3 front
+set arrow 21 from 1.88103710000000000000,1.28922350000000000000,1.88972610000000000000 to 1.89841510000000000000,-1.28922350000000000000,1.88972610000000000000 as 3 front
+set arrow 22 from 2.42577610000000000000,.86897500000000000000,1.88972610000000000000 to 3.35367610000000000000,-.86897500000000000000,1.88972610000000000000 as 3 front
+set arrow 23 from 1.88286660000000000000,.41696700000000000000,3.36248520000000000000 to 1.89658560000000000000,-.41696700000000000000,4.19641920000000000000 as 3 front
+set arrow 24 from 2.70909860000000000000,.33524400000000000000,3.44420820000000000000 to 3.07035360000000000000,-.33524400000000000000,4.11469620000000000000 as 3 front
+set arrow 25 from 1.88103710000000000000,1.88972610000000000000,1.28922350000000000000 to 1.89841510000000000000,1.88972610000000000000,-1.28922350000000000000 as 3 front
+set arrow 26 from 2.42577610000000000000,1.88972610000000000000,.86897500000000000000 to 3.35367610000000000000,1.88972610000000000000,-.86897500000000000000 as 3 front
+set arrow 27 from 1.88567660000000000000,1.88972610000000000000,1.88972610000000000000 to 1.89377560000000000000,1.88972610000000000000,1.88972610000000000000 as 3 front
+set arrow 28 from -2.04306690000000000000,1.88972610000000000000,1.88972610000000000000 to 7.82251910000000000000,1.88972610000000000000,1.88972610000000000000 as 3 front
+set arrow 29 from 1.88103710000000000000,1.88972610000000000000,2.49022870000000000000 to 1.89841510000000000000,1.88972610000000000000,5.06867570000000000000 as 3 front
+set arrow 30 from 2.42577610000000000000,1.88972610000000000000,2.91047720000000000000 to 3.35367610000000000000,1.88972610000000000000,4.64842720000000000000 as 3 front
+set arrow 31 from 1.88286660000000000000,3.36248520000000000000,.41696700000000000000 to 1.89658560000000000000,4.19641920000000000000,-.41696700000000000000 as 3 front
+set arrow 32 from 2.70909860000000000000,3.44420820000000000000,.33524400000000000000 to 3.07035360000000000000,4.11469620000000000000,-.33524400000000000000 as 3 front
+set arrow 33 from 1.88103710000000000000,2.49022870000000000000,1.88972610000000000000 to 1.89841510000000000000,5.06867570000000000000,1.88972610000000000000 as 3 front
+set arrow 34 from 2.42577610000000000000,2.91047720000000000000,1.88972610000000000000 to 3.35367610000000000000,4.64842720000000000000,1.88972610000000000000 as 3 front
+set arrow 35 from 1.88286660000000000000,3.36248520000000000000,3.36248520000000000000 to 1.89658560000000000000,4.19641920000000000000,4.19641920000000000000 as 3 front
+set arrow 36 from 2.70909860000000000000,3.44420820000000000000,3.44420820000000000000 to 3.07035360000000000000,4.11469620000000000000,4.11469620000000000000 as 3 front
+set arrow 37 from 3.56651020000000000000,.21337850000000000000,.21337850000000000000 to 3.99239420000000000000,-.21337850000000000000,-.21337850000000000000 as 3 front
+set arrow 38 from 4.60550430000000000000,.11636800000000000000,.11636800000000000000 to 4.95340030000000000000,-.11636800000000000000,-.11636800000000000000 as 3 front
+set arrow 39 from 3.35634220000000000000,.42380100000000000000,1.88972610000000000000 to 4.20256220000000000000,-.42380100000000000000,1.88972610000000000000 as 3 front
+set arrow 40 from 4.50359680000000000000,.18371500000000000000,1.88972610000000000000 to 5.05530780000000000000,-.18371500000000000000,1.88972610000000000000 as 3 front
+set arrow 41 from 3.56651020000000000000,.21337850000000000000,3.56607370000000000000 to 3.99239420000000000000,-.21337850000000000000,3.99283070000000000000 as 3 front
+set arrow 42 from 4.60550430000000000000,.11636800000000000000,3.66308420000000000000 to 4.95340030000000000000,-.11636800000000000000,3.89582020000000000000 as 3 front
+set arrow 43 from 3.35634220000000000000,1.88972610000000000000,.42380100000000000000 to 4.20256220000000000000,1.88972610000000000000,-.42380100000000000000 as 3 front
+set arrow 44 from 4.50359680000000000000,1.88972610000000000000,.18371500000000000000 to 5.05530780000000000000,1.88972610000000000000,-.18371500000000000000 as 3 front
+set arrow 45 from 2.46043770000000000000,1.88972610000000000000,1.88972610000000000000 to 5.09846670000000000000,1.88972610000000000000,1.88972610000000000000 as 3 front
+set arrow 46 from 4.26622030000000000000,1.88972610000000000000,1.88972610000000000000 to 5.29268430000000000000,1.88972610000000000000,1.88972610000000000000 as 3 front
+set arrow 47 from 3.35634220000000000000,1.88972610000000000000,3.35565120000000000000 to 4.20256220000000000000,1.88972610000000000000,4.20325320000000000000 as 3 front
+set arrow 48 from 4.50359680000000000000,1.88972610000000000000,3.59573720000000000000 to 5.05530780000000000000,1.88972610000000000000,3.96316720000000000000 as 3 front
+set arrow 49 from 3.56651020000000000000,3.56607370000000000000,.21337850000000000000 to 3.99239420000000000000,3.99283070000000000000,-.21337850000000000000 as 3 front
+set arrow 50 from 4.60550430000000000000,3.66308420000000000000,.11636800000000000000 to 4.95340030000000000000,3.89582020000000000000,-.11636800000000000000 as 3 front
+set arrow 51 from 3.35634220000000000000,3.35565120000000000000,1.88972610000000000000 to 4.20256220000000000000,4.20325320000000000000,1.88972610000000000000 as 3 front
+set arrow 52 from 4.50359680000000000000,3.59573720000000000000,1.88972610000000000000 to 5.05530780000000000000,3.96316720000000000000,1.88972610000000000000 as 3 front
+set arrow 53 from 3.56651020000000000000,3.56607370000000000000,3.56607370000000000000 to 3.99239420000000000000,3.99283070000000000000,3.99283070000000000000 as 3 front
+set arrow 54 from 4.60550430000000000000,3.66308420000000000000,3.66308420000000000000 to 4.95340030000000000000,3.89582020000000000000,3.89582020000000000000 as 3 front
+splot "<echo '0 0 0'" with points ls 1
+splot "<echo '0.0000000 0.0000000 0.0000000'" with points ls 1, "<echo '1.0000000 0.0000000 0.0000000'" with points ls 1, "<echo '0.0000000 0.0000000 1.8897261'" with points ls 1, "<echo '1.0000000 0.0000000 1.8897261'" with points ls 1, "<echo '0.0000000 0.0000000 3.7794522'" with points ls 1, "<echo '1.0000000 0.0000000 3.7794522'" with points ls 1, "<echo '0.0000000 1.8897261 0.0000000'" with points ls 1, "<echo '1.0000000 1.8897261 0.0000000'" with points ls 1, "<echo '0.0000000 1.8897261 1.8897261'" with points ls 1, "<echo '1.0000000 1.8897261 1.8897261'" with points ls 1, "<echo '0.0000000 1.8897261 3.7794522'" with points ls 1, "<echo '1.0000000 1.8897261 3.7794522'" with points ls 1, "<echo '0.0000000 3.7794522 0.0000000'" with points ls 1, "<echo '1.0000000 3.7794522 0.0000000'" with points ls 1, "<echo '0.0000000 3.7794522 1.8897261'" with points ls 1, "<echo '1.0000000 3.7794522 1.8897261'" with points ls 1, "<echo '0.0000000 3.7794522 3.7794522'" with points ls 1, "<echo '1.0000000 3.7794522 3.7794522'" with points ls 1, "<echo '1.8897261 0.0000000 0.0000000'" with points ls 1, "<echo '2.8897261 0.0000000 0.0000000'" with points ls 1, "<echo '1.8897261 0.0000000 1.8897261'" with points ls 1, "<echo '2.8897261 0.0000000 1.8897261'" with points ls 1, "<echo '1.8897261 0.0000000 3.7794522'" with points ls 1, "<echo '2.8897261 0.0000000 3.7794522'" with points ls 1, "<echo '1.8897261 1.8897261 0.0000000'" with points ls 1, "<echo '2.8897261 1.8897261 0.0000000'" with points ls 1, "<echo '1.8897261 1.8897261 1.8897261'" with points ls 1, "<echo '2.8897261 1.8897261 1.8897261'" with points ls 1, "<echo '1.8897261 1.8897261 3.7794522'" with points ls 1, "<echo '2.8897261 1.8897261 3.7794522'" with points ls 1, "<echo '1.8897261 3.7794522 0.0000000'" with points ls 1, "<echo '2.8897261 3.7794522 0.0000000'" with points ls 1, "<echo '1.8897261 3.7794522 1.8897261'" with points ls 1, "<echo '2.8897261 3.7794522 1.8897261'" with points ls 1, "<echo '1.8897261 3.7794522 3.7794522'" with points ls 1, "<echo '2.8897261 3.7794522 3.7794522'" with points ls 1, "<echo '3.7794522 0.0000000 0.0000000'" with points ls 1, "<echo '4.7794523 0.0000000 0.0000000'" with points ls 1, "<echo '3.7794522 0.0000000 1.8897261'" with points ls 1, "<echo '4.7794523 0.0000000 1.8897261'" with points ls 1, "<echo '3.7794522 0.0000000 3.7794522'" with points ls 1, "<echo '4.7794523 0.0000000 3.7794522'" with points ls 1, "<echo '3.7794522 1.8897261 0.0000000'" with points ls 1, "<echo '4.7794523 1.8897261 0.0000000'" with points ls 1, "<echo '3.7794522 1.8897261 1.8897261'" with points ls 1, "<echo '4.7794523 1.8897261 1.8897261'" with points ls 1, "<echo '3.7794522 1.8897261 3.7794522'" with points ls 1, "<echo '4.7794523 1.8897261 3.7794522'" with points ls 1, "<echo '3.7794522 3.7794522 0.0000000'" with points ls 1, "<echo '4.7794523 3.7794522 0.0000000'" with points ls 1, "<echo '3.7794522 3.7794522 1.8897261'" with points ls 1, "<echo '4.7794523 3.7794522 1.8897261'" with points ls 1, "<echo '3.7794522 3.7794522 3.7794522'" with points ls 1, "<echo '4.7794523 3.7794522 3.7794522'" with points ls 1
+#Make background black
+#set object 1 rectangle from screen 0,0 to screen 1,1 fillcolor rgb"black" behind
+set view equal xyz
+unset key
+replot
+set terminal png font "cmunrm" 70
+set view 0,0,1
+set label 1 'frame 1, a=0, b=0' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_001.png"
+replot
+unset label 1
+set view 1,0,1
+set label 1 'frame 2, a=1, b=0' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_002.png"
+replot
+unset label 1
+set view 2,0,1
+set label 1 'frame 3, a=2, b=0' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_003.png"
+replot
+unset label 1
+set view 3,0,1
+set label 1 'frame 4, a=3, b=0' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_004.png"
+replot
+unset label 1
+set view 4,0,1
+set label 1 'frame 5, a=4, b=0' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_005.png"
+replot
+unset label 1
+set view 5,0,1
+set label 1 'frame 6, a=5, b=0' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_006.png"
+replot
+unset label 1
+set view 6,0,1
+set label 1 'frame 7, a=6, b=0' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_007.png"
+replot
+unset label 1
+set view 7,0,1
+set label 1 'frame 8, a=7, b=0' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_008.png"
+replot
+unset label 1
+set view 8,0,1
+set label 1 'frame 9, a=8, b=0' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_009.png"
+replot
+unset label 1
+set view 9,0,1
+set label 1 'frame 10, a=9, b=0' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_010.png"
+replot
+unset label 1
+set view 10,0,1
+set label 1 'frame 11, a=10, b=0' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_011.png"
+replot
+unset label 1
+set view 11,0,1
+set label 1 'frame 12, a=11, b=0' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_012.png"
+replot
+unset label 1
+set view 12,0,1
+set label 1 'frame 13, a=12, b=0' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_013.png"
+replot
+unset label 1
+set view 13,0,1
+set label 1 'frame 14, a=13, b=0' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_014.png"
+replot
+unset label 1
+set view 14,0,1
+set label 1 'frame 15, a=14, b=0' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_015.png"
+replot
+unset label 1
+set view 15,0,1
+set label 1 'frame 16, a=15, b=0' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_016.png"
+replot
+unset label 1
+set view 16,0,1
+set label 1 'frame 17, a=16, b=0' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_017.png"
+replot
+unset label 1
+set view 17,0,1
+set label 1 'frame 18, a=17, b=0' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_018.png"
+replot
+unset label 1
+set view 18,0,1
+set label 1 'frame 19, a=18, b=0' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_019.png"
+replot
+unset label 1
+set view 19,0,1
+set label 1 'frame 20, a=19, b=0' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_020.png"
+replot
+unset label 1
+set view 20,0,1
+set label 1 'frame 21, a=20, b=0' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_021.png"
+replot
+unset label 1
+set view 21,0,1
+set label 1 'frame 22, a=21, b=0' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_022.png"
+replot
+unset label 1
+set view 22,0,1
+set label 1 'frame 23, a=22, b=0' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_023.png"
+replot
+unset label 1
+set view 23,0,1
+set label 1 'frame 24, a=23, b=0' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_024.png"
+replot
+unset label 1
+set view 24,0,1
+set label 1 'frame 25, a=24, b=0' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_025.png"
+replot
+unset label 1
+set view 25,0,1
+set label 1 'frame 26, a=25, b=0' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_026.png"
+replot
+unset label 1
+set view 26,0,1
+set label 1 'frame 27, a=26, b=0' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_027.png"
+replot
+unset label 1
+set view 27,0,1
+set label 1 'frame 28, a=27, b=0' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_028.png"
+replot
+unset label 1
+set view 28,0,1
+set label 1 'frame 29, a=28, b=0' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_029.png"
+replot
+unset label 1
+set view 29,0,1
+set label 1 'frame 30, a=29, b=0' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_030.png"
+replot
+unset label 1
+set view 30,0,1
+set label 1 'frame 31, a=30, b=0' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_031.png"
+replot
+unset label 1
+set view 31,0,1
+set label 1 'frame 32, a=31, b=0' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_032.png"
+replot
+unset label 1
+set view 32,0,1
+set label 1 'frame 33, a=32, b=0' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_033.png"
+replot
+unset label 1
+set view 33,0,1
+set label 1 'frame 34, a=33, b=0' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_034.png"
+replot
+unset label 1
+set view 34,0,1
+set label 1 'frame 35, a=34, b=0' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_035.png"
+replot
+unset label 1
+set view 35,0,1
+set label 1 'frame 36, a=35, b=0' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_036.png"
+replot
+unset label 1
+set view 36,0,1
+set label 1 'frame 37, a=36, b=0' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_037.png"
+replot
+unset label 1
+set view 37,0,1
+set label 1 'frame 38, a=37, b=0' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_038.png"
+replot
+unset label 1
+set view 38,0,1
+set label 1 'frame 39, a=38, b=0' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_039.png"
+replot
+unset label 1
+set view 39,0,1
+set label 1 'frame 40, a=39, b=0' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_040.png"
+replot
+unset label 1
+set view 40,0,1
+set label 1 'frame 41, a=40, b=0' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_041.png"
+replot
+unset label 1
+set view 41,0,1
+set label 1 'frame 42, a=41, b=0' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_042.png"
+replot
+unset label 1
+set view 42,0,1
+set label 1 'frame 43, a=42, b=0' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_043.png"
+replot
+unset label 1
+set view 43,0,1
+set label 1 'frame 44, a=43, b=0' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_044.png"
+replot
+unset label 1
+set view 44,0,1
+set label 1 'frame 45, a=44, b=0' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_045.png"
+replot
+unset label 1
+set view 45,0,1
+set label 1 'frame 46, a=45, b=0' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_046.png"
+replot
+unset label 1
+set view 46,0,1
+set label 1 'frame 47, a=46, b=0' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_047.png"
+replot
+unset label 1
+set view 47,0,1
+set label 1 'frame 48, a=47, b=0' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_048.png"
+replot
+unset label 1
+set view 48,0,1
+set label 1 'frame 49, a=48, b=0' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_049.png"
+replot
+unset label 1
+set view 49,0,1
+set label 1 'frame 50, a=49, b=0' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_050.png"
+replot
+unset label 1
+set view 50,0,1
+set label 1 'frame 51, a=50, b=0' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_051.png"
+replot
+unset label 1
+set view 51,0,1
+set label 1 'frame 52, a=51, b=0' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_052.png"
+replot
+unset label 1
+set view 52,0,1
+set label 1 'frame 53, a=52, b=0' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_053.png"
+replot
+unset label 1
+set view 53,0,1
+set label 1 'frame 54, a=53, b=0' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_054.png"
+replot
+unset label 1
+set view 54,0,1
+set label 1 'frame 55, a=54, b=0' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_055.png"
+replot
+unset label 1
+set view 55,0,1
+set label 1 'frame 56, a=55, b=0' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_056.png"
+replot
+unset label 1
+set view 56,0,1
+set label 1 'frame 57, a=56, b=0' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_057.png"
+replot
+unset label 1
+set view 57,0,1
+set label 1 'frame 58, a=57, b=0' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_058.png"
+replot
+unset label 1
+set view 58,0,1
+set label 1 'frame 59, a=58, b=0' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_059.png"
+replot
+unset label 1
+set view 59,0,1
+set label 1 'frame 60, a=59, b=0' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_060.png"
+replot
+unset label 1
+set view 60,0,1
+set label 1 'frame 61, a=60, b=0' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_061.png"
+replot
+unset label 1
+set view 61,0,1
+set label 1 'frame 62, a=61, b=0' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_062.png"
+replot
+unset label 1
+set view 62,0,1
+set label 1 'frame 63, a=62, b=0' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_063.png"
+replot
+unset label 1
+set view 63,0,1
+set label 1 'frame 64, a=63, b=0' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_064.png"
+replot
+unset label 1
+set view 64,0,1
+set label 1 'frame 65, a=64, b=0' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_065.png"
+replot
+unset label 1
+set view 65,0,1
+set label 1 'frame 66, a=65, b=0' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_066.png"
+replot
+unset label 1
+set view 66,0,1
+set label 1 'frame 67, a=66, b=0' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_067.png"
+replot
+unset label 1
+set view 67,0,1
+set label 1 'frame 68, a=67, b=0' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_068.png"
+replot
+unset label 1
+set view 68,0,1
+set label 1 'frame 69, a=68, b=0' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_069.png"
+replot
+unset label 1
+set view 69,0,1
+set label 1 'frame 70, a=69, b=0' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_070.png"
+replot
+unset label 1
+set view 70,0,1
+set label 1 'frame 71, a=70, b=0' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_071.png"
+replot
+unset label 1
+set view 71,0,1
+set label 1 'frame 72, a=71, b=0' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_072.png"
+replot
+unset label 1
+set view 72,0,1
+set label 1 'frame 73, a=72, b=0' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_073.png"
+replot
+unset label 1
+set view 73,0,1
+set label 1 'frame 74, a=73, b=0' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_074.png"
+replot
+unset label 1
+set view 74,0,1
+set label 1 'frame 75, a=74, b=0' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_075.png"
+replot
+unset label 1
+set view 75,0,1
+set label 1 'frame 76, a=75, b=0' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_076.png"
+replot
+unset label 1
+set view 76,0,1
+set label 1 'frame 77, a=76, b=0' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_077.png"
+replot
+unset label 1
+set view 77,0,1
+set label 1 'frame 78, a=77, b=0' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_078.png"
+replot
+unset label 1
+set view 78,0,1
+set label 1 'frame 79, a=78, b=0' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_079.png"
+replot
+unset label 1
+set view 79,0,1
+set label 1 'frame 80, a=79, b=0' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_080.png"
+replot
+unset label 1
+set view 80,0,1
+set label 1 'frame 81, a=80, b=0' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_081.png"
+replot
+unset label 1
+set view 81,0,1
+set label 1 'frame 82, a=81, b=0' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_082.png"
+replot
+unset label 1
+set view 82,0,1
+set label 1 'frame 83, a=82, b=0' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_083.png"
+replot
+unset label 1
+set view 83,0,1
+set label 1 'frame 84, a=83, b=0' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_084.png"
+replot
+unset label 1
+set view 84,0,1
+set label 1 'frame 85, a=84, b=0' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_085.png"
+replot
+unset label 1
+set view 85,0,1
+set label 1 'frame 86, a=85, b=0' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_086.png"
+replot
+unset label 1
+set view 86,0,1
+set label 1 'frame 87, a=86, b=0' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_087.png"
+replot
+unset label 1
+set view 87,0,1
+set label 1 'frame 88, a=87, b=0' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_088.png"
+replot
+unset label 1
+set view 88,0,1
+set label 1 'frame 89, a=88, b=0' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_089.png"
+replot
+unset label 1
+set view 89,0,1
+set label 1 'frame 90, a=89, b=0' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_090.png"
+replot
+unset label 1
+set view 90,0,1
+set label 1 'frame 91, a=90, b=0' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_091.png"
+replot
+unset label 1
+set view 90,1,1
+set label 1 'frame 92, a=90, b=1' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_092.png"
+replot
+unset label 1
+set view 90,2,1
+set label 1 'frame 93, a=90, b=2' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_093.png"
+replot
+unset label 1
+set view 90,3,1
+set label 1 'frame 94, a=90, b=3' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_094.png"
+replot
+unset label 1
+set view 90,4,1
+set label 1 'frame 95, a=90, b=4' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_095.png"
+replot
+unset label 1
+set view 90,5,1
+set label 1 'frame 96, a=90, b=5' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_096.png"
+replot
+unset label 1
+set view 90,6,1
+set label 1 'frame 97, a=90, b=6' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_097.png"
+replot
+unset label 1
+set view 90,7,1
+set label 1 'frame 98, a=90, b=7' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_098.png"
+replot
+unset label 1
+set view 90,8,1
+set label 1 'frame 99, a=90, b=8' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_099.png"
+replot
+unset label 1
+set view 90,9,1
+set label 1 'frame 100, a=90, b=9' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_100.png"
+replot
+unset label 1
+set view 90,10,1
+set label 1 'frame 101, a=90, b=10' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_101.png"
+replot
+unset label 1
+set view 90,11,1
+set label 1 'frame 102, a=90, b=11' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_102.png"
+replot
+unset label 1
+set view 90,12,1
+set label 1 'frame 103, a=90, b=12' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_103.png"
+replot
+unset label 1
+set view 90,13,1
+set label 1 'frame 104, a=90, b=13' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_104.png"
+replot
+unset label 1
+set view 90,14,1
+set label 1 'frame 105, a=90, b=14' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_105.png"
+replot
+unset label 1
+set view 90,15,1
+set label 1 'frame 106, a=90, b=15' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_106.png"
+replot
+unset label 1
+set view 90,16,1
+set label 1 'frame 107, a=90, b=16' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_107.png"
+replot
+unset label 1
+set view 90,17,1
+set label 1 'frame 108, a=90, b=17' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_108.png"
+replot
+unset label 1
+set view 90,18,1
+set label 1 'frame 109, a=90, b=18' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_109.png"
+replot
+unset label 1
+set view 90,19,1
+set label 1 'frame 110, a=90, b=19' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_110.png"
+replot
+unset label 1
+set view 90,20,1
+set label 1 'frame 111, a=90, b=20' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_111.png"
+replot
+unset label 1
+set view 90,21,1
+set label 1 'frame 112, a=90, b=21' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_112.png"
+replot
+unset label 1
+set view 90,22,1
+set label 1 'frame 113, a=90, b=22' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_113.png"
+replot
+unset label 1
+set view 90,23,1
+set label 1 'frame 114, a=90, b=23' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_114.png"
+replot
+unset label 1
+set view 90,24,1
+set label 1 'frame 115, a=90, b=24' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_115.png"
+replot
+unset label 1
+set view 90,25,1
+set label 1 'frame 116, a=90, b=25' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_116.png"
+replot
+unset label 1
+set view 90,26,1
+set label 1 'frame 117, a=90, b=26' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_117.png"
+replot
+unset label 1
+set view 90,27,1
+set label 1 'frame 118, a=90, b=27' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_118.png"
+replot
+unset label 1
+set view 90,28,1
+set label 1 'frame 119, a=90, b=28' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_119.png"
+replot
+unset label 1
+set view 90,29,1
+set label 1 'frame 120, a=90, b=29' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_120.png"
+replot
+unset label 1
+set view 90,30,1
+set label 1 'frame 121, a=90, b=30' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_121.png"
+replot
+unset label 1
+set view 90,31,1
+set label 1 'frame 122, a=90, b=31' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_122.png"
+replot
+unset label 1
+set view 90,32,1
+set label 1 'frame 123, a=90, b=32' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_123.png"
+replot
+unset label 1
+set view 90,33,1
+set label 1 'frame 124, a=90, b=33' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_124.png"
+replot
+unset label 1
+set view 90,34,1
+set label 1 'frame 125, a=90, b=34' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_125.png"
+replot
+unset label 1
+set view 90,35,1
+set label 1 'frame 126, a=90, b=35' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_126.png"
+replot
+unset label 1
+set view 90,36,1
+set label 1 'frame 127, a=90, b=36' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_127.png"
+replot
+unset label 1
+set view 90,37,1
+set label 1 'frame 128, a=90, b=37' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_128.png"
+replot
+unset label 1
+set view 90,38,1
+set label 1 'frame 129, a=90, b=38' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_129.png"
+replot
+unset label 1
+set view 90,39,1
+set label 1 'frame 130, a=90, b=39' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_130.png"
+replot
+unset label 1
+set view 90,40,1
+set label 1 'frame 131, a=90, b=40' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_131.png"
+replot
+unset label 1
+set view 90,41,1
+set label 1 'frame 132, a=90, b=41' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_132.png"
+replot
+unset label 1
+set view 90,42,1
+set label 1 'frame 133, a=90, b=42' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_133.png"
+replot
+unset label 1
+set view 90,43,1
+set label 1 'frame 134, a=90, b=43' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_134.png"
+replot
+unset label 1
+set view 90,44,1
+set label 1 'frame 135, a=90, b=44' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_135.png"
+replot
+unset label 1
+set view 90,45,1
+set label 1 'frame 136, a=90, b=45' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_136.png"
+replot
+unset label 1
+set view 90,46,1
+set label 1 'frame 137, a=90, b=46' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_137.png"
+replot
+unset label 1
+set view 90,47,1
+set label 1 'frame 138, a=90, b=47' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_138.png"
+replot
+unset label 1
+set view 90,48,1
+set label 1 'frame 139, a=90, b=48' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_139.png"
+replot
+unset label 1
+set view 90,49,1
+set label 1 'frame 140, a=90, b=49' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_140.png"
+replot
+unset label 1
+set view 90,50,1
+set label 1 'frame 141, a=90, b=50' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_141.png"
+replot
+unset label 1
+set view 90,51,1
+set label 1 'frame 142, a=90, b=51' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_142.png"
+replot
+unset label 1
+set view 90,52,1
+set label 1 'frame 143, a=90, b=52' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_143.png"
+replot
+unset label 1
+set view 90,53,1
+set label 1 'frame 144, a=90, b=53' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_144.png"
+replot
+unset label 1
+set view 90,54,1
+set label 1 'frame 145, a=90, b=54' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_145.png"
+replot
+unset label 1
+set view 90,55,1
+set label 1 'frame 146, a=90, b=55' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_146.png"
+replot
+unset label 1
+set view 90,56,1
+set label 1 'frame 147, a=90, b=56' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_147.png"
+replot
+unset label 1
+set view 90,57,1
+set label 1 'frame 148, a=90, b=57' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_148.png"
+replot
+unset label 1
+set view 90,58,1
+set label 1 'frame 149, a=90, b=58' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_149.png"
+replot
+unset label 1
+set view 90,59,1
+set label 1 'frame 150, a=90, b=59' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_150.png"
+replot
+unset label 1
+set view 90,60,1
+set label 1 'frame 151, a=90, b=60' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_151.png"
+replot
+unset label 1
+set view 90,61,1
+set label 1 'frame 152, a=90, b=61' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_152.png"
+replot
+unset label 1
+set view 90,62,1
+set label 1 'frame 153, a=90, b=62' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_153.png"
+replot
+unset label 1
+set view 90,63,1
+set label 1 'frame 154, a=90, b=63' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_154.png"
+replot
+unset label 1
+set view 90,64,1
+set label 1 'frame 155, a=90, b=64' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_155.png"
+replot
+unset label 1
+set view 90,65,1
+set label 1 'frame 156, a=90, b=65' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_156.png"
+replot
+unset label 1
+set view 90,66,1
+set label 1 'frame 157, a=90, b=66' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_157.png"
+replot
+unset label 1
+set view 90,67,1
+set label 1 'frame 158, a=90, b=67' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_158.png"
+replot
+unset label 1
+set view 90,68,1
+set label 1 'frame 159, a=90, b=68' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_159.png"
+replot
+unset label 1
+set view 90,69,1
+set label 1 'frame 160, a=90, b=69' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_160.png"
+replot
+unset label 1
+set view 90,70,1
+set label 1 'frame 161, a=90, b=70' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_161.png"
+replot
+unset label 1
+set view 90,71,1
+set label 1 'frame 162, a=90, b=71' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_162.png"
+replot
+unset label 1
+set view 90,72,1
+set label 1 'frame 163, a=90, b=72' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_163.png"
+replot
+unset label 1
+set view 90,73,1
+set label 1 'frame 164, a=90, b=73' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_164.png"
+replot
+unset label 1
+set view 90,74,1
+set label 1 'frame 165, a=90, b=74' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_165.png"
+replot
+unset label 1
+set view 90,75,1
+set label 1 'frame 166, a=90, b=75' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_166.png"
+replot
+unset label 1
+set view 90,76,1
+set label 1 'frame 167, a=90, b=76' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_167.png"
+replot
+unset label 1
+set view 90,77,1
+set label 1 'frame 168, a=90, b=77' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_168.png"
+replot
+unset label 1
+set view 90,78,1
+set label 1 'frame 169, a=90, b=78' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_169.png"
+replot
+unset label 1
+set view 90,79,1
+set label 1 'frame 170, a=90, b=79' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_170.png"
+replot
+unset label 1
+set view 90,80,1
+set label 1 'frame 171, a=90, b=80' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_171.png"
+replot
+unset label 1
+set view 90,81,1
+set label 1 'frame 172, a=90, b=81' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_172.png"
+replot
+unset label 1
+set view 90,82,1
+set label 1 'frame 173, a=90, b=82' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_173.png"
+replot
+unset label 1
+set view 90,83,1
+set label 1 'frame 174, a=90, b=83' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_174.png"
+replot
+unset label 1
+set view 90,84,1
+set label 1 'frame 175, a=90, b=84' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_175.png"
+replot
+unset label 1
+set view 90,85,1
+set label 1 'frame 176, a=90, b=85' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_176.png"
+replot
+unset label 1
+set view 90,86,1
+set label 1 'frame 177, a=90, b=86' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_177.png"
+replot
+unset label 1
+set view 90,87,1
+set label 1 'frame 178, a=90, b=87' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_178.png"
+replot
+unset label 1
+set view 90,88,1
+set label 1 'frame 179, a=90, b=88' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_179.png"
+replot
+unset label 1
+set view 90,89,1
+set label 1 'frame 180, a=90, b=89' at screen 0.05, screen 0.05
+set output "video_dipoles_testdips_arrow_10_180.png"
+replot
+unset label 1

@@ -1,0 +1,2580 @@
+Fri, 18 Apr 2014 09:17:21 +0000
+TV:
+[[  1.88972612e+00   0.00000000e+00   0.00000000e+00]
+ [  1.15712352e-16   1.88972612e+00   0.00000000e+00]
+ [  1.15712352e-16   1.15712352e-16   1.88972612e+00]]
+TV[0,1,2] are the three translation vectors.
+name:  prot_neut mols_cen:  ['protontest.xyz', 'TEST_neutron_pos100.xyz']  mols_sur:  ['TEST_neutron_pos000.xyz', 'TEST_neutron_pos100.xyz']  TVs:  [[  1.88972612e+00   0.00000000e+00   0.00000000e+00]
+ [  1.15712352e-16   1.88972612e+00   0.00000000e+00]
+ [  1.15712352e-16   1.15712352e-16   1.88972612e+00]]
+type(mols_cen) <type 'list'>
+self._mols [[[[], [], [], [], [], []], [[], [], [], [], [], []], [[], [], [], [], [], []], [[], [], [], [], [], []], [[], [], [], [], [], []], [[], [], [], [], [], []]], [[[], [], [], [], [], []], [[], [], [], [], [], []], [[], [], [], [], [], []], [[], [], [], [], [], []], [[], [], [], [], [], []], [[], [], [], [], [], []]]]
+iabc 0 0 0 0
+empty
+iabc 1 0 0 0
+empty
+iabc 0 0 0 1
+empty
+iabc 1 0 0 1
+empty
+iabc 0 0 0 2
+empty
+iabc 1 0 0 2
+empty
+iabc 0 0 0 3
+empty
+iabc 1 0 0 3
+empty
+iabc 0 0 0 4
+empty
+iabc 1 0 0 4
+empty
+iabc 0 0 1 0
+empty
+iabc 1 0 1 0
+empty
+iabc 0 0 1 1
+empty
+iabc 1 0 1 1
+empty
+iabc 0 0 1 2
+empty
+iabc 1 0 1 2
+empty
+iabc 0 0 1 3
+empty
+iabc 1 0 1 3
+empty
+iabc 0 0 1 4
+empty
+iabc 1 0 1 4
+empty
+iabc 0 0 2 0
+empty
+iabc 1 0 2 0
+empty
+iabc 0 0 2 1
+empty
+iabc 1 0 2 1
+empty
+iabc 0 0 2 2
+Placing first ring Molecules: ['TEST_neutron_pos000.xyz', 'TEST_neutron_pos100.xyz']
+iabc 1 0 2 2
+Placing first ring Molecules: ['TEST_neutron_pos000.xyz', 'TEST_neutron_pos100.xyz']
+iabc 0 0 2 3
+empty
+iabc 1 0 2 3
+empty
+iabc 0 0 2 4
+empty
+iabc 1 0 2 4
+empty
+iabc 0 0 3 0
+empty
+iabc 1 0 3 0
+empty
+iabc 0 0 3 1
+empty
+iabc 1 0 3 1
+empty
+iabc 0 0 3 2
+empty
+iabc 1 0 3 2
+empty
+iabc 0 0 3 3
+empty
+iabc 1 0 3 3
+empty
+iabc 0 0 3 4
+empty
+iabc 1 0 3 4
+empty
+iabc 0 0 4 0
+empty
+iabc 1 0 4 0
+empty
+iabc 0 0 4 1
+empty
+iabc 1 0 4 1
+empty
+iabc 0 0 4 2
+empty
+iabc 1 0 4 2
+empty
+iabc 0 0 4 3
+empty
+iabc 1 0 4 3
+empty
+iabc 0 0 4 4
+empty
+iabc 1 0 4 4
+empty
+iabc 0 1 0 0
+empty
+iabc 1 1 0 0
+empty
+iabc 0 1 0 1
+empty
+iabc 1 1 0 1
+empty
+iabc 0 1 0 2
+empty
+iabc 1 1 0 2
+empty
+iabc 0 1 0 3
+empty
+iabc 1 1 0 3
+empty
+iabc 0 1 0 4
+empty
+iabc 1 1 0 4
+empty
+iabc 0 1 1 0
+empty
+iabc 1 1 1 0
+empty
+iabc 0 1 1 1
+empty
+iabc 1 1 1 1
+empty
+iabc 0 1 1 2
+Placing first ring Molecules: ['TEST_neutron_pos000.xyz', 'TEST_neutron_pos100.xyz']
+iabc 1 1 1 2
+Placing first ring Molecules: ['TEST_neutron_pos000.xyz', 'TEST_neutron_pos100.xyz']
+iabc 0 1 1 3
+empty
+iabc 1 1 1 3
+empty
+iabc 0 1 1 4
+empty
+iabc 1 1 1 4
+empty
+iabc 0 1 2 0
+empty
+iabc 1 1 2 0
+empty
+iabc 0 1 2 1
+Placing first ring Molecules: ['TEST_neutron_pos000.xyz', 'TEST_neutron_pos100.xyz']
+iabc 1 1 2 1
+Placing first ring Molecules: ['TEST_neutron_pos000.xyz', 'TEST_neutron_pos100.xyz']
+iabc 0 1 2 2
+Placing first ring Molecules: ['TEST_neutron_pos000.xyz', 'TEST_neutron_pos100.xyz']
+iabc 1 1 2 2
+Placing first ring Molecules: ['TEST_neutron_pos000.xyz', 'TEST_neutron_pos100.xyz']
+iabc 0 1 2 3
+Placing first ring Molecules: ['TEST_neutron_pos000.xyz', 'TEST_neutron_pos100.xyz']
+iabc 1 1 2 3
+Placing first ring Molecules: ['TEST_neutron_pos000.xyz', 'TEST_neutron_pos100.xyz']
+iabc 0 1 2 4
+empty
+iabc 1 1 2 4
+empty
+iabc 0 1 3 0
+empty
+iabc 1 1 3 0
+empty
+iabc 0 1 3 1
+empty
+iabc 1 1 3 1
+empty
+iabc 0 1 3 2
+Placing first ring Molecules: ['TEST_neutron_pos000.xyz', 'TEST_neutron_pos100.xyz']
+iabc 1 1 3 2
+Placing first ring Molecules: ['TEST_neutron_pos000.xyz', 'TEST_neutron_pos100.xyz']
+iabc 0 1 3 3
+empty
+iabc 1 1 3 3
+empty
+iabc 0 1 3 4
+empty
+iabc 1 1 3 4
+empty
+iabc 0 1 4 0
+empty
+iabc 1 1 4 0
+empty
+iabc 0 1 4 1
+empty
+iabc 1 1 4 1
+empty
+iabc 0 1 4 2
+empty
+iabc 1 1 4 2
+empty
+iabc 0 1 4 3
+empty
+iabc 1 1 4 3
+empty
+iabc 0 1 4 4
+empty
+iabc 1 1 4 4
+empty
+iabc 0 2 0 0
+empty
+iabc 1 2 0 0
+empty
+iabc 0 2 0 1
+empty
+iabc 1 2 0 1
+empty
+iabc 0 2 0 2
+Placing first ring Molecules: ['TEST_neutron_pos000.xyz', 'TEST_neutron_pos100.xyz']
+iabc 1 2 0 2
+Placing first ring Molecules: ['TEST_neutron_pos000.xyz', 'TEST_neutron_pos100.xyz']
+iabc 0 2 0 3
+empty
+iabc 1 2 0 3
+empty
+iabc 0 2 0 4
+empty
+iabc 1 2 0 4
+empty
+iabc 0 2 1 0
+empty
+iabc 1 2 1 0
+empty
+iabc 0 2 1 1
+Placing first ring Molecules: ['TEST_neutron_pos000.xyz', 'TEST_neutron_pos100.xyz']
+iabc 1 2 1 1
+Placing first ring Molecules: ['TEST_neutron_pos000.xyz', 'TEST_neutron_pos100.xyz']
+iabc 0 2 1 2
+Placing first ring Molecules: ['TEST_neutron_pos000.xyz', 'TEST_neutron_pos100.xyz']
+iabc 1 2 1 2
+Placing first ring Molecules: ['TEST_neutron_pos000.xyz', 'TEST_neutron_pos100.xyz']
+iabc 0 2 1 3
+Placing first ring Molecules: ['TEST_neutron_pos000.xyz', 'TEST_neutron_pos100.xyz']
+iabc 1 2 1 3
+Placing first ring Molecules: ['TEST_neutron_pos000.xyz', 'TEST_neutron_pos100.xyz']
+iabc 0 2 1 4
+empty
+iabc 1 2 1 4
+empty
+iabc 0 2 2 0
+Placing first ring Molecules: ['TEST_neutron_pos000.xyz', 'TEST_neutron_pos100.xyz']
+iabc 1 2 2 0
+Placing first ring Molecules: ['TEST_neutron_pos000.xyz', 'TEST_neutron_pos100.xyz']
+iabc 0 2 2 1
+Placing first ring Molecules: ['TEST_neutron_pos000.xyz', 'TEST_neutron_pos100.xyz']
+iabc 1 2 2 1
+Placing first ring Molecules: ['TEST_neutron_pos000.xyz', 'TEST_neutron_pos100.xyz']
+iabc 0 2 2 2
+Placing central Molecules: protontest.xyz
+iabc 1 2 2 2
+Placing central Molecules: TEST_neutron_pos100.xyz
+iabc 0 2 2 3
+Placing first ring Molecules: ['TEST_neutron_pos000.xyz', 'TEST_neutron_pos100.xyz']
+iabc 1 2 2 3
+Placing first ring Molecules: ['TEST_neutron_pos000.xyz', 'TEST_neutron_pos100.xyz']
+iabc 0 2 2 4
+Placing first ring Molecules: ['TEST_neutron_pos000.xyz', 'TEST_neutron_pos100.xyz']
+iabc 1 2 2 4
+Placing first ring Molecules: ['TEST_neutron_pos000.xyz', 'TEST_neutron_pos100.xyz']
+iabc 0 2 3 0
+empty
+iabc 1 2 3 0
+empty
+iabc 0 2 3 1
+Placing first ring Molecules: ['TEST_neutron_pos000.xyz', 'TEST_neutron_pos100.xyz']
+iabc 1 2 3 1
+Placing first ring Molecules: ['TEST_neutron_pos000.xyz', 'TEST_neutron_pos100.xyz']
+iabc 0 2 3 2
+Placing first ring Molecules: ['TEST_neutron_pos000.xyz', 'TEST_neutron_pos100.xyz']
+iabc 1 2 3 2
+Placing first ring Molecules: ['TEST_neutron_pos000.xyz', 'TEST_neutron_pos100.xyz']
+iabc 0 2 3 3
+Placing first ring Molecules: ['TEST_neutron_pos000.xyz', 'TEST_neutron_pos100.xyz']
+iabc 1 2 3 3
+Placing first ring Molecules: ['TEST_neutron_pos000.xyz', 'TEST_neutron_pos100.xyz']
+iabc 0 2 3 4
+empty
+iabc 1 2 3 4
+empty
+iabc 0 2 4 0
+empty
+iabc 1 2 4 0
+empty
+iabc 0 2 4 1
+empty
+iabc 1 2 4 1
+empty
+iabc 0 2 4 2
+Placing first ring Molecules: ['TEST_neutron_pos000.xyz', 'TEST_neutron_pos100.xyz']
+iabc 1 2 4 2
+Placing first ring Molecules: ['TEST_neutron_pos000.xyz', 'TEST_neutron_pos100.xyz']
+iabc 0 2 4 3
+empty
+iabc 1 2 4 3
+empty
+iabc 0 2 4 4
+empty
+iabc 1 2 4 4
+empty
+iabc 0 3 0 0
+empty
+iabc 1 3 0 0
+empty
+iabc 0 3 0 1
+empty
+iabc 1 3 0 1
+empty
+iabc 0 3 0 2
+empty
+iabc 1 3 0 2
+empty
+iabc 0 3 0 3
+empty
+iabc 1 3 0 3
+empty
+iabc 0 3 0 4
+empty
+iabc 1 3 0 4
+empty
+iabc 0 3 1 0
+empty
+iabc 1 3 1 0
+empty
+iabc 0 3 1 1
+empty
+iabc 1 3 1 1
+empty
+iabc 0 3 1 2
+Placing first ring Molecules: ['TEST_neutron_pos000.xyz', 'TEST_neutron_pos100.xyz']
+iabc 1 3 1 2
+Placing first ring Molecules: ['TEST_neutron_pos000.xyz', 'TEST_neutron_pos100.xyz']
+iabc 0 3 1 3
+empty
+iabc 1 3 1 3
+empty
+iabc 0 3 1 4
+empty
+iabc 1 3 1 4
+empty
+iabc 0 3 2 0
+empty
+iabc 1 3 2 0
+empty
+iabc 0 3 2 1
+Placing first ring Molecules: ['TEST_neutron_pos000.xyz', 'TEST_neutron_pos100.xyz']
+iabc 1 3 2 1
+Placing first ring Molecules: ['TEST_neutron_pos000.xyz', 'TEST_neutron_pos100.xyz']
+iabc 0 3 2 2
+Placing first ring Molecules: ['TEST_neutron_pos000.xyz', 'TEST_neutron_pos100.xyz']
+iabc 1 3 2 2
+Placing first ring Molecules: ['TEST_neutron_pos000.xyz', 'TEST_neutron_pos100.xyz']
+iabc 0 3 2 3
+Placing first ring Molecules: ['TEST_neutron_pos000.xyz', 'TEST_neutron_pos100.xyz']
+iabc 1 3 2 3
+Placing first ring Molecules: ['TEST_neutron_pos000.xyz', 'TEST_neutron_pos100.xyz']
+iabc 0 3 2 4
+empty
+iabc 1 3 2 4
+empty
+iabc 0 3 3 0
+empty
+iabc 1 3 3 0
+empty
+iabc 0 3 3 1
+empty
+iabc 1 3 3 1
+empty
+iabc 0 3 3 2
+Placing first ring Molecules: ['TEST_neutron_pos000.xyz', 'TEST_neutron_pos100.xyz']
+iabc 1 3 3 2
+Placing first ring Molecules: ['TEST_neutron_pos000.xyz', 'TEST_neutron_pos100.xyz']
+iabc 0 3 3 3
+empty
+iabc 1 3 3 3
+empty
+iabc 0 3 3 4
+empty
+iabc 1 3 3 4
+empty
+iabc 0 3 4 0
+empty
+iabc 1 3 4 0
+empty
+iabc 0 3 4 1
+empty
+iabc 1 3 4 1
+empty
+iabc 0 3 4 2
+empty
+iabc 1 3 4 2
+empty
+iabc 0 3 4 3
+empty
+iabc 1 3 4 3
+empty
+iabc 0 3 4 4
+empty
+iabc 1 3 4 4
+empty
+iabc 0 4 0 0
+empty
+iabc 1 4 0 0
+empty
+iabc 0 4 0 1
+empty
+iabc 1 4 0 1
+empty
+iabc 0 4 0 2
+empty
+iabc 1 4 0 2
+empty
+iabc 0 4 0 3
+empty
+iabc 1 4 0 3
+empty
+iabc 0 4 0 4
+empty
+iabc 1 4 0 4
+empty
+iabc 0 4 1 0
+empty
+iabc 1 4 1 0
+empty
+iabc 0 4 1 1
+empty
+iabc 1 4 1 1
+empty
+iabc 0 4 1 2
+empty
+iabc 1 4 1 2
+empty
+iabc 0 4 1 3
+empty
+iabc 1 4 1 3
+empty
+iabc 0 4 1 4
+empty
+iabc 1 4 1 4
+empty
+iabc 0 4 2 0
+empty
+iabc 1 4 2 0
+empty
+iabc 0 4 2 1
+empty
+iabc 1 4 2 1
+empty
+iabc 0 4 2 2
+Placing first ring Molecules: ['TEST_neutron_pos000.xyz', 'TEST_neutron_pos100.xyz']
+iabc 1 4 2 2
+Placing first ring Molecules: ['TEST_neutron_pos000.xyz', 'TEST_neutron_pos100.xyz']
+iabc 0 4 2 3
+empty
+iabc 1 4 2 3
+empty
+iabc 0 4 2 4
+empty
+iabc 1 4 2 4
+empty
+iabc 0 4 3 0
+empty
+iabc 1 4 3 0
+empty
+iabc 0 4 3 1
+empty
+iabc 1 4 3 1
+empty
+iabc 0 4 3 2
+empty
+iabc 1 4 3 2
+empty
+iabc 0 4 3 3
+empty
+iabc 1 4 3 3
+empty
+iabc 0 4 3 4
+empty
+iabc 1 4 3 4
+empty
+iabc 0 4 4 0
+empty
+iabc 1 4 4 0
+empty
+iabc 0 4 4 1
+empty
+iabc 1 4 4 1
+empty
+iabc 0 4 4 2
+empty
+iabc 1 4 4 2
+empty
+iabc 0 4 4 3
+empty
+iabc 1 4 4 3
+empty
+iabc 0 4 4 4
+empty
+iabc 1 4 4 4
+empty
+making posns file
+making posns file
+making posns file
+making posns file
+making posns file
+making posns file
+making posns file
+making posns file
+making posns file
+making posns file
+making posns file
+making posns file
+making posns file
+making posns file
+making posns file
+making posns file
+making posns file
+making posns file
+making posns file
+making posns file
+making posns file
+making posns file
+making posns file
+making posns file
+making posns file
+making posns file
+making posns file
+making posns file
+making posns file
+making posns file
+making posns file
+making posns file
+making posns file
+making posns file
+making posns file
+making posns file
+making posns file
+making posns file
+making posns file
+making posns file
+making posns file
+making posns file
+making posns file
+making posns file
+making posns file
+making posns file
+making posns file
+making posns file
+Fri, 18 Apr 2014 09:17:23 +0000
+Fri, 18 Apr 2014 09:17:23 +0000
+Calc jm
+Fri, 18 Apr 2014 09:17:23 +0000
+Calc dips:
+cutoff used: 8.0
+Fri, 18 Apr 2014 09:17:24 +0000
+Fri, 18 Apr 2014 09:17:24 +0000
+Fri, 18 Apr 2014 09:17:24 +0000
+tot [[  2.28059177e-01   3.65106979e-16  -2.01521633e-16]]
+Fri, 18 Apr 2014 09:17:24 +0000
+Uqq 0.0
+Fri, 18 Apr 2014 09:17:24 +0000
+Uqd [[-100.95053152]]
+Fri, 18 Apr 2014 09:17:24 +0000
+Udd [[ 50.47526576]]
+energyev [[-50.47526576]]
+Fri, 18 Apr 2014 09:17:24 +0000
+Making .dat cross sections for gnuplot
+
+
+DIST:  0 
+
+a,b,c 2 2 2
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 2 , 2 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  0
+Outside of maxTVs for central moltype. Can only currently calculate roerg energies with molecules of the same type.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 2 , 2 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  0
+Outside of maxTVs for central moltype. Can only currently calculate roerg energies with molecules of the same type.
+Reorg:  []
+
+
+DIST:  1 
+
+a,b,c 1 1 1
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 1 , 1 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 1 , 1 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 1 1 2
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 1 , 1 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Outside of maxTVs for central moltype. Can only currently calculate roerg energies with molecules of the same type.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 1 , 1 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Outside of maxTVs for central moltype. Can only currently calculate roerg energies with molecules of the same type.
+Reorg:  []
+a,b,c 1 1 3
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 1 , 1 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 1 , 1 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 1 2 1
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 1 , 2 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Outside of maxTVs for central moltype. Can only currently calculate roerg energies with molecules of the same type.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 1 , 2 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Outside of maxTVs for central moltype. Can only currently calculate roerg energies with molecules of the same type.
+Reorg:  []
+a,b,c 1 2 2
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 1 , 2 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  1
+Outside of maxTVs for central moltype. Can only currently calculate roerg energies with molecules of the same type.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 1 , 2 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  1
+Outside of maxTVs for central moltype. Can only currently calculate roerg energies with molecules of the same type.
+Reorg:  []
+a,b,c 1 2 3
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 1 , 2 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Outside of maxTVs for central moltype. Can only currently calculate roerg energies with molecules of the same type.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 1 , 2 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Outside of maxTVs for central moltype. Can only currently calculate roerg energies with molecules of the same type.
+Reorg:  []
+a,b,c 1 3 1
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 1 , 3 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 1 , 3 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 1 3 2
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 1 , 3 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Outside of maxTVs for central moltype. Can only currently calculate roerg energies with molecules of the same type.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 1 , 3 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Outside of maxTVs for central moltype. Can only currently calculate roerg energies with molecules of the same type.
+Reorg:  []
+a,b,c 1 3 3
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 1 , 3 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 1 , 3 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 2 1 1
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 2 , 1 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Outside of maxTVs for central moltype. Can only currently calculate roerg energies with molecules of the same type.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 2 , 1 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Outside of maxTVs for central moltype. Can only currently calculate roerg energies with molecules of the same type.
+Reorg:  []
+a,b,c 2 1 2
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 2 , 1 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  1
+Outside of maxTVs for central moltype. Can only currently calculate roerg energies with molecules of the same type.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 2 , 1 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  1
+Outside of maxTVs for central moltype. Can only currently calculate roerg energies with molecules of the same type.
+Reorg:  []
+a,b,c 2 1 3
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 2 , 1 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Outside of maxTVs for central moltype. Can only currently calculate roerg energies with molecules of the same type.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 2 , 1 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Outside of maxTVs for central moltype. Can only currently calculate roerg energies with molecules of the same type.
+Reorg:  []
+a,b,c 2 2 1
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 2 , 2 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  1
+Outside of maxTVs for central moltype. Can only currently calculate roerg energies with molecules of the same type.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 2 , 2 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  1
+Outside of maxTVs for central moltype. Can only currently calculate roerg energies with molecules of the same type.
+Reorg:  []
+a,b,c 2 2 2
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 2 , 2 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  0
+Outside of maxTVs for central moltype. Can only currently calculate roerg energies with molecules of the same type.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 2 , 2 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  0
+Outside of maxTVs for central moltype. Can only currently calculate roerg energies with molecules of the same type.
+Reorg:  []
+a,b,c 2 2 3
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 2 , 2 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  1
+Outside of maxTVs for central moltype. Can only currently calculate roerg energies with molecules of the same type.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 2 , 2 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  1
+Outside of maxTVs for central moltype. Can only currently calculate roerg energies with molecules of the same type.
+Reorg:  []
+a,b,c 2 3 1
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 2 , 3 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Outside of maxTVs for central moltype. Can only currently calculate roerg energies with molecules of the same type.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 2 , 3 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Outside of maxTVs for central moltype. Can only currently calculate roerg energies with molecules of the same type.
+Reorg:  []
+a,b,c 2 3 2
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 2 , 3 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  1
+Outside of maxTVs for central moltype. Can only currently calculate roerg energies with molecules of the same type.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 2 , 3 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  1
+Outside of maxTVs for central moltype. Can only currently calculate roerg energies with molecules of the same type.
+Reorg:  []
+a,b,c 2 3 3
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 2 , 3 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Outside of maxTVs for central moltype. Can only currently calculate roerg energies with molecules of the same type.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 2 , 3 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Outside of maxTVs for central moltype. Can only currently calculate roerg energies with molecules of the same type.
+Reorg:  []
+a,b,c 3 1 1
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 3 , 1 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 3 , 1 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 3 1 2
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 3 , 1 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Outside of maxTVs for central moltype. Can only currently calculate roerg energies with molecules of the same type.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 3 , 1 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Outside of maxTVs for central moltype. Can only currently calculate roerg energies with molecules of the same type.
+Reorg:  []
+a,b,c 3 1 3
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 3 , 1 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 3 , 1 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 3 2 1
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 3 , 2 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Outside of maxTVs for central moltype. Can only currently calculate roerg energies with molecules of the same type.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 3 , 2 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Outside of maxTVs for central moltype. Can only currently calculate roerg energies with molecules of the same type.
+Reorg:  []
+a,b,c 3 2 2
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 3 , 2 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  1
+Outside of maxTVs for central moltype. Can only currently calculate roerg energies with molecules of the same type.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 3 , 2 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  1
+Outside of maxTVs for central moltype. Can only currently calculate roerg energies with molecules of the same type.
+Reorg:  []
+a,b,c 3 2 3
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 3 , 2 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Outside of maxTVs for central moltype. Can only currently calculate roerg energies with molecules of the same type.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 3 , 2 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Outside of maxTVs for central moltype. Can only currently calculate roerg energies with molecules of the same type.
+Reorg:  []
+a,b,c 3 3 1
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 3 , 3 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 3 , 3 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 3 3 2
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 3 , 3 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Outside of maxTVs for central moltype. Can only currently calculate roerg energies with molecules of the same type.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 3 , 3 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Outside of maxTVs for central moltype. Can only currently calculate roerg energies with molecules of the same type.
+Reorg:  []
+a,b,c 3 3 3
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 3 , 3 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 3 , 3 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+
+
+DIST:  2 
+
+a,b,c 0 0 0
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 0 , 0 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  6
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 0 , 0 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  6
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 0 0 1
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 0 , 0 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 0 , 0 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 0 0 2
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 0 , 0 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 0 , 0 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 0 0 3
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 0 , 0 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 0 , 0 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 0 0 4
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 0 , 0 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  6
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 0 , 0 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  6
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 0 1 0
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 0 , 1 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 0 , 1 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 0 1 1
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 0 , 1 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 0 , 1 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 0 1 2
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 0 , 1 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 0 , 1 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 0 1 3
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 0 , 1 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 0 , 1 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 0 1 4
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 0 , 1 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 0 , 1 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 0 2 0
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 0 , 2 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 0 , 2 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 0 2 1
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 0 , 2 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 0 , 2 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 0 2 2
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 0 , 2 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Outside of maxTVs for central moltype. Can only currently calculate roerg energies with molecules of the same type.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 0 , 2 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Outside of maxTVs for central moltype. Can only currently calculate roerg energies with molecules of the same type.
+Reorg:  []
+a,b,c 0 2 3
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 0 , 2 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 0 , 2 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 0 2 4
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 0 , 2 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 0 , 2 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 0 3 0
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 0 , 3 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 0 , 3 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 0 3 1
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 0 , 3 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 0 , 3 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 0 3 2
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 0 , 3 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 0 , 3 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 0 3 3
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 0 , 3 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 0 , 3 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 0 3 4
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 0 , 3 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 0 , 3 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 0 4 0
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 0 , 4 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  6
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 0 , 4 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  6
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 0 4 1
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 0 , 4 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 0 , 4 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 0 4 2
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 0 , 4 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 0 , 4 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 0 4 3
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 0 , 4 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 0 , 4 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 0 4 4
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 0 , 4 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  6
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 0 , 4 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  6
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 1 0 0
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 1 , 0 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 1 , 0 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 1 0 1
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 1 , 0 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 1 , 0 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 1 0 2
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 1 , 0 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 1 , 0 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 1 0 3
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 1 , 0 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 1 , 0 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 1 0 4
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 1 , 0 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 1 , 0 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 1 1 0
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 1 , 1 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 1 , 1 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 1 1 1
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 1 , 1 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 1 , 1 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 1 1 2
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 1 , 1 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Outside of maxTVs for central moltype. Can only currently calculate roerg energies with molecules of the same type.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 1 , 1 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Outside of maxTVs for central moltype. Can only currently calculate roerg energies with molecules of the same type.
+Reorg:  []
+a,b,c 1 1 3
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 1 , 1 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 1 , 1 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 1 1 4
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 1 , 1 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 1 , 1 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 1 2 0
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 1 , 2 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 1 , 2 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 1 2 1
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 1 , 2 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Outside of maxTVs for central moltype. Can only currently calculate roerg energies with molecules of the same type.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 1 , 2 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Outside of maxTVs for central moltype. Can only currently calculate roerg energies with molecules of the same type.
+Reorg:  []
+a,b,c 1 2 2
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 1 , 2 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  1
+Outside of maxTVs for central moltype. Can only currently calculate roerg energies with molecules of the same type.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 1 , 2 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  1
+Outside of maxTVs for central moltype. Can only currently calculate roerg energies with molecules of the same type.
+Reorg:  []
+a,b,c 1 2 3
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 1 , 2 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Outside of maxTVs for central moltype. Can only currently calculate roerg energies with molecules of the same type.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 1 , 2 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Outside of maxTVs for central moltype. Can only currently calculate roerg energies with molecules of the same type.
+Reorg:  []
+a,b,c 1 2 4
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 1 , 2 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 1 , 2 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 1 3 0
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 1 , 3 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 1 , 3 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 1 3 1
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 1 , 3 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 1 , 3 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 1 3 2
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 1 , 3 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Outside of maxTVs for central moltype. Can only currently calculate roerg energies with molecules of the same type.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 1 , 3 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Outside of maxTVs for central moltype. Can only currently calculate roerg energies with molecules of the same type.
+Reorg:  []
+a,b,c 1 3 3
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 1 , 3 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 1 , 3 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 1 3 4
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 1 , 3 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 1 , 3 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 1 4 0
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 1 , 4 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 1 , 4 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 1 4 1
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 1 , 4 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 1 , 4 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 1 4 2
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 1 , 4 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 1 , 4 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 1 4 3
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 1 , 4 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 1 , 4 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 1 4 4
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 1 , 4 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 1 , 4 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 2 0 0
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 2 , 0 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 2 , 0 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 2 0 1
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 2 , 0 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 2 , 0 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 2 0 2
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 2 , 0 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Outside of maxTVs for central moltype. Can only currently calculate roerg energies with molecules of the same type.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 2 , 0 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Outside of maxTVs for central moltype. Can only currently calculate roerg energies with molecules of the same type.
+Reorg:  []
+a,b,c 2 0 3
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 2 , 0 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 2 , 0 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 2 0 4
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 2 , 0 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 2 , 0 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 2 1 0
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 2 , 1 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 2 , 1 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 2 1 1
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 2 , 1 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Outside of maxTVs for central moltype. Can only currently calculate roerg energies with molecules of the same type.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 2 , 1 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Outside of maxTVs for central moltype. Can only currently calculate roerg energies with molecules of the same type.
+Reorg:  []
+a,b,c 2 1 2
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 2 , 1 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  1
+Outside of maxTVs for central moltype. Can only currently calculate roerg energies with molecules of the same type.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 2 , 1 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  1
+Outside of maxTVs for central moltype. Can only currently calculate roerg energies with molecules of the same type.
+Reorg:  []
+a,b,c 2 1 3
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 2 , 1 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Outside of maxTVs for central moltype. Can only currently calculate roerg energies with molecules of the same type.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 2 , 1 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Outside of maxTVs for central moltype. Can only currently calculate roerg energies with molecules of the same type.
+Reorg:  []
+a,b,c 2 1 4
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 2 , 1 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 2 , 1 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 2 2 0
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 2 , 2 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Outside of maxTVs for central moltype. Can only currently calculate roerg energies with molecules of the same type.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 2 , 2 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Outside of maxTVs for central moltype. Can only currently calculate roerg energies with molecules of the same type.
+Reorg:  []
+a,b,c 2 2 1
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 2 , 2 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  1
+Outside of maxTVs for central moltype. Can only currently calculate roerg energies with molecules of the same type.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 2 , 2 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  1
+Outside of maxTVs for central moltype. Can only currently calculate roerg energies with molecules of the same type.
+Reorg:  []
+a,b,c 2 2 2
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 2 , 2 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  0
+Outside of maxTVs for central moltype. Can only currently calculate roerg energies with molecules of the same type.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 2 , 2 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  0
+Outside of maxTVs for central moltype. Can only currently calculate roerg energies with molecules of the same type.
+Reorg:  []
+a,b,c 2 2 3
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 2 , 2 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  1
+Outside of maxTVs for central moltype. Can only currently calculate roerg energies with molecules of the same type.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 2 , 2 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  1
+Outside of maxTVs for central moltype. Can only currently calculate roerg energies with molecules of the same type.
+Reorg:  []
+a,b,c 2 2 4
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 2 , 2 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Outside of maxTVs for central moltype. Can only currently calculate roerg energies with molecules of the same type.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 2 , 2 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Outside of maxTVs for central moltype. Can only currently calculate roerg energies with molecules of the same type.
+Reorg:  []
+a,b,c 2 3 0
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 2 , 3 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 2 , 3 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 2 3 1
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 2 , 3 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Outside of maxTVs for central moltype. Can only currently calculate roerg energies with molecules of the same type.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 2 , 3 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Outside of maxTVs for central moltype. Can only currently calculate roerg energies with molecules of the same type.
+Reorg:  []
+a,b,c 2 3 2
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 2 , 3 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  1
+Outside of maxTVs for central moltype. Can only currently calculate roerg energies with molecules of the same type.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 2 , 3 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  1
+Outside of maxTVs for central moltype. Can only currently calculate roerg energies with molecules of the same type.
+Reorg:  []
+a,b,c 2 3 3
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 2 , 3 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Outside of maxTVs for central moltype. Can only currently calculate roerg energies with molecules of the same type.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 2 , 3 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Outside of maxTVs for central moltype. Can only currently calculate roerg energies with molecules of the same type.
+Reorg:  []
+a,b,c 2 3 4
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 2 , 3 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 2 , 3 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 2 4 0
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 2 , 4 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 2 , 4 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 2 4 1
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 2 , 4 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 2 , 4 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 2 4 2
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 2 , 4 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Outside of maxTVs for central moltype. Can only currently calculate roerg energies with molecules of the same type.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 2 , 4 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Outside of maxTVs for central moltype. Can only currently calculate roerg energies with molecules of the same type.
+Reorg:  []
+a,b,c 2 4 3
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 2 , 4 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 2 , 4 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 2 4 4
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 2 , 4 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 2 , 4 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 3 0 0
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 3 , 0 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 3 , 0 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 3 0 1
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 3 , 0 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 3 , 0 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 3 0 2
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 3 , 0 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 3 , 0 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 3 0 3
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 3 , 0 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 3 , 0 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 3 0 4
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 3 , 0 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 3 , 0 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 3 1 0
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 3 , 1 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 3 , 1 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 3 1 1
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 3 , 1 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 3 , 1 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 3 1 2
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 3 , 1 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Outside of maxTVs for central moltype. Can only currently calculate roerg energies with molecules of the same type.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 3 , 1 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Outside of maxTVs for central moltype. Can only currently calculate roerg energies with molecules of the same type.
+Reorg:  []
+a,b,c 3 1 3
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 3 , 1 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 3 , 1 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 3 1 4
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 3 , 1 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 3 , 1 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 3 2 0
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 3 , 2 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 3 , 2 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 3 2 1
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 3 , 2 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Outside of maxTVs for central moltype. Can only currently calculate roerg energies with molecules of the same type.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 3 , 2 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Outside of maxTVs for central moltype. Can only currently calculate roerg energies with molecules of the same type.
+Reorg:  []
+a,b,c 3 2 2
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 3 , 2 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  1
+Outside of maxTVs for central moltype. Can only currently calculate roerg energies with molecules of the same type.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 3 , 2 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  1
+Outside of maxTVs for central moltype. Can only currently calculate roerg energies with molecules of the same type.
+Reorg:  []
+a,b,c 3 2 3
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 3 , 2 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Outside of maxTVs for central moltype. Can only currently calculate roerg energies with molecules of the same type.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 3 , 2 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Outside of maxTVs for central moltype. Can only currently calculate roerg energies with molecules of the same type.
+Reorg:  []
+a,b,c 3 2 4
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 3 , 2 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 3 , 2 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 3 3 0
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 3 , 3 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 3 , 3 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 3 3 1
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 3 , 3 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 3 , 3 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 3 3 2
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 3 , 3 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Outside of maxTVs for central moltype. Can only currently calculate roerg energies with molecules of the same type.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 3 , 3 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Outside of maxTVs for central moltype. Can only currently calculate roerg energies with molecules of the same type.
+Reorg:  []
+a,b,c 3 3 3
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 3 , 3 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 3 , 3 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 3 3 4
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 3 , 3 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 3 , 3 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 3 4 0
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 3 , 4 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 3 , 4 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 3 4 1
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 3 , 4 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 3 , 4 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 3 4 2
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 3 , 4 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 3 , 4 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 3 4 3
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 3 , 4 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 3 , 4 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 3 4 4
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 3 , 4 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 3 , 4 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 4 0 0
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 4 , 0 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  6
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 4 , 0 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  6
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 4 0 1
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 4 , 0 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 4 , 0 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 4 0 2
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 4 , 0 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 4 , 0 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 4 0 3
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 4 , 0 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 4 , 0 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 4 0 4
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 4 , 0 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  6
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 4 , 0 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  6
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 4 1 0
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 4 , 1 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 4 , 1 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 4 1 1
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 4 , 1 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 4 , 1 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 4 1 2
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 4 , 1 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 4 , 1 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 4 1 3
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 4 , 1 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 4 , 1 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 4 1 4
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 4 , 1 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 4 , 1 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 4 2 0
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 4 , 2 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 4 , 2 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 4 2 1
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 4 , 2 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 4 , 2 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 4 2 2
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 4 , 2 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Outside of maxTVs for central moltype. Can only currently calculate roerg energies with molecules of the same type.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 4 , 2 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Outside of maxTVs for central moltype. Can only currently calculate roerg energies with molecules of the same type.
+Reorg:  []
+a,b,c 4 2 3
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 4 , 2 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 4 , 2 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 4 2 4
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 4 , 2 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 4 , 2 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 4 3 0
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 4 , 3 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 4 , 3 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 4 3 1
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 4 , 3 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 4 , 3 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 4 3 2
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 4 , 3 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 4 , 3 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 4 3 3
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 4 , 3 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 4 , 3 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 4 3 4
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 4 , 3 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 4 , 3 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 4 4 0
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 4 , 4 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  6
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 4 , 4 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  6
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 4 4 1
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 4 , 4 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 4 , 4 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 4 4 2
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 4 , 4 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 4 , 4 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 4 4 3
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 4 , 4 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 4 , 4 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+a,b,c 4 4 4
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 4 , 4 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  6
+No molecule in 2nd position.
+Reorg:  []
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 4 , 4 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  6
+No molecule in 2nd position.
+Reorg:  []
+Done.

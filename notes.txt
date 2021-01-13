@@ -1,0 +1,50 @@
+CUTOFF
+
+-Stern suggest using sum of atomic radii as cutoff. 
+-Largest atom we consider is S, w 88pm (0.88A), (C is 67pm) by theory, smaller by Slater expt (not sure which to pick...)
+-Bonds of order 1.1-1.8A
+-Most non-H bonds are fine (though H fine also for Slater)
+-Most H < 1.1A, most others >1.1A
+-For theoretical set cutoff 1.34A seems reasonable.
+-For Slater cutoff ~ 0.95A probs fine, no atoms within mol approach too closely to consider interaction.
+-May be better to set values for each atom in long run.
+
+POLARISABILITY
+
+Pol ( CCmm/J ) = Dip Mom ( Cm )/E-field ( J/Cm)
+
+polarisabilities are (e.bohr)^2/E_hartree
+
+[Polarisability (cubic angstroms)] = (10^30)/(4*pi*vacuum permittivity)*(electron charge * bohr radius)^2/(Hartree Energy) * [Polarisability in (e.bohr)^2/E_hartree]
+
+[Polarisability (cubic angstroms)] = (10^30)/(4*pi*electric constant)*(electron charge * 5.2917720859*(10^-11))^2/(4.35974417*(10^-18)) [Polarisability in (e.bohr)^2/E_hartree]
+
+[Polarisability (cubic angstroms)] = 0.148184697 [Polarisability in (e.bohr)^2/E_hartree]
+
+[Polarisability in (e.bohr)^2/E_hartree] = 6.74833515 [Polarisability (cubic angstroms)] 
+
+[Polarisability in (e.bohr)^2/E_hartree] = 6.74833515 [Polarisability (cubic angstroms)] 
+
+
+Pol (V/m**2) = Pol [(e.bohr)^2/E_hartree] * ( E_Hartree / (e.bohr)^2)
+Pol (V/m**2) = Pol [(e.bohr)^2/E_hartree] * ( 4.35974434E-18 / (5.2917721092E-11 * 1.60217657 E-19)^2 )
+Pol (V/m**2) = Pol [(e.bohr)^2/E_hartree] * ( 4.35974434 / (1.60217657 * 5.2917721092)^2) E+42
+Pol (V/m**2) = Pol [(e.bohr)^2/E_hartree] * 6.06510053 E+40
+Pol [(e.bohr)^2/E_hartree] = 6.06510053 E+40
+
+
+Agreement with http://books.google.co.uk/books?id=1E8M117QOFEC&pg=PA208&lpg=PA208&dq=angstrom+cubed+to+atomic+units+polarisability&source=bl&ots=KPdsCoXA8m&sig=8ezgBkpyxF9CnrcrMI5iePQN03s&hl=en&sa=X&ei=ZOxBUdizFojQOdbcgJgI&ved=0CD0Q6AEwAw#v=onepage&q=angstrom%20cubed%20to%20atomic%20units%20polarisability&f=false
+
+Polarisability in Gaussian is in au http://www.gaussian.com/g_tech/g_ur/k_constants.htm
+
+(Also, Electric polarizability: 1 au 	= 1.648777 x 10-41 C2-m2-J-1)
+
+
+Pols from Stern Paper:
+
+Atom		Pol(A3)	Cut(A)
+Aromatic C 	0.705	0.000
+Aromatic H	(0)
+H on beta chain (Serine)	0.450	3.00	
+Hydroxyl H	0.232	1.618
+Amide N		0.764	0.707

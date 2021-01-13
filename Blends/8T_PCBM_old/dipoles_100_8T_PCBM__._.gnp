@@ -1,0 +1,14 @@
+#set xrange [-40:40]
+#set yrange [-40:40]
+#set zrange [-40:40]
+
+#unset border
+#unset ztics
+#unset xtics
+#unset ytics
+
+splot "<echo '  '" with points ls 1, "<echo '2  '" with points ls 1
+set view equal xyz
+unset key
+replot
+pause -1

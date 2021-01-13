@@ -1,0 +1,4930 @@
+Sat, 21 Jun 2014 02:01:43 +0000
+name:  Sexithiophene_cation_neut_inner2_outer0 mols_cen:  ['sp_sexithiophene_mola_neut.xyz', 'sp_sexithiophene_molb_neut.xyz', 'sp_sexithiophene_molc_neut.xyz', 'sp_sexithiophene_mold_neut.xyz']  mols_sur:  ['sp_sexithiophene_mola_neut.xyz', 'sp_sexithiophene_molb_neut.xyz', 'sp_sexithiophene_molc_neut.xyz', 'sp_sexithiophene_mold_neut.xyz']  TVs:  [[  8.44870094e+01   0.00000000e+00   0.00000000e+00]
+ [  9.08492393e-16   1.48368067e+01   0.00000000e+00]
+ [ -1.51522837e-01   7.06931013e-16   1.13925292e+01]]
+Placing Molecules.
+Molecules placed.
+state cation
+q:  1.0
+Sat, 21 Jun 2014 02:01:46 +0000
+Sat, 21 Jun 2014 02:01:46 +0000
+Calc jm
+Sat, 21 Jun 2014 02:01:48 +0000
+Calc dips:
+Sat, 21 Jun 2014 02:01:48 +0000
+Sat, 21 Jun 2014 02:01:49 +0000
+splitting dips onto atoms
+Sat, 21 Jun 2014 02:01:49 +0000
+summing dips:
+Sat, 21 Jun 2014 02:01:49 +0000
+total dip moment [[ 11.97692556 -51.31755768  34.44006244]]
+Sat, 21 Jun 2014 02:01:49 +0000
+Uqq 0.0
+Sat, 21 Jun 2014 02:01:49 +0000
+Uqd 0.945106257121
+Sat, 21 Jun 2014 02:01:49 +0000
+Udd -0.472553128561
+energyev 0.472553128561
+Sat, 21 Jun 2014 02:01:49 +0000
+Making .dat cross sections for gnuplot
+
+
+DIST:  0 
+
+Sat, 21 Jun 2014 02:01:49 +0000
+a,b,c 2 2 2
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 2 , 2 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  0
+Same Molecule
+Reorg:  0.0
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 2 , 2 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  0
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd -1.24980961834 .
+Success.
+Reorg:  -1.09745793773
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 2 , 2 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  0
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd -0.847453661867 .
+Success.
+Reorg:  -0.896279959494
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 2 , 2 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  0
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd -2.81171417235 .
+Success.
+Reorg:  -1.87841021474
+lengths [6, 6, 6]
+
+
+DIST:  1 
+
+Sat, 21 Jun 2014 02:01:51 +0000
+a,b,c 1 1 1
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 1 , 1 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 1 , 1 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 1 , 1 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 1 , 1 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:01:51 +0000
+a,b,c 1 1 2
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 1 , 1 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd 0.821650368032 .
+Success.
+Reorg:  -0.0617279445445
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 1 , 1 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd -0.0299283857647 .
+Success.
+Reorg:  -0.487517321443
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 1 , 1 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd 2.29743339096 .
+Success.
+Reorg:  0.67616356692
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 1 , 1 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd 3.0726958666 .
+Success.
+Reorg:  1.06379480474
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:01:54 +0000
+a,b,c 1 1 3
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 1 , 1 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 1 , 1 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 1 , 1 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 1 , 1 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:01:54 +0000
+a,b,c 1 2 1
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 1 , 2 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd -1.63804121264 .
+Success.
+Reorg:  -1.29157373488
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 1 , 2 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd 1.60798888991 .
+Success.
+Reorg:  0.331441316393
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 1 , 2 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd 1.68125914259 .
+Success.
+Reorg:  0.368076442733
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 1 , 2 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd -1.92192097268 .
+Success.
+Reorg:  -1.4335136149
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:01:56 +0000
+a,b,c 1 2 2
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 1 , 2 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  1
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd 1.99139104684 .
+Success.
+Reorg:  0.523142394857
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 1 , 2 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  1
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd -0.532799788293 .
+Success.
+Reorg:  -0.738953022707
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 1 , 2 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  1
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd -0.800946276639 .
+Success.
+Reorg:  -0.87302626688
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 1 , 2 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  1
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd 2.49977970138 .
+Success.
+Reorg:  0.777336722128
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:01:58 +0000
+a,b,c 1 2 3
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 1 , 2 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd 0.961101378238 .
+Success.
+Reorg:  0.00799756055855
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 1 , 2 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd 0.0187779233986 .
+Success.
+Reorg:  -0.463164166861
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 1 , 2 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd 0.851975764044 .
+Success.
+Reorg:  -0.0465652465388
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 1 , 2 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd 0.790193831095 .
+Success.
+Reorg:  -0.0774562130132
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:00 +0000
+a,b,c 1 3 1
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 1 , 3 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 1 , 3 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 1 , 3 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 1 , 3 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:00 +0000
+a,b,c 1 3 2
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 1 , 3 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd 1.12805637326 .
+Success.
+Reorg:  0.0914750580702
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 1 , 3 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd 1.45648118208 .
+Success.
+Reorg:  0.25568746248
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 1 , 3 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd -0.225931895437 .
+Success.
+Reorg:  -0.585519076279
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 1 , 3 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd 0.305774411077 .
+Success.
+Reorg:  -0.319665923022
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:02 +0000
+a,b,c 1 3 3
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 1 , 3 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 1 , 3 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 1 , 3 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 1 , 3 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:03 +0000
+a,b,c 2 1 1
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 2 , 1 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd -0.341691038691 .
+Success.
+Reorg:  -0.643398647906
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 2 , 1 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd -3.07168804383 .
+Success.
+Reorg:  -2.00839715048
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 2 , 1 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd -0.514969872965 .
+Success.
+Reorg:  -0.730038065043
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 2 , 1 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd -3.88002755677 .
+Success.
+Reorg:  -2.41256690695
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:05 +0000
+a,b,c 2 1 2
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 2 , 1 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  1
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd 4.28894576125 .
+Success.
+Reorg:  1.67191975206
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 2 , 1 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  1
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd 0.717938397115 .
+Success.
+Reorg:  -0.113583930003
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 2 , 1 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  1
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd -1.3723570452 .
+Success.
+Reorg:  -1.15873165116
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 2 , 1 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  1
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd -6.39727971841 .
+Success.
+Reorg:  -3.67119298776
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:07 +0000
+a,b,c 2 1 3
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 2 , 1 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd 1.17913623594 .
+Success.
+Reorg:  0.117014989408
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 2 , 1 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd -2.48354935358 .
+Success.
+Reorg:  -1.71432780535
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 2 , 1 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd -1.71519202951 .
+Success.
+Reorg:  -1.33014914332
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 2 , 1 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd 0.807950889334 .
+Success.
+Reorg:  -0.0685776838938
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:09 +0000
+a,b,c 2 2 1
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 2 , 2 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  1
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd -1.32516987923 .
+Success.
+Reorg:  -1.13513806817
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 2 , 2 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  1
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd -3.10320033242 .
+Success.
+Reorg:  -2.02415329477
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 2 , 2 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  1
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd -5.98317907109 .
+Success.
+Reorg:  -3.46414266411
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 2 , 2 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  1
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd -1.45602752704 .
+Success.
+Reorg:  -1.20056689208
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:11 +0000
+a,b,c 2 2 2
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 2 , 2 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  0
+Same Molecule
+Reorg:  0.0
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 2 , 2 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  0
+Already Calculated
+Reorg:  -1.09745793773
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 2 , 2 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  0
+Already Calculated
+Reorg:  -0.896279959494
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 2 , 2 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  0
+Already Calculated
+Reorg:  -1.87841021474
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:11 +0000
+a,b,c 2 2 3
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 2 , 2 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  1
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd -1.04892292899 .
+Success.
+Reorg:  -0.997014593055
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 2 , 2 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  1
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd -3.51843942615 .
+Success.
+Reorg:  -2.23177284163
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 2 , 2 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  1
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd -2.02887044356 .
+Success.
+Reorg:  -1.48698835034
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 2 , 2 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  1
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd 1.06715587076 .
+Success.
+Reorg:  0.0610248068177
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:14 +0000
+a,b,c 2 3 1
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 2 , 3 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd -1.48202147893 .
+Success.
+Reorg:  -1.21356386802
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 2 , 3 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd -0.606555347297 .
+Success.
+Reorg:  -0.775830802209
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 2 , 3 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd -2.8470732242 .
+Success.
+Reorg:  -1.89608974066
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 2 , 3 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd -1.0369781103 .
+Success.
+Reorg:  -0.991042183709
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:16 +0000
+a,b,c 2 3 2
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 2 , 3 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  1
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd -0.775717661514 .
+Success.
+Reorg:  -0.860411959317
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 2 , 3 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  1
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd -0.817239647707 .
+Success.
+Reorg:  -0.881172952414
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 2 , 3 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  1
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd -0.289972081261 .
+Success.
+Reorg:  -0.617539169191
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 2 , 3 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  1
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd -6.37951813777 .
+Success.
+Reorg:  -3.66231219745
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:18 +0000
+a,b,c 2 3 3
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 2 , 3 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd -1.23525261255 .
+Success.
+Reorg:  -1.09017943483
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 2 , 3 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd -1.22361902304 .
+Success.
+Reorg:  -1.08436264008
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 2 , 3 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd -1.28507768161 .
+Success.
+Reorg:  -1.11509196937
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 2 , 3 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd 0.288473609899 .
+Success.
+Reorg:  -0.328316323611
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:21 +0000
+a,b,c 3 1 1
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 3 , 1 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 3 , 1 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 3 , 1 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 3 , 1 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:21 +0000
+a,b,c 3 1 2
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 3 , 1 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd 0.775196255335 .
+Success.
+Reorg:  -0.0849550008931
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 3 , 1 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd -0.0463962807013 .
+Success.
+Reorg:  -0.495751268911
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 3 , 1 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd 2.36137487435 .
+Success.
+Reorg:  0.708134308617
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 3 , 1 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd 3.12992912656 .
+Success.
+Reorg:  1.09241143472
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:23 +0000
+a,b,c 3 1 3
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 3 , 1 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 3 , 1 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 3 , 1 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 3 , 1 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:23 +0000
+a,b,c 3 2 1
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 3 , 2 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd -1.63749403366 .
+Success.
+Reorg:  -1.29130014539
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 3 , 2 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd 1.65004495013 .
+Success.
+Reorg:  0.352469346504
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 3 , 2 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd 1.89137208154 .
+Success.
+Reorg:  0.473132912207
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 3 , 2 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd -1.77521041529 .
+Success.
+Reorg:  -1.36015833621
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:25 +0000
+a,b,c 3 2 2
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 3 , 2 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  1
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd 1.93140963919 .
+Success.
+Reorg:  0.493151691035
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 3 , 2 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  1
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd -0.51691048899 .
+Success.
+Reorg:  -0.731008373056
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 3 , 2 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  1
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd -0.628272471307 .
+Success.
+Reorg:  -0.786689364214
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 3 , 2 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  1
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd 2.46445458511 .
+Success.
+Reorg:  0.759674163992
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:27 +0000
+a,b,c 3 2 3
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 3 , 2 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd 0.934844835807 .
+Success.
+Reorg:  -0.00513071065714
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 3 , 2 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd 0.00810218798912 .
+Success.
+Reorg:  -0.468502034566
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 3 , 2 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd 0.965626330202 .
+Success.
+Reorg:  0.0102600365403
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 3 , 2 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd 0.813419260166 .
+Success.
+Reorg:  -0.0658434984778
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:29 +0000
+a,b,c 3 3 1
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 3 , 3 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 3 , 3 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 3 , 3 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 3 , 3 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:30 +0000
+a,b,c 3 3 2
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 3 , 3 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd 1.08854329001 .
+Success.
+Reorg:  0.0717185164431
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 3 , 3 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd 1.54490695152 .
+Success.
+Reorg:  0.299900347199
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 3 , 3 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd -0.100676767439 .
+Success.
+Reorg:  -0.52289151228
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 3 , 3 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd 0.338925231771 .
+Success.
+Reorg:  -0.303090512675
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:32 +0000
+a,b,c 3 3 3
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 3 , 3 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 3 , 3 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 3 , 3 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 3 , 3 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+
+
+DIST:  2 
+
+Sat, 21 Jun 2014 02:02:32 +0000
+a,b,c 0 0 0
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 0 , 0 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  6
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 0 , 0 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  6
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 0 , 0 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  6
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 0 , 0 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  6
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:32 +0000
+a,b,c 0 0 1
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 0 , 0 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 0 , 0 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 0 , 0 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 0 , 0 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:32 +0000
+a,b,c 0 0 2
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 0 , 0 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 0 , 0 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 0 , 0 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 0 , 0 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:32 +0000
+a,b,c 0 0 3
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 0 , 0 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 0 , 0 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 0 , 0 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 0 , 0 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:32 +0000
+a,b,c 0 0 4
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 0 , 0 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  6
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 0 , 0 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  6
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 0 , 0 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  6
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 0 , 0 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  6
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:32 +0000
+a,b,c 0 1 0
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 0 , 1 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 0 , 1 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 0 , 1 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 0 , 1 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:33 +0000
+a,b,c 0 1 1
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 0 , 1 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 0 , 1 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 0 , 1 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 0 , 1 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:33 +0000
+a,b,c 0 1 2
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 0 , 1 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 0 , 1 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 0 , 1 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 0 , 1 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:33 +0000
+a,b,c 0 1 3
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 0 , 1 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 0 , 1 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 0 , 1 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 0 , 1 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:33 +0000
+a,b,c 0 1 4
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 0 , 1 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 0 , 1 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 0 , 1 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 0 , 1 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:33 +0000
+a,b,c 0 2 0
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 0 , 2 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 0 , 2 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 0 , 2 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 0 , 2 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:33 +0000
+a,b,c 0 2 1
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 0 , 2 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 0 , 2 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 0 , 2 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 0 , 2 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:33 +0000
+a,b,c 0 2 2
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 0 , 2 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd 4.21893050959 .
+Success.
+Reorg:  1.63691212623
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 0 , 2 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd 1.90135984366 .
+Success.
+Reorg:  0.478126793271
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 0 , 2 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd 2.10647169666 .
+Success.
+Reorg:  0.580682719771
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 0 , 2 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd 3.56766049808 .
+Success.
+Reorg:  1.31127712048
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:35 +0000
+a,b,c 0 2 3
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 0 , 2 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 0 , 2 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 0 , 2 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 0 , 2 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:36 +0000
+a,b,c 0 2 4
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 0 , 2 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 0 , 2 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 0 , 2 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 0 , 2 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:36 +0000
+a,b,c 0 3 0
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 0 , 3 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 0 , 3 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 0 , 3 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 0 , 3 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:36 +0000
+a,b,c 0 3 1
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 0 , 3 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 0 , 3 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 0 , 3 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 0 , 3 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:36 +0000
+a,b,c 0 3 2
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 0 , 3 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 0 , 3 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 0 , 3 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 0 , 3 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:36 +0000
+a,b,c 0 3 3
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 0 , 3 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 0 , 3 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 0 , 3 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 0 , 3 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:36 +0000
+a,b,c 0 3 4
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 0 , 3 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 0 , 3 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 0 , 3 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 0 , 3 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:36 +0000
+a,b,c 0 4 0
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 0 , 4 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  6
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 0 , 4 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  6
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 0 , 4 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  6
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 0 , 4 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  6
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:36 +0000
+a,b,c 0 4 1
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 0 , 4 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 0 , 4 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 0 , 4 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 0 , 4 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:37 +0000
+a,b,c 0 4 2
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 0 , 4 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 0 , 4 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 0 , 4 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 0 , 4 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:37 +0000
+a,b,c 0 4 3
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 0 , 4 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 0 , 4 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 0 , 4 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 0 , 4 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:37 +0000
+a,b,c 0 4 4
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 0 , 4 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  6
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 0 , 4 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  6
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 0 , 4 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  6
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 0 , 4 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  6
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:37 +0000
+a,b,c 1 0 0
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 1 , 0 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 1 , 0 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 1 , 0 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 1 , 0 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:37 +0000
+a,b,c 1 0 1
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 1 , 0 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 1 , 0 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 1 , 0 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 1 , 0 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:38 +0000
+a,b,c 1 0 2
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 1 , 0 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 1 , 0 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 1 , 0 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 1 , 0 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:38 +0000
+a,b,c 1 0 3
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 1 , 0 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 1 , 0 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 1 , 0 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 1 , 0 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:38 +0000
+a,b,c 1 0 4
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 1 , 0 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 1 , 0 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 1 , 0 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 1 , 0 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:38 +0000
+a,b,c 1 1 0
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 1 , 1 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 1 , 1 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 1 , 1 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 1 , 1 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:38 +0000
+a,b,c 1 1 1
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 1 , 1 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 1 , 1 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 1 , 1 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 1 , 1 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:39 +0000
+a,b,c 1 1 2
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 1 , 1 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Already Calculated
+Reorg:  -0.0617279445445
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 1 , 1 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Already Calculated
+Reorg:  -0.487517321443
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 1 , 1 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Already Calculated
+Reorg:  0.67616356692
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 1 , 1 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Already Calculated
+Reorg:  1.06379480474
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:39 +0000
+a,b,c 1 1 3
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 1 , 1 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 1 , 1 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 1 , 1 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 1 , 1 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:39 +0000
+a,b,c 1 1 4
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 1 , 1 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 1 , 1 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 1 , 1 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 1 , 1 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:39 +0000
+a,b,c 1 2 0
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 1 , 2 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 1 , 2 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 1 , 2 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 1 , 2 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:39 +0000
+a,b,c 1 2 1
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 1 , 2 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Already Calculated
+Reorg:  -1.29157373488
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 1 , 2 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Already Calculated
+Reorg:  0.331441316393
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 1 , 2 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Already Calculated
+Reorg:  0.368076442733
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 1 , 2 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Already Calculated
+Reorg:  -1.4335136149
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:39 +0000
+a,b,c 1 2 2
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 1 , 2 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  1
+Already Calculated
+Reorg:  0.523142394857
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 1 , 2 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  1
+Already Calculated
+Reorg:  -0.738953022707
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 1 , 2 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  1
+Already Calculated
+Reorg:  -0.87302626688
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 1 , 2 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  1
+Already Calculated
+Reorg:  0.777336722128
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:39 +0000
+a,b,c 1 2 3
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 1 , 2 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Already Calculated
+Reorg:  0.00799756055855
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 1 , 2 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Already Calculated
+Reorg:  -0.463164166861
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 1 , 2 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Already Calculated
+Reorg:  -0.0465652465388
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 1 , 2 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Already Calculated
+Reorg:  -0.0774562130132
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:40 +0000
+a,b,c 1 2 4
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 1 , 2 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 1 , 2 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 1 , 2 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 1 , 2 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:40 +0000
+a,b,c 1 3 0
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 1 , 3 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 1 , 3 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 1 , 3 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 1 , 3 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:40 +0000
+a,b,c 1 3 1
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 1 , 3 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 1 , 3 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 1 , 3 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 1 , 3 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:40 +0000
+a,b,c 1 3 2
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 1 , 3 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Already Calculated
+Reorg:  0.0914750580702
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 1 , 3 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Already Calculated
+Reorg:  0.25568746248
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 1 , 3 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Already Calculated
+Reorg:  -0.585519076279
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 1 , 3 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Already Calculated
+Reorg:  -0.319665923022
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:40 +0000
+a,b,c 1 3 3
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 1 , 3 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 1 , 3 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 1 , 3 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 1 , 3 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:40 +0000
+a,b,c 1 3 4
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 1 , 3 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 1 , 3 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 1 , 3 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 1 , 3 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:40 +0000
+a,b,c 1 4 0
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 1 , 4 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 1 , 4 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 1 , 4 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 1 , 4 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:40 +0000
+a,b,c 1 4 1
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 1 , 4 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 1 , 4 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 1 , 4 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 1 , 4 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:41 +0000
+a,b,c 1 4 2
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 1 , 4 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 1 , 4 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 1 , 4 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 1 , 4 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:41 +0000
+a,b,c 1 4 3
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 1 , 4 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 1 , 4 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 1 , 4 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 1 , 4 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:41 +0000
+a,b,c 1 4 4
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 1 , 4 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 1 , 4 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 1 , 4 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 1 , 4 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:41 +0000
+a,b,c 2 0 0
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 2 , 0 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 2 , 0 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 2 , 0 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 2 , 0 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:41 +0000
+a,b,c 2 0 1
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 2 , 0 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 2 , 0 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 2 , 0 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 2 , 0 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:41 +0000
+a,b,c 2 0 2
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 2 , 0 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd 1.52898174519 .
+Success.
+Reorg:  0.291937744036
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 2 , 0 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd 2.43193705854 .
+Success.
+Reorg:  0.743415400707
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 2 , 0 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd -1.54949317007 .
+Success.
+Reorg:  -1.2472997136
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 2 , 0 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd -2.24746734666 .
+Success.
+Reorg:  -1.59628680189
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:43 +0000
+a,b,c 2 0 3
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 2 , 0 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 2 , 0 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 2 , 0 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 2 , 0 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:43 +0000
+a,b,c 2 0 4
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 2 , 0 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 2 , 0 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 2 , 0 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 2 , 0 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:44 +0000
+a,b,c 2 1 0
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 2 , 1 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 2 , 1 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 2 , 1 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 2 , 1 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:44 +0000
+a,b,c 2 1 1
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 2 , 1 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Already Calculated
+Reorg:  -0.643398647906
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 2 , 1 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Already Calculated
+Reorg:  -2.00839715048
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 2 , 1 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Already Calculated
+Reorg:  -0.730038065043
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 2 , 1 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Already Calculated
+Reorg:  -2.41256690695
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:44 +0000
+a,b,c 2 1 2
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 2 , 1 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  1
+Already Calculated
+Reorg:  1.67191975206
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 2 , 1 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  1
+Already Calculated
+Reorg:  -0.113583930003
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 2 , 1 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  1
+Already Calculated
+Reorg:  -1.15873165116
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 2 , 1 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  1
+Already Calculated
+Reorg:  -3.67119298776
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:44 +0000
+a,b,c 2 1 3
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 2 , 1 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Already Calculated
+Reorg:  0.117014989408
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 2 , 1 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Already Calculated
+Reorg:  -1.71432780535
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 2 , 1 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Already Calculated
+Reorg:  -1.33014914332
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 2 , 1 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Already Calculated
+Reorg:  -0.0685776838938
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:44 +0000
+a,b,c 2 1 4
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 2 , 1 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 2 , 1 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 2 , 1 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 2 , 1 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:44 +0000
+a,b,c 2 2 0
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 2 , 2 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd -3.67398244519 .
+Success.
+Reorg:  -2.30954435116
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 2 , 2 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd -1.20315876451 .
+Success.
+Reorg:  -1.07413251081
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 2 , 2 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd 1.06032348169 .
+Success.
+Reorg:  0.057608612282
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 2 , 2 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd -3.23536136965 .
+Success.
+Reorg:  -2.09023381339
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:46 +0000
+a,b,c 2 2 1
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 2 , 2 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  1
+Already Calculated
+Reorg:  -1.13513806817
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 2 , 2 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  1
+Already Calculated
+Reorg:  -2.02415329477
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 2 , 2 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  1
+Already Calculated
+Reorg:  -3.46414266411
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 2 , 2 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  1
+Already Calculated
+Reorg:  -1.20056689208
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:46 +0000
+a,b,c 2 2 2
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 2 , 2 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  0
+Same Molecule
+Reorg:  0.0
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 2 , 2 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  0
+Already Calculated
+Reorg:  -1.09745793773
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 2 , 2 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  0
+Already Calculated
+Reorg:  -0.896279959494
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 2 , 2 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  0
+Already Calculated
+Reorg:  -1.87841021474
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:47 +0000
+a,b,c 2 2 3
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 2 , 2 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  1
+Already Calculated
+Reorg:  -0.997014593055
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 2 , 2 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  1
+Already Calculated
+Reorg:  -2.23177284163
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 2 , 2 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  1
+Already Calculated
+Reorg:  -1.48698835034
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 2 , 2 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  1
+Already Calculated
+Reorg:  0.0610248068177
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:47 +0000
+a,b,c 2 2 4
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 2 , 2 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd 0.164832380327 .
+Success.
+Reorg:  -0.390136938397
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 2 , 2 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd -1.41421147845 .
+Success.
+Reorg:  -1.17965886779
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 2 , 2 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd -0.894762791112 .
+Success.
+Reorg:  -0.919934524117
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 2 , 2 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd 0.494359301354 .
+Success.
+Reorg:  -0.225373477884
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:49 +0000
+a,b,c 2 3 0
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 2 , 3 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 2 , 3 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 2 , 3 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 2 , 3 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:49 +0000
+a,b,c 2 3 1
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 2 , 3 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Already Calculated
+Reorg:  -1.21356386802
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 2 , 3 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Already Calculated
+Reorg:  -0.775830802209
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 2 , 3 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Already Calculated
+Reorg:  -1.89608974066
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 2 , 3 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Already Calculated
+Reorg:  -0.991042183709
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:49 +0000
+a,b,c 2 3 2
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 2 , 3 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  1
+Already Calculated
+Reorg:  -0.860411959317
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 2 , 3 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  1
+Already Calculated
+Reorg:  -0.881172952414
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 2 , 3 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  1
+Already Calculated
+Reorg:  -0.617539169191
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 2 , 3 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  1
+Already Calculated
+Reorg:  -3.66231219745
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:49 +0000
+a,b,c 2 3 3
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 2 , 3 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Already Calculated
+Reorg:  -1.09017943483
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 2 , 3 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Already Calculated
+Reorg:  -1.08436264008
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 2 , 3 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Already Calculated
+Reorg:  -1.11509196937
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 2 , 3 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Already Calculated
+Reorg:  -0.328316323611
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:49 +0000
+a,b,c 2 3 4
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 2 , 3 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 2 , 3 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 2 , 3 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 2 , 3 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:49 +0000
+a,b,c 2 4 0
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 2 , 4 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 2 , 4 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 2 , 4 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 2 , 4 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:49 +0000
+a,b,c 2 4 1
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 2 , 4 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 2 , 4 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 2 , 4 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 2 , 4 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:50 +0000
+a,b,c 2 4 2
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 2 , 4 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd -0.0107046487344 .
+Success.
+Reorg:  -0.477905452928
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 2 , 4 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd -0.195762101669 .
+Success.
+Reorg:  -0.570434179395
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 2 , 4 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd -0.34378000836 .
+Success.
+Reorg:  -0.644443132741
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 2 , 4 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd -2.53400643307 .
+Success.
+Reorg:  -1.73955634509
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:52 +0000
+a,b,c 2 4 3
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 2 , 4 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 2 , 4 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 2 , 4 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 2 , 4 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:52 +0000
+a,b,c 2 4 4
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 2 , 4 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 2 , 4 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 2 , 4 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 2 , 4 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:52 +0000
+a,b,c 3 0 0
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 3 , 0 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 3 , 0 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 3 , 0 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 3 , 0 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:52 +0000
+a,b,c 3 0 1
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 3 , 0 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 3 , 0 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 3 , 0 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 3 , 0 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:52 +0000
+a,b,c 3 0 2
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 3 , 0 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 3 , 0 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 3 , 0 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 3 , 0 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:52 +0000
+a,b,c 3 0 3
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 3 , 0 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 3 , 0 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 3 , 0 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 3 , 0 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:53 +0000
+a,b,c 3 0 4
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 3 , 0 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 3 , 0 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 3 , 0 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 3 , 0 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:54 +0000
+a,b,c 3 1 0
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 3 , 1 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 3 , 1 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 3 , 1 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 3 , 1 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:54 +0000
+a,b,c 3 1 1
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 3 , 1 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 3 , 1 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 3 , 1 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 3 , 1 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:54 +0000
+a,b,c 3 1 2
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 3 , 1 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Already Calculated
+Reorg:  -0.0849550008931
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 3 , 1 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Already Calculated
+Reorg:  -0.495751268911
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 3 , 1 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Already Calculated
+Reorg:  0.708134308617
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 3 , 1 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Already Calculated
+Reorg:  1.09241143472
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:54 +0000
+a,b,c 3 1 3
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 3 , 1 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 3 , 1 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 3 , 1 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 3 , 1 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:54 +0000
+a,b,c 3 1 4
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 3 , 1 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 3 , 1 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 3 , 1 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 3 , 1 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:54 +0000
+a,b,c 3 2 0
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 3 , 2 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 3 , 2 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 3 , 2 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 3 , 2 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:55 +0000
+a,b,c 3 2 1
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 3 , 2 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Already Calculated
+Reorg:  -1.29130014539
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 3 , 2 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Already Calculated
+Reorg:  0.352469346504
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 3 , 2 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Already Calculated
+Reorg:  0.473132912207
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 3 , 2 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Already Calculated
+Reorg:  -1.36015833621
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:55 +0000
+a,b,c 3 2 2
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 3 , 2 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  1
+Already Calculated
+Reorg:  0.493151691035
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 3 , 2 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  1
+Already Calculated
+Reorg:  -0.731008373056
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 3 , 2 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  1
+Already Calculated
+Reorg:  -0.786689364214
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 3 , 2 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  1
+Already Calculated
+Reorg:  0.759674163992
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:55 +0000
+a,b,c 3 2 3
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 3 , 2 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Already Calculated
+Reorg:  -0.00513071065714
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 3 , 2 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Already Calculated
+Reorg:  -0.468502034566
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 3 , 2 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Already Calculated
+Reorg:  0.0102600365403
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 3 , 2 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Already Calculated
+Reorg:  -0.0658434984778
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:55 +0000
+a,b,c 3 2 4
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 3 , 2 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 3 , 2 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 3 , 2 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 3 , 2 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:55 +0000
+a,b,c 3 3 0
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 3 , 3 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 3 , 3 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 3 , 3 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 3 , 3 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:55 +0000
+a,b,c 3 3 1
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 3 , 3 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 3 , 3 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 3 , 3 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 3 , 3 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:55 +0000
+a,b,c 3 3 2
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 3 , 3 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Already Calculated
+Reorg:  0.0717185164431
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 3 , 3 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Already Calculated
+Reorg:  0.299900347199
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 3 , 3 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Already Calculated
+Reorg:  -0.52289151228
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 3 , 3 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+Already Calculated
+Reorg:  -0.303090512675
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:55 +0000
+a,b,c 3 3 3
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 3 , 3 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 3 , 3 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 3 , 3 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 3 , 3 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:56 +0000
+a,b,c 3 3 4
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 3 , 3 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 3 , 3 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 3 , 3 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 3 , 3 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:56 +0000
+a,b,c 3 4 0
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 3 , 4 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 3 , 4 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 3 , 4 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 3 , 4 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:56 +0000
+a,b,c 3 4 1
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 3 , 4 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 3 , 4 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 3 , 4 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 3 , 4 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:56 +0000
+a,b,c 3 4 2
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 3 , 4 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 3 , 4 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 3 , 4 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 3 , 4 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:56 +0000
+a,b,c 3 4 3
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 3 , 4 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 3 , 4 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 3 , 4 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 3 , 4 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:56 +0000
+a,b,c 3 4 4
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 3 , 4 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 3 , 4 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 3 , 4 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 3 , 4 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:56 +0000
+a,b,c 4 0 0
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 4 , 0 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  6
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 4 , 0 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  6
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 4 , 0 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  6
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 4 , 0 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  6
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:57 +0000
+a,b,c 4 0 1
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 4 , 0 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 4 , 0 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 4 , 0 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 4 , 0 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:57 +0000
+a,b,c 4 0 2
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 4 , 0 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 4 , 0 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 4 , 0 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 4 , 0 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:57 +0000
+a,b,c 4 0 3
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 4 , 0 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 4 , 0 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 4 , 0 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 4 , 0 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:57 +0000
+a,b,c 4 0 4
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 4 , 0 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  6
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 4 , 0 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  6
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 4 , 0 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  6
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 4 , 0 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  6
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:57 +0000
+a,b,c 4 1 0
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 4 , 1 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 4 , 1 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 4 , 1 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 4 , 1 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:57 +0000
+a,b,c 4 1 1
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 4 , 1 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 4 , 1 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 4 , 1 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 4 , 1 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:57 +0000
+a,b,c 4 1 2
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 4 , 1 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 4 , 1 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 4 , 1 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 4 , 1 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:58 +0000
+a,b,c 4 1 3
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 4 , 1 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 4 , 1 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 4 , 1 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 4 , 1 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:58 +0000
+a,b,c 4 1 4
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 4 , 1 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 4 , 1 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 4 , 1 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 4 , 1 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:58 +0000
+a,b,c 4 2 0
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 4 , 2 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 4 , 2 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 4 , 2 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 4 , 2 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:58 +0000
+a,b,c 4 2 1
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 4 , 2 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 4 , 2 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 4 , 2 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 4 , 2 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:02:58 +0000
+a,b,c 4 2 2
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 4 , 2 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd 4.20400802252 .
+Success.
+Reorg:  1.6294508827
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 4 , 2 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd 1.91505418022 .
+Success.
+Reorg:  0.484973961552
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 4 , 2 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd 2.12837869466 .
+Success.
+Reorg:  0.591636218769
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 4 , 2 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  2
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  0.945106257121 , Newuqd 3.56215198132 .
+Success.
+Reorg:  1.3085228621
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:03:00 +0000
+a,b,c 4 2 3
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 4 , 2 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 4 , 2 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 4 , 2 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 4 , 2 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:03:00 +0000
+a,b,c 4 2 4
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 4 , 2 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 4 , 2 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 4 , 2 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 4 , 2 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:03:00 +0000
+a,b,c 4 3 0
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 4 , 3 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 4 , 3 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 4 , 3 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 4 , 3 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:03:01 +0000
+a,b,c 4 3 1
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 4 , 3 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 4 , 3 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 4 , 3 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 4 , 3 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:03:01 +0000
+a,b,c 4 3 2
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 4 , 3 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 4 , 3 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 4 , 3 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 4 , 3 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:03:01 +0000
+a,b,c 4 3 3
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 4 , 3 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 4 , 3 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 4 , 3 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 4 , 3 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:03:01 +0000
+a,b,c 4 3 4
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 4 , 3 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 4 , 3 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 4 , 3 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 4 , 3 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:03:01 +0000
+a,b,c 4 4 0
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 4 , 4 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  6
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 4 , 4 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  6
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 4 , 4 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  6
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 4 , 4 , 0 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  6
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:03:01 +0000
+a,b,c 4 4 1
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 4 , 4 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 4 , 4 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 4 , 4 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 4 , 4 , 1 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:03:01 +0000
+a,b,c 4 4 2
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 4 , 4 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 4 , 4 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 4 , 4 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 4 , 4 , 2 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  4
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:03:01 +0000
+a,b,c 4 4 3
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 4 , 4 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 4 , 4 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 4 , 4 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 4 , 4 , 3 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  5
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Sat, 21 Jun 2014 02:03:02 +0000
+a,b,c 4 4 4
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  0 at 4 , 4 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  6
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  1 at 4 , 4 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  6
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  2 at 4 , 4 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  6
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Attempting to swapping charges of molecule  0 at 2 , 2 , 2  and molecule  3 at 4 , 4 , 4 .
+cenpos [2, 2, 2]
+maxTVs:  2
+nVs:  6
+No molecule in 2nd position.
+Reorg:  []
+lengths [6, 6, 6]
+Job Completed Successfully.
+Job terminated normally

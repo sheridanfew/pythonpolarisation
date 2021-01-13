@@ -1,0 +1,60 @@
+Fitting screenradius to Thole components using Tholeexp and atom polarisabilities from vanDuijnen component fit:
+
+screenradius =  1.68384957924
+Generating JMatrix( TholeExp , screenradius =  1.68384957924 )
+eta_w_cost 0.00910895259136
+calpol:
+[[ 71.95   0.     0.  ]
+ [  0.    71.95   0.  ]
+ [  0.     0.    27.06]]
+pypol:
+[[  6.83978590e+01   6.26912113e-08   0.00000000e+00]
+ [  6.26912109e-08   6.83987472e+01   0.00000000e+00]
+ [  0.00000000e+00   0.00000000e+00   2.52989238e+01]]
+py_over_cal
+[[ 0.95063042         inf         nan]
+ [        inf  0.95064277         nan]
+ [        nan         nan  0.93491958]]
+py over cal three linear compnents:
+../Molecules/py_Benzene_MOPAC.xyz 0.950630424349 0.95064276879 0.934919578069 eta:
+0.00910895259136
+etatot
+0.697415892714
+    0.697416 |      1.68385        6.578       1.3849        1e-06        1e-06       0.0001        1e-06
+
+
+
+
+FIT a ONLY TO BENZENE:
+
+keywords understood:
+H: 1.3849
+C: 6.578
+pi: 1e-06
+single: 1e-06
+dpi: 0.0001
+screenradius  1.74589306887
+../Molecules/py_Benzene_MOPAC.xyz
+costfactor 1.0
+JM: TholeExp
+screenradius =  1.74589306887
+Generating JMatrix( TholeExp , screenradius =  1.74589306887 )
+eta_w_cost 0.00547748540135
+calpol:
+[[ 71.95   0.     0.  ]
+ [  0.    71.95   0.  ]
+ [  0.     0.    27.06]]
+pypol:
+[[  7.15526143e+01   2.19188541e-06   0.00000000e+00]
+ [  2.19188542e-06   7.15535725e+01   0.00000000e+00]
+ [  0.00000000e+00   0.00000000e+00   2.50684459e+01]]
+py_over_cal
+[[ 0.99447692         inf         nan]
+ [        inf  0.99449024         nan]
+ [        nan         nan  0.92640229]]
+py over cal three linear compnents:
+../Molecules/py_Benzene_MOPAC.xyz 0.994476919133 0.994490236556 0.926402286137 eta:
+0.00547748540135
+etatot
+0.00547748540135
+  0.00547749 |      1.74589        6.578       1.3849        1e-06        1e-06       0.0001        1e-06

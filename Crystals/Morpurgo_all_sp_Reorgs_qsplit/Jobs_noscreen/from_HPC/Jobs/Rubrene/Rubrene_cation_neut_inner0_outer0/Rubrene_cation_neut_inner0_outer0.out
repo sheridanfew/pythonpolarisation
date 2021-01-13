@@ -1,0 +1,54 @@
+Sat, 21 Jun 2014 01:53:09 +0000
+name:  Rubrene_cation_neut_inner0_outer0 mols_cen:  ['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']  mols_sur:  ['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']  TVs:  [[  1.35759815e+01   0.00000000e+00   0.00000000e+00]
+ [  1.67011110e-15   2.72749841e+01   0.00000000e+00]
+ [  3.11239614e-15   3.11239614e-15   5.08292864e+01]]
+Placing Molecules.
+Molecules placed.
+state cation
+q:  1.0
+Sat, 21 Jun 2014 01:53:09 +0000
+Sat, 21 Jun 2014 01:53:09 +0000
+Calc jm
+Sat, 21 Jun 2014 01:53:09 +0000
+Calc dips:
+Sat, 21 Jun 2014 01:53:09 +0000
+Sat, 21 Jun 2014 01:53:09 +0000
+splitting dips onto atoms
+Sat, 21 Jun 2014 01:53:09 +0000
+summing dips:
+Sat, 21 Jun 2014 01:53:09 +0000
+total dip moment [[ 1.01261585  0.75818176  0.06998404]]
+Sat, 21 Jun 2014 01:53:09 +0000
+Uqq 0.0
+Sat, 21 Jun 2014 01:53:09 +0000
+Uqd -0.0860874865713
+Sat, 21 Jun 2014 01:53:09 +0000
+Udd 0.0430437432857
+energyev -0.0430437432857
+Sat, 21 Jun 2014 01:53:09 +0000
+Making .dat cross sections for gnuplot
+
+
+DIST:  0 
+
+Sat, 21 Jun 2014 01:53:09 +0000
+a,b,c 0 0 0
+Attempting to swapping charges of molecule  0 at 0 , 0 , 0  and molecule  0 at 0 , 0 , 0 .
+cenpos [0, 0, 0]
+maxTVs:  0
+nVs:  0
+Same Molecule
+Reorg:  0.0
+lengths [2, 2, 2]
+Attempting to swapping charges of molecule  0 at 0 , 0 , 0  and molecule  1 at 0 , 0 , 0 .
+cenpos [0, 0, 0]
+maxTVs:  0
+nVs:  0
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  -0.0860874865713 , Newuqd -0.0388515824968 .
+Success.
+Reorg:  0.0236179520373
+lengths [2, 2, 2]
+Job Completed Successfully.
+Job terminated normally

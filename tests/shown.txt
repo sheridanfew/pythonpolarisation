@@ -1,0 +1,16 @@
+1_proton_ENERGY_test.py:
+
+NOT U - -1/2 E.polarisability.E
+
+vs. self energy U = 1/2(mu)(pol^-1)(mu)
+for isotropic mu:
+		U = 1/2(mu-1)(mu^2)E^2
+		=> Exactly cancel
+
+2_neutron_dist_ENERGY_test.py
+
+polarisabilities do not interact within cutoff range, do outside
+
+2_proton_dist_ENERGY_test.py
+
+charges still interact with dipoles within cutoff (for opposite molecules)

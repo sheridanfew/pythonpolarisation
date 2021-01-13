@@ -1,0 +1,10 @@
+ISSUE WITH NORMALISATION
+
+- New eta method will give MAGNITUDES out rather than ABSOLUTE values
+- These will be identical for bonds, whose polarisability tensor is defined in only one direction, but NOT for atoms, in which each diagonal component of the polarizability tensor will be:
+
+(MAG)
+
+3 (comp)**2 = MAG ** 2
+
+=> comp = MAG/(root 3)

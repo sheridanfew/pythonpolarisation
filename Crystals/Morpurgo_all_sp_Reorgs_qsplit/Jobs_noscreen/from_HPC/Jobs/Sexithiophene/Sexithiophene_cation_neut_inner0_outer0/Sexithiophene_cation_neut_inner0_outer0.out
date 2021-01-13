@@ -1,0 +1,74 @@
+Sat, 21 Jun 2014 02:01:25 +0000
+name:  Sexithiophene_cation_neut_inner0_outer0 mols_cen:  ['sp_sexithiophene_mola_neut.xyz', 'sp_sexithiophene_molb_neut.xyz', 'sp_sexithiophene_molc_neut.xyz', 'sp_sexithiophene_mold_neut.xyz']  mols_sur:  ['sp_sexithiophene_mola_neut.xyz', 'sp_sexithiophene_molb_neut.xyz', 'sp_sexithiophene_molc_neut.xyz', 'sp_sexithiophene_mold_neut.xyz']  TVs:  [[  8.44870094e+01   0.00000000e+00   0.00000000e+00]
+ [  9.08492393e-16   1.48368067e+01   0.00000000e+00]
+ [ -1.51522837e-01   7.06931013e-16   1.13925292e+01]]
+Placing Molecules.
+Molecules placed.
+state cation
+q:  1.0
+Sat, 21 Jun 2014 02:01:25 +0000
+Sat, 21 Jun 2014 02:01:25 +0000
+Calc jm
+Sat, 21 Jun 2014 02:01:25 +0000
+Calc dips:
+Sat, 21 Jun 2014 02:01:25 +0000
+Sat, 21 Jun 2014 02:01:25 +0000
+splitting dips onto atoms
+Sat, 21 Jun 2014 02:01:25 +0000
+summing dips:
+Sat, 21 Jun 2014 02:01:25 +0000
+total dip moment [[ 26.25444563 -30.58811167  55.91583199]]
+Sat, 21 Jun 2014 02:01:25 +0000
+Uqq 0.0
+Sat, 21 Jun 2014 02:01:25 +0000
+Uqd 15.8504798349
+Sat, 21 Jun 2014 02:01:25 +0000
+Udd -7.92523991747
+energyev 7.92523991747
+Sat, 21 Jun 2014 02:01:25 +0000
+Making .dat cross sections for gnuplot
+
+
+DIST:  0 
+
+Sat, 21 Jun 2014 02:01:25 +0000
+a,b,c 0 0 0
+Attempting to swapping charges of molecule  0 at 0 , 0 , 0  and molecule  0 at 0 , 0 , 0 .
+cenpos [0, 0, 0]
+maxTVs:  0
+nVs:  0
+Same Molecule
+Reorg:  0.0
+lengths [2, 2, 2]
+Attempting to swapping charges of molecule  0 at 0 , 0 , 0  and molecule  1 at 0 , 0 , 0 .
+cenpos [0, 0, 0]
+maxTVs:  0
+nVs:  0
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  15.8504798349 , Newuqd 0.136958590578 .
+Success.
+Reorg:  -7.85676062218
+lengths [2, 2, 2]
+Attempting to swapping charges of molecule  0 at 0 , 0 , 0  and molecule  2 at 0 , 0 , 0 .
+cenpos [0, 0, 0]
+maxTVs:  0
+nVs:  0
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  15.8504798349 , Newuqd 5.96377121402 .
+Success.
+Reorg:  -4.94335431046
+lengths [2, 2, 2]
+Attempting to swapping charges of molecule  0 at 0 , 0 , 0  and molecule  3 at 0 , 0 , 0 .
+cenpos [0, 0, 0]
+maxTVs:  0
+nVs:  0
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  15.8504798349 , Newuqd 7.52053415626 .
+Success.
+Reorg:  -4.16497283933
+lengths [2, 2, 2]
+Job Completed Successfully.
+Job terminated normally

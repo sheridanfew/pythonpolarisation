@@ -1,0 +1,309 @@
+Sat, 21 Jun 2014 02:14:29 +0000
+name:  TIPS_Pc_cation_neut_inner1_outer0 mols_cen:  ['sp_TIPS_Pc_neut.xyz']  mols_sur:  ['sp_TIPS_Pc_neut.xyz']  TVs:  [[ 14.29580648   0.           0.        ]
+ [  1.6241249   14.5550723    0.        ]
+ [  6.38460367  -0.23921713  31.16595845]]
+Placing Molecules.
+Molecules placed.
+state cation
+q:  1.0
+Sat, 21 Jun 2014 02:14:29 +0000
+Sat, 21 Jun 2014 02:14:29 +0000
+Calc jm
+Sat, 21 Jun 2014 02:14:29 +0000
+Calc dips:
+Sat, 21 Jun 2014 02:14:29 +0000
+Sat, 21 Jun 2014 02:14:29 +0000
+splitting dips onto atoms
+Sat, 21 Jun 2014 02:14:29 +0000
+summing dips:
+Sat, 21 Jun 2014 02:14:29 +0000
+total dip moment [[ -3.99680289e-15  -5.77315973e-15  -3.33066907e-16]]
+Sat, 21 Jun 2014 02:14:29 +0000
+Uqq 0.0
+Sat, 21 Jun 2014 02:14:29 +0000
+Uqd -1.20252601229
+Sat, 21 Jun 2014 02:14:29 +0000
+Udd 0.601263006147
+energyev -0.601263006147
+Sat, 21 Jun 2014 02:14:29 +0000
+Making .dat cross sections for gnuplot
+
+
+DIST:  0 
+
+Sat, 21 Jun 2014 02:14:29 +0000
+a,b,c 1 1 1
+Attempting to swapping charges of molecule  0 at 1 , 1 , 1  and molecule  0 at 1 , 1 , 1 .
+cenpos [1, 1, 1]
+maxTVs:  1
+nVs:  0
+Same Molecule
+Reorg:  0.0
+lengths [4, 4, 4]
+
+
+DIST:  1 
+
+Sat, 21 Jun 2014 02:14:29 +0000
+a,b,c 0 0 0
+Attempting to swapping charges of molecule  0 at 1 , 1 , 1  and molecule  0 at 0 , 0 , 0 .
+cenpos [1, 1, 1]
+maxTVs:  1
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [4, 4, 4]
+Sat, 21 Jun 2014 02:14:29 +0000
+a,b,c 0 0 1
+Attempting to swapping charges of molecule  0 at 1 , 1 , 1  and molecule  0 at 0 , 0 , 1 .
+cenpos [1, 1, 1]
+maxTVs:  1
+nVs:  2
+No molecule in 2nd position.
+Reorg:  []
+lengths [4, 4, 4]
+Sat, 21 Jun 2014 02:14:29 +0000
+a,b,c 0 0 2
+Attempting to swapping charges of molecule  0 at 1 , 1 , 1  and molecule  0 at 0 , 0 , 2 .
+cenpos [1, 1, 1]
+maxTVs:  1
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [4, 4, 4]
+Sat, 21 Jun 2014 02:14:29 +0000
+a,b,c 0 1 0
+Attempting to swapping charges of molecule  0 at 1 , 1 , 1  and molecule  0 at 0 , 1 , 0 .
+cenpos [1, 1, 1]
+maxTVs:  1
+nVs:  2
+No molecule in 2nd position.
+Reorg:  []
+lengths [4, 4, 4]
+Sat, 21 Jun 2014 02:14:29 +0000
+a,b,c 0 1 1
+Attempting to swapping charges of molecule  0 at 1 , 1 , 1  and molecule  0 at 0 , 1 , 1 .
+cenpos [1, 1, 1]
+maxTVs:  1
+nVs:  1
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  -1.20252601229 , Newuqd -0.673344772029 .
+Success.
+Reorg:  0.264590620132
+lengths [4, 4, 4]
+Sat, 21 Jun 2014 02:14:29 +0000
+a,b,c 0 1 2
+Attempting to swapping charges of molecule  0 at 1 , 1 , 1  and molecule  0 at 0 , 1 , 2 .
+cenpos [1, 1, 1]
+maxTVs:  1
+nVs:  2
+No molecule in 2nd position.
+Reorg:  []
+lengths [4, 4, 4]
+Sat, 21 Jun 2014 02:14:29 +0000
+a,b,c 0 2 0
+Attempting to swapping charges of molecule  0 at 1 , 1 , 1  and molecule  0 at 0 , 2 , 0 .
+cenpos [1, 1, 1]
+maxTVs:  1
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [4, 4, 4]
+Sat, 21 Jun 2014 02:14:29 +0000
+a,b,c 0 2 1
+Attempting to swapping charges of molecule  0 at 1 , 1 , 1  and molecule  0 at 0 , 2 , 1 .
+cenpos [1, 1, 1]
+maxTVs:  1
+nVs:  2
+No molecule in 2nd position.
+Reorg:  []
+lengths [4, 4, 4]
+Sat, 21 Jun 2014 02:14:29 +0000
+a,b,c 0 2 2
+Attempting to swapping charges of molecule  0 at 1 , 1 , 1  and molecule  0 at 0 , 2 , 2 .
+cenpos [1, 1, 1]
+maxTVs:  1
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [4, 4, 4]
+Sat, 21 Jun 2014 02:14:29 +0000
+a,b,c 1 0 0
+Attempting to swapping charges of molecule  0 at 1 , 1 , 1  and molecule  0 at 1 , 0 , 0 .
+cenpos [1, 1, 1]
+maxTVs:  1
+nVs:  2
+No molecule in 2nd position.
+Reorg:  []
+lengths [4, 4, 4]
+Sat, 21 Jun 2014 02:14:29 +0000
+a,b,c 1 0 1
+Attempting to swapping charges of molecule  0 at 1 , 1 , 1  and molecule  0 at 1 , 0 , 1 .
+cenpos [1, 1, 1]
+maxTVs:  1
+nVs:  1
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  -1.20252601229 , Newuqd -0.638984526004 .
+Success.
+Reorg:  0.281770743144
+lengths [4, 4, 4]
+Sat, 21 Jun 2014 02:14:29 +0000
+a,b,c 1 0 2
+Attempting to swapping charges of molecule  0 at 1 , 1 , 1  and molecule  0 at 1 , 0 , 2 .
+cenpos [1, 1, 1]
+maxTVs:  1
+nVs:  2
+No molecule in 2nd position.
+Reorg:  []
+lengths [4, 4, 4]
+Sat, 21 Jun 2014 02:14:29 +0000
+a,b,c 1 1 0
+Attempting to swapping charges of molecule  0 at 1 , 1 , 1  and molecule  0 at 1 , 1 , 0 .
+cenpos [1, 1, 1]
+maxTVs:  1
+nVs:  1
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  -1.20252601229 , Newuqd -0.355512870309 .
+Success.
+Reorg:  0.423506570992
+lengths [4, 4, 4]
+Sat, 21 Jun 2014 02:14:29 +0000
+a,b,c 1 1 1
+Attempting to swapping charges of molecule  0 at 1 , 1 , 1  and molecule  0 at 1 , 1 , 1 .
+cenpos [1, 1, 1]
+maxTVs:  1
+nVs:  0
+Same Molecule
+Reorg:  0.0
+lengths [4, 4, 4]
+Sat, 21 Jun 2014 02:14:29 +0000
+a,b,c 1 1 2
+Attempting to swapping charges of molecule  0 at 1 , 1 , 1  and molecule  0 at 1 , 1 , 2 .
+cenpos [1, 1, 1]
+maxTVs:  1
+nVs:  1
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  -1.20252601229 , Newuqd -0.355512870309 .
+Success.
+Reorg:  0.423506570992
+lengths [4, 4, 4]
+Sat, 21 Jun 2014 02:14:29 +0000
+a,b,c 1 2 0
+Attempting to swapping charges of molecule  0 at 1 , 1 , 1  and molecule  0 at 1 , 2 , 0 .
+cenpos [1, 1, 1]
+maxTVs:  1
+nVs:  2
+No molecule in 2nd position.
+Reorg:  []
+lengths [4, 4, 4]
+Sat, 21 Jun 2014 02:14:29 +0000
+a,b,c 1 2 1
+Attempting to swapping charges of molecule  0 at 1 , 1 , 1  and molecule  0 at 1 , 2 , 1 .
+cenpos [1, 1, 1]
+maxTVs:  1
+nVs:  1
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  -1.20252601229 , Newuqd -0.638984526004 .
+Success.
+Reorg:  0.281770743144
+lengths [4, 4, 4]
+Sat, 21 Jun 2014 02:14:30 +0000
+a,b,c 1 2 2
+Attempting to swapping charges of molecule  0 at 1 , 1 , 1  and molecule  0 at 1 , 2 , 2 .
+cenpos [1, 1, 1]
+maxTVs:  1
+nVs:  2
+No molecule in 2nd position.
+Reorg:  []
+lengths [4, 4, 4]
+Sat, 21 Jun 2014 02:14:30 +0000
+a,b,c 2 0 0
+Attempting to swapping charges of molecule  0 at 1 , 1 , 1  and molecule  0 at 2 , 0 , 0 .
+cenpos [1, 1, 1]
+maxTVs:  1
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [4, 4, 4]
+Sat, 21 Jun 2014 02:14:30 +0000
+a,b,c 2 0 1
+Attempting to swapping charges of molecule  0 at 1 , 1 , 1  and molecule  0 at 2 , 0 , 1 .
+cenpos [1, 1, 1]
+maxTVs:  1
+nVs:  2
+No molecule in 2nd position.
+Reorg:  []
+lengths [4, 4, 4]
+Sat, 21 Jun 2014 02:14:30 +0000
+a,b,c 2 0 2
+Attempting to swapping charges of molecule  0 at 1 , 1 , 1  and molecule  0 at 2 , 0 , 2 .
+cenpos [1, 1, 1]
+maxTVs:  1
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [4, 4, 4]
+Sat, 21 Jun 2014 02:14:30 +0000
+a,b,c 2 1 0
+Attempting to swapping charges of molecule  0 at 1 , 1 , 1  and molecule  0 at 2 , 1 , 0 .
+cenpos [1, 1, 1]
+maxTVs:  1
+nVs:  2
+No molecule in 2nd position.
+Reorg:  []
+lengths [4, 4, 4]
+Sat, 21 Jun 2014 02:14:30 +0000
+a,b,c 2 1 1
+Attempting to swapping charges of molecule  0 at 1 , 1 , 1  and molecule  0 at 2 , 1 , 1 .
+cenpos [1, 1, 1]
+maxTVs:  1
+nVs:  1
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  -1.20252601229 , Newuqd -0.673344772029 .
+Success.
+Reorg:  0.264590620132
+lengths [4, 4, 4]
+Sat, 21 Jun 2014 02:14:30 +0000
+a,b,c 2 1 2
+Attempting to swapping charges of molecule  0 at 1 , 1 , 1  and molecule  0 at 2 , 1 , 2 .
+cenpos [1, 1, 1]
+maxTVs:  1
+nVs:  2
+No molecule in 2nd position.
+Reorg:  []
+lengths [4, 4, 4]
+Sat, 21 Jun 2014 02:14:30 +0000
+a,b,c 2 2 0
+Attempting to swapping charges of molecule  0 at 1 , 1 , 1  and molecule  0 at 2 , 2 , 0 .
+cenpos [1, 1, 1]
+maxTVs:  1
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [4, 4, 4]
+Sat, 21 Jun 2014 02:14:30 +0000
+a,b,c 2 2 1
+Attempting to swapping charges of molecule  0 at 1 , 1 , 1  and molecule  0 at 2 , 2 , 1 .
+cenpos [1, 1, 1]
+maxTVs:  1
+nVs:  2
+No molecule in 2nd position.
+Reorg:  []
+lengths [4, 4, 4]
+Sat, 21 Jun 2014 02:14:30 +0000
+a,b,c 2 2 2
+Attempting to swapping charges of molecule  0 at 1 , 1 , 1  and molecule  0 at 2 , 2 , 2 .
+cenpos [1, 1, 1]
+maxTVs:  1
+nVs:  3
+No molecule in 2nd position.
+Reorg:  []
+lengths [4, 4, 4]
+Job Completed Successfully.
+Job terminated normally

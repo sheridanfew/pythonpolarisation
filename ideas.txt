@@ -1,0 +1,44 @@
+
+Todo
+
+- Refit polarisabilities
+- Try w. middle bonds in acenes as single also?
+
+TO FIT: 
+Important: C, single, pi, S
+Less important: Si, double, triple, N, O
+
+Use nTs and acenes to fit first four, Morpurgo for others?
+
+Also have set of vsmall molecules
+
+
+Original C, S values are from a very old fit /Users/Shez/Dropbox/Phd/PythonPolarization/Singlemol_Pol_Detemination/old/nTneutfit.out. This fits oligothiophenes using only isotropically polarisable atoms.
+
+
+
+
+
+
+
+
+Ideas for bonds:
+
+- Fit single, 1.5, triple, etc manually
+- Find some description based upon lenth of bond, more Thole like?
+
+SUPPOSE:
+- Polarisability scales with number of electrons in bond (or square? Establish relation.)
+
+EG. Alpha = nelectrons * const
+
+- Number of bonds something like inverse with bond length
+
+EG. Nelectrons = (a-bondlength)/const
+Nelectrons = a/(bondlength+const)
+Would allow relation to be established
+
+
+-Edit aniso script in order to rotate [bondmag],0,0 to vector in bond direction (already defined)
+-Edit modify polarisability script such that magnitude is multiplied for bonds while fitting. (Maybe do this for all points)
+-Redo fit for oligothiophenes...!

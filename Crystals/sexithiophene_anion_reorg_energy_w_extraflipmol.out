@@ -1,0 +1,35 @@
+Fri, 13 Dec 2013 16:07:17 +0000
+n_refl_frac [[-0.57735027  0.57735027 -0.57735027]]
+d_refl 1.5
+TV:
+[[  4.47086000e+01   0.00000000e+00   0.00000000e+00]
+ [  4.80753471e-16   7.85130000e+00   0.00000000e+00]
+ [ -8.01824324e-02   3.74091782e-16   6.02866680e+00]]
+TV[0,1,2] are the three translation vectors.
+n_refl [[-25.7662289    4.53295017  -3.4806524 ]]
+n_refl_norm [[-0.97627292  0.17175181 -0.13188064]]
+[[[]]]
+x 0
+xlist 0
+0
+xlist,ylist,zlist 0 0 0
+ATOM POSITION FLIP:
+initial atom pos [[ 3.62009172  1.94503845  5.36000039]]
+Convert coords of atom (preflip) to fractional coords. atom_pos_fract [[ 0.08256534  0.24773457  0.88908553]]
+Dist to plane [[ 0.44807214]]
+Vector by which atom must move in fractional coords for reflection, movevec_frac [[ 0.51738914 -0.51738914  0.51738914]]
+Vector by which atom must move in cartesians coords for reflection, movevecc [[ 23.09025849]
+ [ -4.06217734]
+ [  3.11916672]]
+New position of atom (Cartesian) [[ 26.71035021  -2.11713889   8.47916711]]
+POLARISABILITY FLIP:
+atom()._pol [[ 15.4061   0.       0.    ]
+ [  0.      15.4061   0.    ]
+ [  0.       0.      15.4061]]
+Vector containing diagonal elements of polarisability tensor, atom_pol_diags [[ 15.4061  15.4061  15.4061]]
+Convert this to fractional coords, atom_pol_diags_frac [[ 0.34917229]
+ [ 1.96223555]
+ [ 2.55547379]]
+n_refl_frac_norm, atom_pol_diags_frac
+entered  molecule delete here
+entered  molecule delete here

@@ -1,0 +1,54 @@
+Sat, 21 Jun 2014 01:46:39 +0000
+name:  PTCDA_cation_neut_inner0_outer0 mols_cen:  ['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']  mols_sur:  ['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']  TVs:  [[  7.06757571e+00   0.00000000e+00   0.00000000e+00]
+ [  1.38391974e-15   2.26011244e+01   0.00000000e+00]
+ [ -5.01301709e+00   2.31341096e-15   3.23821204e+01]]
+Placing Molecules.
+Molecules placed.
+state cation
+q:  1.0
+Sat, 21 Jun 2014 01:46:39 +0000
+Sat, 21 Jun 2014 01:46:39 +0000
+Calc jm
+Sat, 21 Jun 2014 01:46:39 +0000
+Calc dips:
+Sat, 21 Jun 2014 01:46:39 +0000
+Sat, 21 Jun 2014 01:46:39 +0000
+splitting dips onto atoms
+Sat, 21 Jun 2014 01:46:39 +0000
+summing dips:
+Sat, 21 Jun 2014 01:46:39 +0000
+total dip moment [[  9.89310685  13.51821908   1.1922047 ]]
+Sat, 21 Jun 2014 01:46:39 +0000
+Uqq 0.0
+Sat, 21 Jun 2014 01:46:39 +0000
+Uqd -2.97784740497
+Sat, 21 Jun 2014 01:46:39 +0000
+Udd 1.48892370249
+energyev -1.48892370249
+Sat, 21 Jun 2014 01:46:39 +0000
+Making .dat cross sections for gnuplot
+
+
+DIST:  0 
+
+Sat, 21 Jun 2014 01:46:39 +0000
+a,b,c 0 0 0
+Attempting to swapping charges of molecule  0 at 0 , 0 , 0  and molecule  0 at 0 , 0 , 0 .
+cenpos [0, 0, 0]
+maxTVs:  0
+nVs:  0
+Same Molecule
+Reorg:  0.0
+lengths [2, 2, 2]
+Attempting to swapping charges of molecule  0 at 0 , 0 , 0  and molecule  1 at 0 , 0 , 0 .
+cenpos [0, 0, 0]
+maxTVs:  0
+nVs:  0
+charges split: 0.5 0.5
+charges still split: 0.5 0.5
+Olduqd  -2.97784740497 , Newuqd -0.323413982335 .
+Success.
+Reorg:  1.32721671132
+lengths [2, 2, 2]
+Job Completed Successfully.
+Job terminated normally

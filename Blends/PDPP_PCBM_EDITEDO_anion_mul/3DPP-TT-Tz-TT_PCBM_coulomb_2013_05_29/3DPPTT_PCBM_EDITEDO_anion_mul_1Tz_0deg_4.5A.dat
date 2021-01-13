@@ -1,0 +1,455 @@
+Molecule Starts:
+(1, H pos: [[ 0.6918004   0.73646219  0.58581133]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: 0.199014 ||pol|| : 1e-09)
+(2, C pos: [[ 2.69715702  0.33420752  0.58781066]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: -0.334042 ||pol|| : 748.588578352)
+(3, C pos: [[ 3.81787991 -2.00143544  0.57917461]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: -0.115693 ||pol|| : 748.588578352)
+(4, C pos: [[ 6.49083143 -1.77409949  0.58541638]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: -0.100829 ||pol|| : 748.588578352)
+(5, C pos: [[ 7.36567448  0.72338529  0.59866147]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: -0.148174 ||pol|| : 748.588578352)
+(6, C pos: [[ 10.00616807   0.970261     0.60493158]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: -0.128095 ||pol|| : 748.588578352)
+(7, H pos: [[ 2.77625718 -3.76359752  0.56900222]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: 0.173331 ||pol|| : 1e-09)
+(8, H pos: [[ 11.05044775   2.73761606   0.61514366]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: 0.238355 ||pol|| : 1e-09)
+(9, S pos: [[ 8.98617325 -3.90252641  0.58039727]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: 0.283695 ||pol|| : 3656.60574733)
+(10, S pos: [[ 4.83589618  2.84544572  0.60357665]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: 0.307365 ||pol|| : 3656.60574733)
+(11, C pos: [[ 11.21436071  -1.3743676    0.59643537]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: -0.208459 ||pol|| : 748.588578352)
+(12, C pos: [[ 13.89606922  -1.68316398   0.60014679]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: 0.37467 ||pol|| : 748.588578352)
+(13, C pos: [[ 18.15606946  -0.82398864   0.61223159]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: -0.05673 ||pol|| : 748.588578352)
+(14, C pos: [[ 17.89012641  -3.55191607   0.59903941]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: 0.577838 ||pol|| : 748.588578352)
+(15, C pos: [[ 15.72471187   0.25403022   0.6126341 ]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: -0.06068 ||pol|| : 748.588578352)
+(16, C pos: [[ 15.98364593   2.97764719   0.62555983]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: 0.575942 ||pol|| : 748.588578352)
+(17, O pos: [[ 14.45331545   4.71993691   0.63071689]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: -0.513702 ||pol|| : 137.388096)
+(18, O pos: [[ 19.41905093  -5.2922745    0.59390692]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: -0.509134 ||pol|| : 137.388096)
+(19, N pos: [[ 18.6631       3.37996422   0.63234395]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: -0.596731 ||pol|| : 957.127701375)
+(20, N pos: [[ 15.21034353  -3.95345264   0.59211924]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: -0.596149 ||pol|| : 957.127701375)
+(21, C pos: [[ 19.98260129   1.10746457   0.62440332]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: 0.366427 ||pol|| : 748.588578352)
+(22, C pos: [[ 14.22600596  -6.52090264   0.57849242]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: -0.360341 ||pol|| : 748.588578352)
+(23, H pos: [[ 13.098361    -6.88422328  -1.11578503]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: 0.192126 ||pol|| : 1e-09)
+(24, H pos: [[ 15.86857106  -7.7678838    0.5748736 ]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: 0.218933 ||pol|| : 1e-09)
+(25, H pos: [[ 13.09360078  -6.90041257   2.26606324]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: 0.192115 ||pol|| : 1e-09)
+(26, C pos: [[ 19.64136399   5.94809262   0.64662461]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: -0.360382 ||pol|| : 748.588578352)
+(27, H pos: [[ 17.99350199   7.18873187   0.64794931]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: 0.219917 ||pol|| : 1e-09)
+(28, H pos: [[ 20.76458321   6.31871706   2.34291084]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: 0.189714 ||pol|| : 1e-09)
+(29, H pos: [[ 20.77352917   6.33412022  -1.04022811]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: 0.189731 ||pol|| : 1e-09)
+(30, C pos: [[ 22.6637221    0.79181605   0.62768388]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: -0.200052 ||pol|| : 748.588578352)
+(31, C pos: [[ 23.87759337  -1.5539634    0.61936342]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: -0.147063 ||pol|| : 748.588578352)
+(32, C pos: [[ 26.51220612  -1.30833868   0.62478882]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: -0.127852 ||pol|| : 748.588578352)
+(33, C pos: [[ 27.38521047   1.20126113   0.6372459 ]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: -0.108363 ||pol|| : 748.588578352)
+(34, C pos: [[ 30.02851408   1.43482183   0.64243887]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: -0.152507 ||pol|| : 748.588578352)
+(35, H pos: [[ 22.83430768  -3.32111814   0.60978818]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: 0.239102 ||pol|| : 1e-09)
+(36, H pos: [[ 31.0534373    3.20862274   0.65185348]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: 0.17789 ||pol|| : 1e-09)
+(37, S pos: [[ 29.01926992  -3.44761641   0.61934641]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: 0.343655 ||pol|| : 3656.60574733)
+(38, S pos: [[ 24.88031986   3.32878476   0.6425239 ]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: 0.283899 ||pol|| : 3656.60574733)
+(39, C pos: [[ 31.19853992  -0.91600129   0.63393321]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: -0.171023 ||pol|| : 748.588578352)
+(40, C pos: [[ 33.84226682  -1.49119992   0.63552247]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: 0.094757 ||pol|| : 748.588578352)
+(41, N pos: [[ 34.73613565  -3.81972995   0.6267428 ]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: -0.433798 ||pol|| : 957.127701375)
+(42, C pos: [[ 37.28621339  -3.85265654   0.63052036]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: 0.042591 ||pol|| : 748.588578352)
+(43, S pos: [[ 36.21641295   0.86379761   0.64949321]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: 0.280132 ||pol|| : 3656.60574733)
+(44, H pos: [[ 38.25610778  -5.65921396   0.62412553]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: 0.183062 ||pol|| : 1e-09)
+(45, C pos: [[ 38.51339778  -1.53085394   0.64255603]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: -0.158326 ||pol|| : 748.588578352)
+(46, C pos: [[ 41.17085921  -1.01774415   0.64884504]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: -0.151913 ||pol|| : 748.588578352)
+(47, C pos: [[ 42.36106355   1.32444482   0.66096763]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: -0.166763 ||pol|| : 748.588578352)
+(48, C pos: [[ 45.00634192   1.09240345   0.66390804]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: -0.103355 ||pol|| : 748.588578352)
+(49, C pos: [[ 45.89053723  -1.41127018   0.65418918]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: -0.129048 ||pol|| : 748.588578352)
+(50, C pos: [[ 48.51874382  -1.65773393   0.65705968]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: -0.143605 ||pol|| : 748.588578352)
+(51, H pos: [[ 41.33899949   3.099115     0.66726987]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: 0.17752 ||pol|| : 1e-09)
+(52, H pos: [[ 49.56584108  -3.42337123   0.65083303]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: 0.239864 ||pol|| : 1e-09)
+(53, S pos: [[ 47.50358481   3.22374622   0.67700385]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: 0.28493 ||pol|| : 3656.60574733)
+(54, S pos: [[ 43.37468999  -3.54482204   0.64100267]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: 0.307738 ||pol|| : 3656.60574733)
+(55, C pos: [[ 49.73175904   0.69419658   0.66926164]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: -0.206121 ||pol|| : 748.588578352)
+(56, C pos: [[ 52.40497512   1.00746593   0.67472862]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: 0.368751 ||pol|| : 748.588578352)
+(57, C pos: [[ 56.6629269    0.14455271   0.67711156]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: -0.059213 ||pol|| : 748.588578352)
+(58, C pos: [[ 56.40149651   2.87396736   0.68920581]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: 0.577235 ||pol|| : 748.588578352)
+(59, C pos: [[ 54.23545837  -0.93035187   0.66865504]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: -0.061397 ||pol|| : 748.588578352)
+(60, C pos: [[ 54.4952806   -3.65821506   0.65655512]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: 0.576192 ||pol|| : 748.588578352)
+(61, O pos: [[ 52.96008407  -5.39519465   0.64638839]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: -0.517069 ||pol|| : 137.388096)
+(62, O pos: [[ 57.93486945   4.61072019   0.69967489]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: -0.513444 ||pol|| : 137.388096)
+(63, N pos: [[ 57.17063774  -4.063344     0.65851288]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: -0.596828 ||pol|| : 957.127701375)
+(64, N pos: [[ 53.72531356   3.27843868   0.68705719]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: -0.59744 ||pol|| : 957.127701375)
+(65, C pos: [[ 58.49222907  -1.7920859    0.67080366]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: 0.365152 ||pol|| : 748.588578352)
+(66, C pos: [[ 52.74471576   5.84680141   0.69748659]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: -0.36011 ||pol|| : 748.588578352)
+(67, H pos: [[ 51.61320064   6.21395631   2.38872536]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: 0.189657 ||pol|| : 1e-09)
+(68, H pos: [[ 54.38967514   7.09086106   0.7067916 ]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: 0.219179 ||pol|| : 1e-09)
+(69, H pos: [[ 51.62002256   6.23039315  -0.99468571]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: 0.189649 ||pol|| : 1e-09)
+(70, C pos: [[ 58.149017    -6.63261002   0.64868063]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: -0.359896 ||pol|| : 748.588578352)
+(71, H pos: [[ 56.50259308  -7.87472514   0.64010883]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: 0.2188 ||pol|| : 1e-09)
+(72, H pos: [[ 59.27990095  -7.00141654  -1.04254492]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: 0.189409 ||pol|| : 1e-09)
+(73, H pos: [[ 59.27381603  -7.01674222   2.34059971]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: 0.189397 ||pol|| : 1e-09)
+(74, C pos: [[ 61.16811533  -1.47995983   0.67594749]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: -0.201211 ||pol|| : 748.588578352)
+(75, C pos: [[ 62.3832565    0.86884507   0.68906597]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: -0.148069 ||pol|| : 748.588578352)
+(76, C pos: [[ 65.01501954   0.62495323   0.69143758]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: -0.127032 ||pol|| : 748.588578352)
+(77, C pos: [[ 65.88947143  -1.88571616   0.68032788]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: -0.109082 ||pol|| : 748.588578352)
+(78, C pos: [[ 68.53240843  -2.11906333   0.68283365]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: -0.15169 ||pol|| : 748.588578352)
+(79, H pos: [[ 61.33855918   2.63556895   0.69622236]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: 0.239291 ||pol|| : 1e-09)
+(80, H pos: [[ 69.55852595  -3.89194773   0.67556577]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: 0.177781 ||pol|| : 1e-09)
+(81, S pos: [[ 67.52329087   2.76494717   0.70537809]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: 0.343194 ||pol|| : 3656.60574733)
+(82, S pos: [[ 63.38816563  -4.01557739   0.66644973]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: 0.282607 ||pol|| : 3656.60574733)
+(83, C pos: [[ 69.70091493   0.23309016   0.69595969]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: -0.172659 ||pol|| : 748.588578352)
+(84, C pos: [[ 72.34494608   0.80928279   0.7023961 ]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: 0.096329 ||pol|| : 748.588578352)
+(85, N pos: [[ 73.23553811   3.13820021   0.71486262]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: -0.433845 ||pol|| : 957.127701375)
+(86, C pos: [[ 75.78530027   3.1754486    0.71853436]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: 0.044368 ||pol|| : 748.588578352)
+(87, S pos: [[ 74.72137688  -1.54217907   0.69435342]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: 0.280747 ||pol|| : 3656.60574733)
+(88, H pos: [[ 76.75359974   4.98254838   0.7285518 ]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: 0.183866 ||pol|| : 1e-09)
+(89, C pos: [[ 77.01540429   0.85333042   0.70903282]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: -0.159882 ||pol|| : 748.588578352)
+(90, C pos: [[ 79.67300178   0.34190438   0.71018177]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: -0.150191 ||pol|| : 748.588578352)
+(91, C pos: [[ 80.86502593  -1.99897312   0.7005744 ]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: -0.166834 ||pol|| : 748.588578352)
+(92, C pos: [[ 83.51001328  -1.76611162   0.70523636]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: -0.10215 ||pol|| : 748.588578352)
+(93, C pos: [[ 84.39253052   0.7373069    0.7183983 ]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: -0.129002 ||pol|| : 748.588578352)
+(94, C pos: [[ 87.02254746   0.98575487   0.7230886 ]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: -0.142886 ||pol|| : 748.588578352)
+(95, H pos: [[ 79.84463805  -3.77483384   0.69070814]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: 0.178914 ||pol|| : 1e-09)
+(96, H pos: [[ 88.06813294   2.75181168   0.73290951]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: 0.240023 ||pol|| : 1e-09)
+(97, S pos: [[ 86.01033642  -3.89536813   0.69839555]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: 0.288688 ||pol|| : 3656.60574733)
+(98, S pos: [[ 81.87675508   2.86967012   0.725241  ]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: 0.310152 ||pol|| : 3656.60574733)
+(99, C pos: [[ 88.23533591  -1.36424245   0.71345855]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: -0.203926 ||pol|| : 748.588578352)
+(100, C pos: [[ 90.91146595  -1.68204148   0.71541631]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: 0.370014 ||pol|| : 748.588578352)
+(101, C pos: [[ 95.17021142  -0.82660969   0.72501612]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: -0.058468 ||pol|| : 748.588578352)
+(102, C pos: [[ 94.90886418  -3.5523885    0.71170489]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: 0.578016 ||pol|| : 748.588578352)
+(103, C pos: [[ 92.74278446   0.25114272   0.72695498]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: -0.058831 ||pol|| : 748.588578352)
+(104, C pos: [[ 93.00811335   2.97955203   0.74026243]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: 0.579232 ||pol|| : 748.588578352)
+(105, O pos: [[ 91.47598007   4.71809443   0.74649286]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: -0.510853 ||pol|| : 137.388096)
+(106, O pos: [[ 96.43828192  -5.29387887   0.70524014]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: -0.509855 ||pol|| : 137.388096)
+(107, N pos: [[ 95.68501818   3.38194276   0.74577665]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: -0.596752 ||pol|| : 957.127701375)
+(108, N pos: [[ 92.22973892  -3.95375689   0.70635318]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: -0.597492 ||pol|| : 957.127701375)
+(109, C pos: [[ 97.00260518   1.11128749   0.73670597]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: 0.372458 ||pol|| : 748.588578352)
+(110, C pos: [[ 91.24913356  -6.52135995   0.69289644]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: -0.361115 ||pol|| : 748.588578352)
+(111, H pos: [[ 90.1238432   -6.89008899  -1.00237501]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: 0.190584 ||pol|| : 1e-09)
+(112, H pos: [[ 92.89516064  -7.764316     0.68954974]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: 0.221111 ||pol|| : 1e-09)
+(113, H pos: [[ 90.11878063  -6.90583986   2.38127417]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: 0.190585 ||pol|| : 1e-09)
+(114, C pos: [[ 96.66852049   5.94978393   0.75902363]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: -0.360836 ||pol|| : 748.588578352)
+(115, H pos: [[ 95.02563603   7.19631912   0.7619546 ]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: 0.219324 ||pol|| : 1e-09)
+(116, H pos: [[ 97.79528294   6.31421951   2.45370549]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: 0.192378 ||pol|| : 1e-09)
+(117, H pos: [[ 97.80087086   6.32941291  -0.92857175]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: 0.192378 ||pol|| : 1e-09)
+(118, C pos: [[ 99.67852734   0.80065052   0.73885836]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: -0.203837 ||pol|| : 748.588578352)
+(119, C pos: [[ 100.8892012    -1.54902554    0.72904124]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: -0.144106 ||pol|| : 748.588578352)
+(120, C pos: [[ 103.52382718   -1.31013392    0.73402822]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: -0.131279 ||pol|| : 748.588578352)
+(121, C pos: [[ 104.3996699     1.19435418    0.74767016]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: -0.107039 ||pol|| : 748.588578352)
+(122, C pos: [[ 107.05271693    1.42254428    0.7527762 ]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: -0.154636 ||pol|| : 748.588578352)
+(123, H pos: [[ 99.84213606  -3.31461371   0.71891608]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: 0.240096 ||pol|| : 1e-09)
+(124, H pos: [[ 108.08390271    3.1920952     0.76304686]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: 0.180264 ||pol|| : 1e-09)
+(125, S pos: [[ 106.03381438   -3.45188908    0.72721954]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: 0.345454 ||pol|| : 3656.60574733)
+(126, S pos: [[ 101.90669968    3.32990537    0.75454687]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: 0.285853 ||pol|| : 3656.60574733)
+(127, C pos: [[ 108.2071223    -0.92559354    0.74292694]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: -0.152831 ||pol|| : 748.588578352)
+(128, C pos: [[ 110.86987119   -1.52242954    0.74397952]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: 0.076608 ||pol|| : 748.588578352)
+(129, N pos: [[ 111.73468925   -3.84564943    0.73390917]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: -0.42264 ||pol|| : 957.127701375)
+(130, C pos: [[ 114.31663156   -3.88714782    0.737545  ]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: 0.073958 ||pol|| : 748.588578352)
+(131, S pos: [[ 113.25683911    0.81082669    0.75894804]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: 0.283894 ||pol|| : 3656.60574733)
+(132, H pos: [[ 115.28807175   -5.69013177    0.7301694 ]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: 0.172999 ||pol|| : 1e-09)
+(133, C pos: [[ 115.48798777   -1.5802098     0.75056711]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: -0.344762 ||pol|| : 748.588578352)
+(134, H pos: [[ 117.48794355   -1.16278252    0.75557866]]parent: <BasicElements.Register.Index instance at 0x211e098> haspol? True; charge: 0.199217 ||pol|| : 1e-09)
+(135, C pos: [[ 32.58224271   0.39402594  47.32314267]]parent: <BasicElements.Register.Index instance at 0x2183e60> haspol? True; charge: 0.030472 ||pol|| : 1.0)
+(136, C pos: [[ 31.04542235  -1.61854359  46.31803275]]parent: <BasicElements.Register.Index instance at 0x2183e60> haspol? True; charge: -0.014359 ||pol|| : 1.0)
+(137, C pos: [[ 31.99013943  -3.99760492  47.26825237]]parent: <BasicElements.Register.Index instance at 0x2183e60> haspol? True; charge: -0.017453 ||pol|| : 1.0)
+(138, C pos: [[ 34.12789352  -3.50311647  48.88073905]]parent: <BasicElements.Register.Index instance at 0x2183e60> haspol? True; charge: 0.035858 ||pol|| : 1.0)
+(139, C pos: [[ 34.35359678  -0.70335572  49.23232907]]parent: <BasicElements.Register.Index instance at 0x2183e60> haspol? True; charge: -0.089533 ||pol|| : 1.0)
+(140, C pos: [[ 33.21082564   2.43532702  45.80483212]]parent: <BasicElements.Register.Index instance at 0x2183e60> haspol? True; charge: -0.017599 ||pol|| : 1.0)
+(141, C pos: [[ 30.04907368  -1.46379546  43.85944695]]parent: <BasicElements.Register.Index instance at 0x2183e60> haspol? True; charge: -0.033226 ||pol|| : 1.0)
+(142, C pos: [[ 31.91870811  -6.16598289  45.72652486]]parent: <BasicElements.Register.Index instance at 0x2183e60> haspol? True; charge: -0.034814 ||pol|| : 1.0)
+(143, C pos: [[ 36.21321931  -5.09918874  48.79593354]]parent: <BasicElements.Register.Index instance at 0x2183e60> haspol? True; charge: -0.033409 ||pol|| : 1.0)
+(144, C pos: [[ 37.18342367   0.40177172  49.19100208]]parent: <BasicElements.Register.Index instance at 0x2183e60> haspol? True; charge: -0.104489 ||pol|| : 1.0)
+(145, C pos: [[ 35.79901388   3.45236059  45.77033382]]parent: <BasicElements.Register.Index instance at 0x2183e60> haspol? True; charge: -0.019517 ||pol|| : 1.0)
+(146, C pos: [[ 32.23410122   2.58884578  43.24098179]]parent: <BasicElements.Register.Index instance at 0x2183e60> haspol? True; charge: -0.014998 ||pol|| : 1.0)
+(147, C pos: [[ 30.00797464  -3.70035441  42.25454111]]parent: <BasicElements.Register.Index instance at 0x2183e60> haspol? True; charge: -0.012209 ||pol|| : 1.0)
+(148, C pos: [[ 30.66127349   0.67263537  42.29953596]]parent: <BasicElements.Register.Index instance at 0x2183e60> haspol? True; charge: -0.017748 ||pol|| : 1.0)
+(149, C pos: [[ 34.05622079  -7.84149665  45.6771358 ]]parent: <BasicElements.Register.Index instance at 0x2183e60> haspol? True; charge: -0.017372 ||pol|| : 1.0)
+(150, C pos: [[ 30.9240208   -5.99546714  43.16937446]]parent: <BasicElements.Register.Index instance at 0x2183e60> haspol? True; charge: -0.01186 ||pol|| : 1.0)
+(151, C pos: [[ 38.80038524  -4.08420546  48.75653327]]parent: <BasicElements.Register.Index instance at 0x2183e60> haspol? True; charge: -0.032036 ||pol|| : 1.0)
+(152, C pos: [[ 36.1822438   -7.31704564  47.16929985]]parent: <BasicElements.Register.Index instance at 0x2183e60> haspol? True; charge: -0.01837 ||pol|| : 1.0)
+(153, C pos: [[ 37.68551326   2.39981468  47.25473414]]parent: <BasicElements.Register.Index instance at 0x2183e60> haspol? True; charge: 0.040286 ||pol|| : 1.0)
+(154, C pos: [[ 39.24133717  -1.49590215  48.79986295]]parent: <BasicElements.Register.Index instance at 0x2183e60> haspol? True; charge: 0.039285 ||pol|| : 1.0)
+(155, C pos: [[ 36.3453059    4.20294014  43.183013  ]]parent: <BasicElements.Register.Index instance at 0x2183e60> haspol? True; charge: -0.014802 ||pol|| : 1.0)
+(156, C pos: [[ 34.14642157   3.70373457  41.64086559]]parent: <BasicElements.Register.Index instance at 0x2183e60> haspol? True; charge: -0.020238 ||pol|| : 1.0)
+(157, C pos: [[ 30.55082985  -2.9212269   39.68013321]]parent: <BasicElements.Register.Index instance at 0x2183e60> haspol? True; charge: -0.023511 ||pol|| : 1.0)
+(158, C pos: [[ 30.97725543  -0.21956651  39.71032847]]parent: <BasicElements.Register.Index instance at 0x2183e60> haspol? True; charge: -0.016908 ||pol|| : 1.0)
+(159, C pos: [[ 34.37815753  -8.75591291  43.09612102]]parent: <BasicElements.Register.Index instance at 0x2183e60> haspol? True; charge: -0.017985 ||pol|| : 1.0)
+(160, C pos: [[ 32.42983278  -7.62507385  41.54772336]]parent: <BasicElements.Register.Index instance at 0x2183e60> haspol? True; charge: -0.022489 ||pol|| : 1.0)
+(161, C pos: [[ 40.29140805  -5.70493448  47.1097434 ]]parent: <BasicElements.Register.Index instance at 0x2183e60> haspol? True; charge: -0.019776 ||pol|| : 1.0)
+(162, C pos: [[ 38.6933497   -7.70925573  46.16735004]]parent: <BasicElements.Register.Index instance at 0x2183e60> haspol? True; charge: -0.022599 ||pol|| : 1.0)
+(163, C pos: [[ 40.15534419   1.96051935  46.18832738]]parent: <BasicElements.Register.Index instance at 0x2183e60> haspol? True; charge: -0.01407 ||pol|| : 1.0)
+(164, C pos: [[ 41.1052688   -0.41814278  47.13500377]]parent: <BasicElements.Register.Index instance at 0x2183e60> haspol? True; charge: -0.015235 ||pol|| : 1.0)
+(165, C pos: [[ 38.77644455   3.8600635   42.18339002]]parent: <BasicElements.Register.Index instance at 0x2183e60> haspol? True; charge: -0.01772 ||pol|| : 1.0)
+(166, C pos: [[ 34.4427218    2.85576424  39.12813193]]parent: <BasicElements.Register.Index instance at 0x2183e60> haspol? True; charge: -0.025109 ||pol|| : 1.0)
+(167, C pos: [[ 32.01834091  -4.48880584  38.11104395]]parent: <BasicElements.Register.Index instance at 0x2183e60> haspol? True; charge: -0.017792 ||pol|| : 1.0)
+(168, C pos: [[ 32.84032873   0.85576644  38.17163052]]parent: <BasicElements.Register.Index instance at 0x2183e60> haspol? True; charge: -0.015179 ||pol|| : 1.0)
+(169, C pos: [[ 36.81353362  -9.11745906  42.12648772]]parent: <BasicElements.Register.Index instance at 0x2183e60> haspol? True; charge: -0.015082 ||pol|| : 1.0)
+(170, C pos: [[ 32.96818464  -6.86981003  39.058334  ]]parent: <BasicElements.Register.Index instance at 0x2183e60> haspol? True; charge: -0.017213 ||pol|| : 1.0)
+(171, C pos: [[ 42.169431    -4.65774961  45.56055334]]parent: <BasicElements.Register.Index instance at 0x2183e60> haspol? True; charge: -0.017519 ||pol|| : 1.0)
+(172, C pos: [[ 39.01021097  -8.60757615  43.67294918]]parent: <BasicElements.Register.Index instance at 0x2183e60> haspol? True; charge: -0.024078 ||pol|| : 1.0)
+(173, C pos: [[ 40.71782452   2.72719414  43.70703384]]parent: <BasicElements.Register.Index instance at 0x2183e60> haspol? True; charge: -0.032581 ||pol|| : 1.0)
+(174, C pos: [[ 42.59458247  -1.97443965  45.57226102]]parent: <BasicElements.Register.Index instance at 0x2183e60> haspol? True; charge: -0.034069 ||pol|| : 1.0)
+(175, C pos: [[ 39.08719468   2.96438656  39.59479953]]parent: <BasicElements.Register.Index instance at 0x2183e60> haspol? True; charge: -0.016395 ||pol|| : 1.0)
+(176, C pos: [[ 36.95350429   2.47091016  38.11273469]]parent: <BasicElements.Register.Index instance at 0x2183e60> haspol? True; charge: -0.015386 ||pol|| : 1.0)
+(177, C pos: [[ 33.95195231  -3.3738552   36.51879827]]parent: <BasicElements.Register.Index instance at 0x2183e60> haspol? True; charge: -0.013288 ||pol|| : 1.0)
+(178, C pos: [[ 34.35359678  -0.76205413  36.53778141]]parent: <BasicElements.Register.Index instance at 0x2183e60> haspol? True; charge: -0.016939 ||pol|| : 1.0)
+(179, C pos: [[ 37.37364844  -8.34536158  39.54530357]]parent: <BasicElements.Register.Index instance at 0x2183e60> haspol? True; charge: -0.016438 ||pol|| : 1.0)
+(180, C pos: [[ 35.49552172  -7.24136189  38.0534824 ]]parent: <BasicElements.Register.Index instance at 0x2183e60> haspol? True; charge: -0.012815 ||pol|| : 1.0)
+(181, C pos: [[ 42.49054401  -5.57080892  42.97916946]]parent: <BasicElements.Register.Index instance at 0x2183e60> haspol? True; charge: -0.018057 ||pol|| : 1.0)
+(182, C pos: [[ 40.92809409  -7.50235891  42.0669628 ]]parent: <BasicElements.Register.Index instance at 0x2183e60> haspol? True; charge: -0.01523 ||pol|| : 1.0)
+(183, C pos: [[ 42.22861716   1.09896642  42.07962776]]parent: <BasicElements.Register.Index instance at 0x2183e60> haspol? True; charge: -0.011559 ||pol|| : 1.0)
+(184, C pos: [[ 43.14423703  -1.19680062  42.99336807]]parent: <BasicElements.Register.Index instance at 0x2183e60> haspol? True; charge: -0.012329 ||pol|| : 1.0)
+(185, C pos: [[ 41.23682351   1.27457915  39.52744272]]parent: <BasicElements.Register.Index instance at 0x2183e60> haspol? True; charge: -0.023373 ||pol|| : 1.0)
+(186, C pos: [[ 36.90468094   0.24010315  36.50081775]]parent: <BasicElements.Register.Index instance at 0x2183e60> haspol? True; charge: -0.01706 ||pol|| : 1.0)
+(187, C pos: [[ 36.10506494  -5.08117851  36.46901015]]parent: <BasicElements.Register.Index instance at 0x2183e60> haspol? True; charge: -0.013951 ||pol|| : 1.0)
+(188, C pos: [[ 39.92747112  -7.34243973  39.50862172]]parent: <BasicElements.Register.Index instance at 0x2183e60> haspol? True; charge: -0.016214 ||pol|| : 1.0)
+(189, C pos: [[ 43.10834997  -3.43092668  41.39364779]]parent: <BasicElements.Register.Index instance at 0x2183e60> haspol? True; charge: -0.022127 ||pol|| : 1.0)
+(190, C pos: [[ 41.18949282  -0.88697385  37.97918103]]parent: <BasicElements.Register.Index instance at 0x2183e60> haspol? True; charge: -0.017802 ||pol|| : 1.0)
+(191, C pos: [[ 38.97571189  -1.40078233  36.445605  ]]parent: <BasicElements.Register.Index instance at 0x2183e60> haspol? True; charge: -0.013336 ||pol|| : 1.0)
+(192, C pos: [[ 38.55952752  -4.11750701  36.43269499]]parent: <BasicElements.Register.Index instance at 0x2183e60> haspol? True; charge: -0.014425 ||pol|| : 1.0)
+(193, C pos: [[ 40.5150943   -5.27024258  37.98110131]]parent: <BasicElements.Register.Index instance at 0x2183e60> haspol? True; charge: -0.012904 ||pol|| : 1.0)
+(194, C pos: [[ 42.1374951   -3.26877354  38.92649365]]parent: <BasicElements.Register.Index instance at 0x2183e60> haspol? True; charge: -0.016871 ||pol|| : 1.0)
+(195, C pos: [[ 35.48525811   0.6446856   51.49454739]]parent: <BasicElements.Register.Index instance at 0x2183e60> haspol? True; charge: 0.022565 ||pol|| : 1.0)
+(196, C pos: [[ 34.53129654   3.25013253  52.17185874]]parent: <BasicElements.Register.Index instance at 0x2183e60> haspol? True; charge: 0.138401 ||pol|| : 1.0)
+(197, C pos: [[ 31.94524572   3.77444442  52.37666018]]parent: <BasicElements.Register.Index instance at 0x2183e60> haspol? True; charge: -0.165686 ||pol|| : 1.0)
+(198, C pos: [[ 36.26061779   5.17008877  52.75551668]]parent: <BasicElements.Register.Index instance at 0x2183e60> haspol? True; charge: -0.159035 ||pol|| : 1.0)
+(199, C pos: [[ 31.10839689   6.1549718   53.14793413]]parent: <BasicElements.Register.Index instance at 0x2183e60> haspol? True; charge: -0.134322 ||pol|| : 1.0)
+(200, C pos: [[ 35.43102471   7.5491587   53.52627959]]parent: <BasicElements.Register.Index instance at 0x2183e60> haspol? True; charge: -0.131921 ||pol|| : 1.0)
+(201, C pos: [[ 32.84783552   8.0499236   53.72552445]]parent: <BasicElements.Register.Index instance at 0x2183e60> haspol? True; charge: -0.125657 ||pol|| : 1.0)
+(202, C pos: [[ 36.15096742  -0.96141897  53.81650309]]parent: <BasicElements.Register.Index instance at 0x2183e60> haspol? True; charge: -0.284947 ||pol|| : 1.0)
+(203, C pos: [[ 33.83614415  -1.75884268  55.37506606]]parent: <BasicElements.Register.Index instance at 0x2183e60> haspol? True; charge: -0.260006 ||pol|| : 1.0)
+(204, C pos: [[ 34.49030621  -3.61152367  57.50324401]]parent: <BasicElements.Register.Index instance at 0x2183e60> haspol? True; charge: -0.365186 ||pol|| : 1.0)
+(205, C pos: [[ 36.00736825  -2.44300791  59.63452799]]parent: <BasicElements.Register.Index instance at 0x2183e60> haspol? True; charge: 0.621187 ||pol|| : 1.0)
+(206, H pos: [[ 30.58128842   2.31637916  51.90261853]]parent: <BasicElements.Register.Index instance at 0x2183e60> haspol? True; charge: 0.135997 ||pol|| : 1.0)
+(207, H pos: [[ 38.27216732   4.7934149   52.58215071]]parent: <BasicElements.Register.Index instance at 0x2183e60> haspol? True; charge: 0.133686 ||pol|| : 1.0)
+(208, H pos: [[ 29.09248916   6.52763424  53.28576875]]parent: <BasicElements.Register.Index instance at 0x2183e60> haspol? True; charge: 0.117401 ||pol|| : 1.0)
+(209, H pos: [[ 36.80329203   9.015151    53.96117439]]parent: <BasicElements.Register.Index instance at 0x2183e60> haspol? True; charge: 0.117401 ||pol|| : 1.0)
+(210, H pos: [[ 32.19679714   9.90678244  54.31719754]]parent: <BasicElements.Register.Index instance at 0x2183e60> haspol? True; charge: 0.112546 ||pol|| : 1.0)
+(211, H pos: [[ 37.16999206  -2.65485046  53.20911321]]parent: <BasicElements.Register.Index instance at 0x2183e60> haspol? True; charge: 0.152333 ||pol|| : 1.0)
+(212, H pos: [[ 37.44920293   0.13006753  55.00794529]]parent: <BasicElements.Register.Index instance at 0x2183e60> haspol? True; charge: 0.152924 ||pol|| : 1.0)
+(213, H pos: [[ 32.91050137  -0.09308759  56.18138902]]parent: <BasicElements.Register.Index instance at 0x2183e60> haspol? True; charge: 0.158998 ||pol|| : 1.0)
+(214, H pos: [[ 32.46770598  -2.681866    54.12179475]]parent: <BasicElements.Register.Index instance at 0x2183e60> haspol? True; charge: 0.146208 ||pol|| : 1.0)
+(215, H pos: [[ 32.75220465  -4.36065395  58.36163107]]parent: <BasicElements.Register.Index instance at 0x2183e60> haspol? True; charge: 0.166631 ||pol|| : 1.0)
+(216, H pos: [[ 35.51916932  -5.25916396  56.78404909]]parent: <BasicElements.Register.Index instance at 0x2183e60> haspol? True; charge: 0.174796 ||pol|| : 1.0)
+(217, C pos: [[ 36.17733791  -0.20813424  60.1083396 ]]parent: <BasicElements.Register.Index instance at 0x2183e60> haspol? True; charge: -0.480521 ||pol|| : 1.0)
+(218, C pos: [[ 37.14568997  -4.25522276  61.04969895]]parent: <BasicElements.Register.Index instance at 0x2183e60> haspol? True; charge: -0.452341 ||pol|| : 1.0)
+(219, C pos: [[ 38.5706856   -3.33997568  63.16469842]]parent: <BasicElements.Register.Index instance at 0x2183e60> haspol? True; charge: -0.21322 ||pol|| : 1.0)
+(220, H pos: [[ 37.35311346  -2.30801779  64.47879018]]parent: <BasicElements.Register.Index instance at 0x2183e60> haspol? True; charge: 0.161076 ||pol|| : 1.0)
+(221, H pos: [[ 39.3568636   -5.01573667  64.07266546]]parent: <BasicElements.Register.Index instance at 0x2183e60> haspol? True; charge: 0.155686 ||pol|| : 1.0)
+(222, H pos: [[ 40.08383093  -2.08062878  62.53594122]]parent: <BasicElements.Register.Index instance at 0x2183e60> haspol? True; charge: 0.168551 ||pol|| : 1.0)
+Molecule Ends.
+
+distA, 4.5 
+ distbohr, 8.50377094998 
+ tot, [[ 0.17649996  0.27908915  0.15228983]] 
+ energy, [[-0.01785498]] 
+ energyev, [[-0.48585189]] 
+
+
+dipoles start:
+[[  5.61040919e-06  -8.31039219e-07   1.21399875e-07]]
+[[ 0.02276932 -0.00536915  0.00058262]]
+[[-0.02393967 -0.02905251  0.00126524]]
+[[-0.02595025  0.01698054  0.00038979]]
+[[ -1.61699764e-02   1.06398099e-02   8.94140255e-05]]
+[[-0.01754885 -0.00901563  0.00214186]]
+[[ -4.19621593e-06  -8.62088870e-06   8.42706757e-10]]
+[[ -1.17634427e-06  -4.38000941e-06  -2.14064980e-08]]
+[[-0.01529885  0.0241251   0.00400564]]
+[[-0.0129267   0.02505565  0.00349498]]
+[[ 0.00278966  0.00229154 -0.00040777]]
+[[-0.00345123  0.00211585  0.00237601]]
+[[-0.00510154  0.0025275   0.00039547]]
+[[-0.00179755  0.0021143   0.00206267]]
+[[-0.00421248  0.00351435  0.00043686]]
+[[-0.00170404  0.0020188   0.0021163 ]]
+[[-0.0028055   0.00078806  0.00072473]]
+[[-0.00295564  0.00010833  0.00103486]]
+[[-0.00252328  0.01013965 -0.00069044]]
+[[-0.00218491  0.00619803 -0.00043344]]
+[[-0.00599028  0.00300452  0.00298421]]
+[[ 0.00198856  0.00447517  0.00292679]]
+[[  5.13562311e-07   1.01595891e-08   1.41840183e-06]]
+[[ -5.11674436e-07  -2.54648909e-08   7.51998157e-09]]
+[[ -3.03890845e-07  -3.22381452e-07  -1.15598750e-07]]
+[[ 0.00011286  0.00844321  0.00335873]]
+[[ -1.55498257e-06   5.04800642e-07  -2.98199661e-08]]
+[[  3.85541217e-07  -1.65474710e-07   1.80924067e-06]]
+[[ -5.97663645e-07  -5.44394656e-07  -2.94772097e-07]]
+[[ 0.00774849  0.00480024 -0.00063603]]
+[[-0.03962824 -0.02180084  0.00307678]]
+[[-0.03710332  0.02907039  0.00024078]]
+[[-0.05173863  0.03703052  0.00069384]]
+[[-0.04382906 -0.04203596  0.00258168]]
+[[ -2.79869678e-06  -9.93087936e-06  -5.80076406e-08]]
+[[ -5.70566580e-06  -1.44976165e-05   1.16519605e-08]]
+[[-0.03736865  0.03253394  0.00641036]]
+[[-0.03743899  0.0510979   0.00610551]]
+[[ 0.00780534 -0.01381211  0.00078285]]
+[[-0.0093756   0.01703115  0.000297  ]]
+[[ 0.01236661  0.02472125  0.00309077]]
+[[ 0.01587606 -0.00075149  0.00174116]]
+[[-0.00082014  0.00098118  0.00638166]]
+[[ -5.30996574e-07  -2.01531743e-06   1.98190007e-07]]
+[[ 0.00560725  0.0089994   0.00130785]]
+[[ 0.00261679  0.00460086  0.00041242]]
+[[ 0.02153542 -0.00713924  0.00305215]]
+[[ 0.02045243  0.01894365  0.00065826]]
+[[ 0.02832246  0.02351155  0.00032073]]
+[[ 0.02404502 -0.0219594   0.00323341]]
+[[  5.13351517e-07  -4.71218310e-06   4.36300513e-08]]
+[[  3.04307611e-06  -7.58728595e-06  -3.81182048e-08]]
+[[ 0.02527238  0.01827777  0.00618153]]
+[[ 0.02256844  0.02781184  0.00673173]]
+[[-0.00258614 -0.00571267 -0.00071151]]
+[[ 0.00540268  0.00207762  0.00306588]]
+[[ 0.00745326  0.00140213  0.00046217]]
+[[ 0.00216059 -0.00058667  0.00216847]]
+[[ 0.00753282  0.00090177  0.00042948]]
+[[ 0.00265151 -0.00043399  0.00209712]]
+[[ 0.00146638  0.00055441  0.00107051]]
+[[  1.17053510e-03   1.98859649e-05   7.43285156e-04]]
+[[ 0.0037904   0.00518137 -0.00042721]]
+[[ 0.00384198  0.00453754 -0.0007302 ]]
+[[ 0.0046634   0.0017359   0.00243399]]
+[[-0.00125128  0.00159517  0.00339719]]
+[[ -4.47217798e-07   1.57670683e-07   1.28590642e-06]]
+[[  1.05881164e-07  -1.03049517e-07  -2.81423884e-08]]
+[[  5.61524437e-07  -2.33244610e-07   2.64861069e-07]]
+[[-0.00130075  0.00307877  0.00298164]]
+[[  3.45066741e-07   5.93459528e-08   9.68171690e-09]]
+[[ -4.04546377e-07   1.37930589e-07   1.23658530e-06]]
+[[  4.34236909e-07  -2.09098082e-07   9.94297743e-08]]
+[[-0.00394948 -0.00290931 -0.00043808]]
+[[ 0.02385798 -0.01990647  0.00218847]]
+[[ 0.02666646  0.02312292  0.00024962]]
+[[ 0.02126831  0.01996297  0.0004286 ]]
+[[ 0.02149914 -0.00909974  0.00153642]]
+[[  2.70019270e-06  -7.18247424e-06  -2.82708638e-08]]
+[[  8.47163337e-07  -4.91784052e-06   6.64865376e-09]]
+[[ 0.02232431  0.02585644  0.00359679]]
+[[ 0.02342543  0.02217788  0.00417172]]
+[[ 0.00139956  0.00340325  0.00023482]]
+[[ 0.00540721  0.00592646  0.00027784]]
+[[ 0.00896981  0.0032232   0.00121559]]
+[[ 0.0049294   0.01306176  0.00071201]]
+[[ 0.00635656  0.00614046  0.00259038]]
+[[  2.36262008e-06   3.37083016e-06   9.42974512e-08]]
+[[-0.00025865  0.01681083  0.00047224]]
+[[ -2.05692307e-03  -2.00619530e-02   7.81236741e-05]]
+[[-0.0012343  -0.01660056  0.00092708]]
+[[-0.01055005 -0.00060635  0.0001401 ]]
+[[  1.41335727e-02  -1.31227319e-02   3.38155464e-06]]
+[[ 0.00575261  0.0157587   0.00103215]]
+[[ -2.85907859e-06  -3.43650493e-06   7.05792072e-09]]
+[[  2.24526449e-06   3.66790896e-06   1.53984422e-08]]
+[[ 0.00628139  0.01111268  0.00189765]]
+[[ 0.00111048 -0.0239795   0.00195035]]
+[[ 0.00076587  0.01088859 -0.00017428]]
+[[ 0.00326277 -0.00179368  0.00087261]]
+[[ 0.00513755 -0.00110967  0.00011848]]
+[[ 0.00233729 -0.00160668  0.00059352]]
+[[  5.65733701e-03   1.31191541e-03   9.66360544e-05]]
+[[ 0.0024063   0.00281453  0.00058572]]
+[[-0.0005315  -0.00041129  0.00028401]]
+[[ 0.00117625 -0.00140199  0.00019112]]
+[[ 0.00321349 -0.00242954 -0.00014121]]
+[[ 0.00279245 -0.00055298 -0.00024401]]
+[[ 0.00430039  0.00110417  0.0006507 ]]
+[[-0.00319887  0.0019201   0.00098322]]
+[[ -1.12080716e-08  -8.24405029e-08  -8.34023679e-08]]
+[[ -9.21165095e-07   5.97617234e-07  -7.68413590e-09]]
+[[ -3.06296717e-07  -2.03190341e-07   5.29437522e-07]]
+[[ 0.00092763 -0.0014589   0.0007755 ]]
+[[  3.61346076e-07  -3.19658419e-07   1.97514494e-09]]
+[[  3.05568696e-07  -1.15957953e-08   3.02912017e-08]]
+[[  8.55666944e-08  -1.04784007e-07   3.18918735e-07]]
+[[-0.00196228 -0.00405448 -0.00014202]]
+[[ 0.01927956  0.00957676  0.00066989]]
+[[  1.87090258e-02  -1.83555825e-02  -4.35752445e-05]]
+[[  2.26410078e-02  -2.06227736e-02   1.57080437e-05]]
+[[ 0.02025004  0.01503978  0.00050544]]
+[[  1.05762931e-06   4.62686282e-06   2.47925999e-08]]
+[[  1.84326830e-06   5.81711022e-06   4.00597429e-08]]
+[[ 0.01948742 -0.01957976  0.00084753]]
+[[ 0.01963649 -0.02545086  0.00094386]]
+[[ -2.15014975e-03   1.18601088e-03   7.19830089e-05]]
+[[  5.87436642e-03  -3.00216027e-03   3.03436124e-05]]
+[[-0.00282241 -0.0070568   0.00031811]]
+[[-0.00371383  0.00131441  0.00016451]]
+[[ 0.00432352 -0.00042009  0.00070834]]
+[[  2.55128313e-08   6.53458683e-07   2.94780780e-08]]
+[[ 0.00222005 -0.00319192  0.00018002]]
+[[  3.01297183e-07   3.81985917e-07   2.21951466e-08]]
+[[ -2.53939537e-05  -2.82383135e-05   2.42496917e-04]]
+[[ -1.43616124e-05  -1.98391127e-05   2.50110799e-04]]
+[[ -1.92265087e-05  -1.19739394e-05   2.23774135e-04]]
+[[ -2.42273159e-05  -3.12623775e-06   2.06776138e-04]]
+[[ -1.67820754e-05  -2.18316406e-06   2.31292022e-04]]
+[[ -4.00846646e-05  -2.55652787e-05   2.68285451e-04]]
+[[ -3.76575735e-05  -2.43659924e-05   2.80519417e-04]]
+[[ -3.07544256e-05  -1.46730668e-05   2.45120418e-04]]
+[[ -4.65714162e-05  -2.88202613e-06   2.05245963e-04]]
+[[ -6.80649976e-05  -1.44678013e-05   2.43427948e-04]]
+[[ -3.60068258e-05  -1.52521652e-05   2.69845408e-04]]
+[[ -4.67731442e-05  -5.10843411e-06   2.81400734e-04]]
+[[ -4.92831710e-05  -4.18773010e-05   2.81520840e-04]]
+[[ -5.08003160e-05  -8.17185592e-06   2.88031412e-04]]
+[[ -3.19803164e-05  -2.20187778e-05   2.41110228e-04]]
+[[ -3.99105515e-05  -4.14102020e-05   2.63244124e-04]]
+[[ -5.58629502e-05  -7.33446288e-06   2.12317389e-04]]
+[[ -4.06418668e-05  -1.12340924e-05   2.22433680e-04]]
+[[ -4.61634853e-05  -2.08677451e-05   2.52143605e-04]]
+[[ -6.60585997e-05  -1.87812761e-05   2.21445790e-04]]
+[[ -5.41611793e-05   6.91872619e-06   2.88388797e-04]]
+[[ -5.38220785e-05   1.43650659e-05   3.14970105e-04]]
+[[ -7.43998089e-05  -2.78980856e-05   2.98026183e-04]]
+[[ -8.15767931e-05  -2.61086547e-05   3.06686786e-04]]
+[[ -5.21152366e-05  -4.37908936e-05   2.60746045e-04]]
+[[ -5.41257419e-05  -5.72883446e-05   2.91740764e-04]]
+[[ -6.66692487e-05  -2.23689781e-05   2.36885559e-04]]
+[[ -5.31153050e-05  -1.64950637e-05   2.46935836e-04]]
+[[ -5.86537713e-05  -1.98764400e-05   2.72386952e-04]]
+[[ -6.49912261e-05  -1.27790608e-05   2.47865159e-04]]
+[[ -4.91822690e-05   1.93621984e-05   2.99625414e-04]]
+[[ -6.54592342e-05   2.68080975e-05   3.14688460e-04]]
+[[ -8.35062817e-05  -5.60581755e-05   2.94602678e-04]]
+[[ -8.37289322e-05  -2.86261237e-06   3.05956102e-04]]
+[[ -5.78470601e-05  -6.02311065e-05   2.72873622e-04]]
+[[ -7.03428147e-05  -8.01297182e-05   2.94831016e-04]]
+[[ -5.91338340e-05  -3.10393886e-05   2.66118785e-04]]
+[[ -5.01389404e-05  -4.46167955e-05   2.75094219e-04]]
+[[ -4.18205266e-05   5.26219133e-07   2.99644626e-04]]
+[[ -5.53337177e-05  -1.40148559e-05   2.72075331e-04]]
+[[ -2.50219365e-05   2.41603684e-05   3.09620692e-04]]
+[[ -4.34770757e-05   2.59964867e-05   3.04847823e-04]]
+[[ -7.34849734e-05  -6.18405290e-05   2.87858121e-04]]
+[[ -7.16423319e-05  -2.01360117e-05   2.93808936e-04]]
+[[ -3.98702303e-05  -8.43998910e-05   2.85506264e-04]]
+[[ -5.38507562e-05  -9.29607187e-05   2.85183094e-04]]
+[[ -3.97866182e-05  -4.26735250e-05   2.77406153e-04]]
+[[ -3.86747034e-05  -5.54867484e-05   2.79237368e-04]]
+[[ -2.52290816e-05  -5.19846169e-06   2.99279849e-04]]
+[[ -3.20799443e-05  -2.27436424e-05   2.86930510e-04]]
+[[ -2.53733434e-05   1.87379484e-05   3.10681282e-04]]
+[[ -5.59294205e-05   1.17159313e-06   2.96815188e-04]]
+[[ -6.75318135e-05  -8.02962405e-05   2.83477098e-04]]
+[[ -4.49858132e-05  -8.98224015e-05   2.95101511e-04]]
+[[ -2.24869584e-05  -3.56375551e-05   3.12971705e-04]]
+[[ -1.46405452e-05  -1.00034007e-05   3.02518987e-04]]
+[[ -3.04061717e-05  -3.03236322e-05   2.91115618e-04]]
+[[ -3.89911831e-05  -6.47291911e-05   2.83796199e-04]]
+[[ -2.68567534e-05  -8.06909873e-05   2.94202441e-04]]
+[[ -1.07544440e-05  -4.51938812e-05   3.04813151e-04]]
+[[ -4.06022881e-05   9.97003725e-06   2.52050745e-04]]
+[[ -4.64559141e-05   2.96896258e-05   1.86064291e-04]]
+[[ -4.62353658e-05   4.11062054e-05   1.70965650e-04]]
+[[ -5.44840972e-05   4.48583011e-05   1.71108964e-04]]
+[[ -6.14033352e-05   4.65531194e-05   1.63175293e-04]]
+[[ -3.72125973e-05   5.51976993e-05   1.64998903e-04]]
+[[ -5.21032687e-05   6.54713203e-05   1.65181767e-04]]
+[[ -2.90120927e-05   1.66813717e-05   2.17192992e-04]]
+[[ -3.12114588e-05   1.04582753e-05   2.07180129e-04]]
+[[ -5.86256103e-05  -1.88252825e-05   1.95452757e-04]]
+[[  2.02068865e-06  -1.15827680e-05   1.80063947e-04]]
+[[ -3.58860118e-05   1.80044824e-05   1.88910177e-04]]
+[[ -5.40827507e-05   2.41231001e-05   1.88275214e-04]]
+[[ -7.10416883e-05   2.57972986e-05   1.71880063e-04]]
+[[ -1.71441252e-05   4.18723494e-05   1.74832769e-04]]
+[[ -4.99582691e-05   7.02743824e-05   1.77726720e-04]]
+[[ -5.17927567e-05   1.22194259e-05   2.11940587e-04]]
+[[  5.34484643e-07   1.51997532e-05   2.07822670e-04]]
+[[ -5.29630923e-05   2.20074502e-05   1.87929649e-04]]
+[[ -1.13021021e-05  -3.68229383e-07   2.08813482e-04]]
+[[ -7.42379611e-05  -3.86660285e-05   1.81375601e-04]]
+[[ -4.34156507e-05   2.12381840e-06   1.82746029e-04]]
+[[ -1.94692714e-05   1.02863673e-06   1.71223510e-04]]
+[[  5.50254050e-06  -2.11377028e-05   1.84590348e-04]]
+[[ -3.81501056e-05  -2.34357292e-05   1.79420199e-04]]
+[[ -4.91992874e-05   1.86002925e-05   1.75139777e-04]]
+[[ -3.14941225e-06  -4.21456217e-05   1.54349955e-04]]
+[[ -4.41407911e-05  -3.15145928e-05   1.59457948e-04]]

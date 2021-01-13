@@ -1,0 +1,234 @@
+PROCEDURE FOR BUILDING A CRYSTAL USING THE POLARISATION MODEL
+Sheridan Few, sheridan.few10@imperial.ac.uk, sheridan.few@gmail.com
+
+The code for the polarisation model was developed in collaboration with James Kirkpatrick.
+
+NB. Some usage instructions for most scripts I have written can be obtained by running:
+
+ SCRIPT.sh --help
+
+Instructions:
+
+GETTING STARTING CO-ORDINATES AND TRANSLATION VECTORS
+
+1) Find .cif of crystal structure using http://webcsd.cds.rsc.org/ or otherwise.
+
+2) Download .cif file and convert to gaussian input file with terminal command:
+
+babel molecule.cif molecule.gjf
+
+In some instances, there will be multiple orientations of molecules in the .cif file. If both molecules coordinates are included explicitly, this will remain in the file molecule.gjf. For the Gaussian file, delete one molecule, and procedure for dealing with this other molecule is described in (11)
+
+Make xyz file by copying
+
+cp molecule.gjf molecule.xyz
+
+and manually removing all lines but those containing coords from molecule.xyz.
+
+[Edit: A better way is usually to export .xyz directly from Mercury. This may also be useful to obtain TVs (by including multiple molecules, and comparing positions of an equivalent atom.) If this export is carried out from mercury including packing, then this is probably the easiest way of obtaining positions and orientations of different molecules in the unit cell.]
+
+3a) Separate .xyz into separate xyzs for each molecule in the unit cell. (I name these STRUCTURE_mol[a,b,c,...].xyz)
+
+[Note that sometimes it is also necessary to add hydrogen atoms to structures from the .cif. It is worth checking. If so, then you will want to do this for each molecule in the unit cell in the cif .xyz files, as all these co-ords will be used later. This can be achieved by importing the coords into a .gjf, and using the “add hydrogens” tool in gaussview, and either (1) saving the .gjf and directly extracting co-ordinates, or (2) running a geometry optimisation with all atoms constrained except the hydrogens, and using the new coords. I am not sure how much difference it makes.]
+
+CALCULATING POLARISABILITIES AND CHARGE DISTRIBUTIONS
+
+3b) Choose ...mola.xyz, and use the coordinates in a .gjf to include geometry optimisation (usually B3LYP/6-31g*) and polarisability calculation and charge distribution (usually HF/6-31+g* with ESP option) , and submit on the HPC.
+
+This can be straightforwardly achieved by putting the .xyz in a sensible directory on the HPC, then running:
+
+make_new_job_from_log.sh -o -q 0 -z 1 -l STRUCTURE_mola.xyz
+
+This will make, and set off, a geometry optimisation job (edit -q and -z for charged molecules). When this job is completed (check using qstat), the following command will run another job to calculate polarisability, and charge distribution:
+
+make_new_job_from_log.sh -b 6-31+g* -f HF -l  STRUCTURE_mola_opt_[...].log
+
+When this job is complete you may return to your local directory for further procedures.
+
+GET DETAILS OF BONDS
+
+[Steps 4 and 5 are only important if using the 'atoms and bonds' implementation of the polarisation model, which hasn't turned out to be particularly useful so far]
+
+4) Open gjf file in gaussview, check bonds are as expected (edit if not), and resave input file molecule.com in order to get connectivity. [Only important if using the 'atoms and bonds' implementation of the polarisation model]
+
+5) Extract connectivity from saved input file, either manually or using
+
+extract_connectivity.sh molecule.com
+
+giving a file molecule_connectivity.dat. Copy this to "Molecules" folder in PythonPolarization
+
+MAKE PYTHON READABLE MOLECULES
+
+6) Recover molecule.log file containing polarisability from the HPC. Copy  to "Molecules" folder in PythonPolarization
+
+7a) Copy .xyz files for each molecule in the unit cell into the 'Molecules' folder. Copy the .log file from the HPC to the local Molecules folder
+
+MAKING MOLECULES OUT OF ATOMIC POINT DIPOLES:
+
+7a) Run a script like 'gauss_to_xyzs_neut_0515.sh', which contains commands like (here for neutral molecule a of C8_BTBT)
+
+./gauss_log_to_py_xyz.sh -b C8_BTBT_mola_cif.xyz -n C8_BTBT_mola_neut C8_BTBT_neut.log
+
+The specifications included in the command:
+
+C8_BTBT_mola_cif.xyz	An xyz file with co-ordinates of molecule a as oriented in the .cif
+C8_BTBT_mola_neut	The base name of the resulting pol. Model readable .xyz file.
+C8_BTBT_neut.log		The Gaussian .log file in the orientation for which polarisability has been calculated.
+
+7b) This will make a set of files:
+
+C8_BTBT_mola_neut_aniso_cifstruct_[CHARGES].xyz
+
+A python readable .xyz file of mola oriented as in the .cif, with charges from the neutral Gaussian calculation. [CHARGES] are 'mul' (Mulliken pop analysis), 'no_charge' (obvious), or 'chelpg', which corresponds to chelpg or ESP population analysis, depending on which was specified in the Gaussian calculation. This file will be used later for calculating properties of a subcrystal.
+
+C8_BTBT_mola_neut_aniso_[CHARGES].xyz
+
+As above, but oriented as in the optimised structure in the gaussian .log. This is used to fit polarisabilities.
+
+pol_C8_BTBT.py
+
+A python file containing the polarisability tensor from the Gaussian .log file. This is used to fit polarisabilities, and to make input files for jobs with molecular point dipoles, if this is desired.
+
+FITTING POLARISABILITIES:
+
+8) Polarisability parameters (atomic polarisabilities, screening radius) may be fitted either to a single molecule, or to a set of molecules. I have found that it is quite effective to start from van Duijnen et al.'s empirical fit parameters with exponential screening, fit just the screening parameter, and leave atomic parameters as defined by van Duijnen et al., but there are options to fit everything.
+
+FITTING POLARISABILITY PARAMETERS TO A SINGLE MOLECULE:
+8a) The easiest way to fit for a single molecule is with the singlefit.sh command. Some examples are in 'fit_screenpar_Morpmols_0515.sh'. Commands to make a fitting job are something like this:
+
+./singlefit.sh -a -b -c -f abs_square_dif_fit -h -n C8_BTBT -p pol_C8_BTBT_w_sidechains_neut -j TholeExp py_C8_BTBT_w_sidechains
+
+Here -p is the file containing the polarisability of the molecule as calculated using Gaussian, -f is the parameter to be minimised, -j is the type of screening to me used, and 'py_C8_BTBT_w_sidechains' is the name of the .xyz for the molecule to be fit. Other options are described in ./singlefit.sh –help.
+
+8b) You have now made fitting jobs in '/PythonPolarization/Singlemol_Pol_Determination/':
+
+C8_BTBT_TholeExp_abs_square_dif_fit_nobonds_wH_screenonly_empiricalstart_fitscreen_multipolfit.py
+C8_BTBT_TholeExp_abs_square_dif_fit_nobonds_wH_screenonly_empiricalstart_fitscreen_multipolfit_wscan.py
+
+You must first install pyminuit to run them, see https://professor.hepforge.org/trac/wiki/PyMinuit
+
+Afterwards you may run them with:
+
+python C8_BTBT_..._polfit.py
+
+or
+
+python C8_BTBT_..._polfit.py | tee C8_BTBT_output.out
+
+(the tee option is nice because you can see it on the screen, but it also records the process in a file)
+
+If you use the _wscan job it first scans allowed parameter space, if not, it doesn't, and minimises what it calls eta, a parameter which is smaller when the polarisability in the polarisation model approaches that specified from QC calculations. The pyminuit minimisation procedure is described on the linked webpage.
+
+
+FITTING POLARISABILITY PARAMETERS TO A SET OF MOLECULES SIMULTANEOUSLY
+
+9) The procedure is similar for simultaneously fitting parameters to a set of molecules. Here, the 'eta' values for each molecule is summed, and the sum minimised for one set of polarisability parameters. 'multifit.sh' is useful here. Example for fitting parameters for oligothiophenes of a range of lengths:
+
+./multifit.sh -f abs_square_dif_fit -j TholeExp -n nT_dif_jms thio_1T_neut thio_2T_neut thio_3T_neut thio_4T_neut thio_5T_neut thio_6T_neut thio_7T_neut thio_8T_neut
+
+ A few other useful examples are found in 'nTs_empstart_1014_abssqdiffit.sh'
+
+MAKING MOLECULAR POINT DIPOLES:
+
+7b) Convert .xyz files from .cif into python readable .xyz files, using:
+./xyz_to_py_xyz_simple.sh  STRUCTURE_mol[a,b,c,...].xyz
+
+7d) We need to rotate the polarisability tensor extracted from the gaussian log file to the orientation of each molecule in the unit cell in the .cif file. In order to do this, we require two atom numbers which relate to atoms in particular positions (CoM also used, but found automatically). The script 'Rot_for_points_allmols_newway_w_reorientmolout.py' with variables defined for structure of interest, will do this for us. We obtain the relevant atom numbers in the following manner:
+
+•	View the STRUCTURE_mola.gjf in gaussview, and turn on atom labels (which shows the numbering of atoms).
+•	We require two atom numers (CoM also used, but found automatically) in order to reorient the polarisability tensor calculated using gaussian to the orientation of molecules in the .log file. These should be an atom close to the extremity of the pi-core along a long axis (labelled 'atomsforlongaxis'), and one atom displaced a significant distance from the vector joining the first two atoms, and preferably connected to the first two atoms by relatively rigid bonds (eg. Preferably all within the same pi-system), labelled 'perpatom'.
+•	Make a note of these two atom numbers, and add them to 'Rot_for_points_allmols_newway_w_reorientmolout.py' for your molecule, remembering to subtract one from each atom number, as python counts from 0 whilst gaussview counts from 1.
+•	Put correct 'nmolsincell' (number of molecules in unit cell), and add your molecule name  to 'for molecule in …' in 'Rot_for_points_allmols_newway_w_reorientmolout.py'.
+•	Run 'python Rot_for_points_allmols_newway_w_reorientmolout.py' from a terminal in the 'Molecules' folder
+•	You should now find sp_STRUCTURE_mol[a,b,...].xyz, which are readable by the polarisation model.
+
+MAKING MOLECULES USING ATOMS AND BONDS MODEL
+7) In folder Molecules run script like:
+
+./gauss_log_to_py_xyz_anisobonds.sh -b molecule.xyz -n molecule -y molecule_connectivity.dat -z 8.0 molecule.log
+
+( ./gauss_log_to_py_xyz_anisobonds.sh --help can be used to check meaning of options in this script )
+
+(Cutoff has so far been set to 8.0 Bohr for all atoms, but smaller may be interesting. Different cutoffs for different atom types would make sense)
+ 
+This script will make the following files:
+
+/home/spf310/Dropbox/Phd/PythonPolarization/Molecules/molecule_aniso_no_charge.xyz
+/home/spf310/Dropbox/Phd/PythonPolarization/Molecules/molecule_aniso_mul.xyz
+/home/spf310/Dropbox/Phd/PythonPolarization/Molecules/molecule_aniso_chelpg.xyz
+
+/home/spf310/Dropbox/Phd/PythonPolarization/Molecules/molecule_aniso_cifstruct_no_charge.xyz
+/home/spf310/Dropbox/Phd/PythonPolarization/Molecules/molecule_aniso_cifstruct_mul.xyz
+/home/spf310/Dropbox/Phd/PythonPolarization/Molecules/molecule_aniso_cifstruct_chelpg.xyz
+
+These six files each describe the molecule under consideration in a way which is readable to the python polarisation model.
+
+Atom and bond positions are as in the gaussian log or the cif file (as indicatied in options in ./gauss_log_to_py_xyz_anisobonds.sh). Atomic charges are assigned from Mulliken, CHELPG charges, or all left uncharged, as indicated. Bonds, if included, are placed at the midpoint of atoms, and are polarisable only in the direction of the vector between the bonded atoms (rotated from ([1,0,0],[0,0,0],[0,0,0]). The polarisability may be changed using the ModifyPolarizability function each time a different polarizability is required. Bond types are taken from the file molecule_connectivity.dat.
+
+Polarisabilities are taken as the values indicated in ./gauss_log_to_py_xyz_anisobonds.sh. This may be edited to give different values.
+
+Parameter fits may be carried out as described above.
+
+MAKE A CRYSTAL (Hooray!) AND CALCULATE SOME ELECTRONIC PROPERTIES
+
+12) Make crystal jobs by editing dirs in PythonPolarization/Crystals/
+Some useful examples are in these directories:
+
+Morpurgo_all_atoms_Reorgs_qsplit_fittedscreens Morpurgo_all_sp_Reorgs_partial_qsplit_Molscreen_largepiatoms_sq
+
+12a) The files 'makejobs.sh' in these dirs make a set of jobs. It is possible to place molecules of different kinds at different distances to the centre of the crystal (eg. Atomic point dipoles close to centre, molecular pointdipoles further out), I don't know if this is useful, but this is what 'insize' and 'outsize' refer to. The job will build upto 'insize' total TVs from the centre of mols_sur (described in next bullet point), and upto 'outsize' further from the centre of mols_outer
+
+12b) The 'mol_specific_parts' directory contains .py files defining parameters specific to molecule types. mols_cen, mols_sur, and mols_outer define the types of molecules to initially be placed in each position.
+
+The resulting files Crystals/molecule/molecule_censtate_neut_[shape]_size[size]/molecule_censtate_neut_[shape]_size[size].py will contain a job which builds a small crystal of the specified size and shape, calculates the polaron binding energy associated with a charged molecule in the central position, and calculates polarisation barriers to charge transport resulting from splitting this charge between the centre and neighbouring molecules, and allowing the dipoles to reorient.
+
+14) Jobs may then be run locally by running
+
+python  molecule_censtate_neut_[shape]_size[size].py
+
+from the directory Crystals/.../molecule/molecule_censtate_neut_[shape]_size[size]/. Otherwise they may be sent to this equivalent dir on HPC, and the command launch_pol_job.sh Crystals/.../molecule/molecule_censtate_neut_[shape]_size[size].py may be used.
+
+THE FOLLOWING IS USEFUL FOR CALCULATING REORG ENERGIES AND MAKING PICTURES, I DON'T KNOW IF THIS IS WHAT IS DESIRED.
+
+15) A number of files are made/added to.
+
+In Crystals/.../molecule/molecule_censtate_neut_[shape]_size[size]/ReorgPlanes_shareq/molecule...reorgs_shareq_planes_CENTRE_[a,b,c].dat
+
+This .dat file is a .csv containing 'reorganisation energies'
+
+In Crystals/:
+
+crystals.csv	Contains info on polarisation energies, etc. for all calculated crystals
+reorg_energies.csv	Contains reorg energies for each pos'n of each studied crystal
+
+In Crystals/molecule/molecule_censtate_neut_[shape]_size[size]/:
+
+molecule_censtate_neut_[shape]_size[size].csv 	contains info as in ../crystals.csv, but only for this system
+
+molecule_censtate_neut_[shape]_size[size]_dipoles.dat 	contains dipole moment of each polarisable point in the system (for charge in centre of subcrystal)
+
+molecule_censtate_neut_[shape]_size[size]_ABC_molD.dat contains atom numbers and positions of molecule D in unit cell in position A,B,C.
+
+MAKING PICTURES
+
+Makes pictures of molecules using gnuplot or matplotlib with arrows representing the direction and magnitude of dipoles. I think this could be quite nice, but can be a bit fiddly.
+
+16) .dat files can be copied back to local drive. Images can be made using plot_pol.sh. eg.
+
+plot_pol_multi.sh -a 100 -d dip_anion_neut_diamond_size_1_dipoles.dat -f -v -n dipstest -p -r dip_anion_neut_diamond_size_1_???_mol?.dat
+
+(See plot_pol_multi.sh –help for more info)
+
+It may be helpful to choose only a cross section of molecules to avoid the diagrams getting too messy. Eg. 111, 101, 121, 110, 112 or 011, 111, 211, 101, 121 in diamond of size 1.
+
+Options may be specified to automatically plot a series of images at different oriantations, or make a video. I haven't found a video method I am totally happy with yet. Animated gifs are higher quality, but not pausable. mp4 quality is too low really. May be better with less frames.
+
+SEPARATING CHARGES
+
+No procedure has been written for this as yet, but a similar procedure to that used for reorg energies could probably be used, just separating, rather than splitting charges. Dielectric tensors could then be found as in Cleaven's work.
+
+PLACING A NON-CRYSTALLINE ARRAY OF MOLECULES, OR PLACING A SET OF MOLECULES WITHOUT USING THE CRYSTAL OBJECT
+
+Molecules may be placed without using the Crystal object. An example is in Blends/4T_PCBM/4T_PCBM[...].py. This uses an old version of modify polarisability and J matrix, and some parts should be adaped by following examples in crystal jobs. The move and rotate commands are likely to be useful.
+
+

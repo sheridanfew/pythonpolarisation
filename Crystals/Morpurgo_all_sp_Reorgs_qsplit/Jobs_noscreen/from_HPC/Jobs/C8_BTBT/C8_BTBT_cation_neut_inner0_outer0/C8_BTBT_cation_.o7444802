@@ -1,0 +1,23 @@
+ 
+Imperial College London HPC Service
+-----------------------------------
+Job C8_BTBT_cation_, jobid 7444802.cx1b, username spf310 - started execution at 02:36:29 Sat 21/06/14 on system cx1-1-13-1.cx1.hpc.ic.ac.uk
+ 
+Execution started:
+Sat Jun 21 02:36:29 BST 2014
+
+
+csvs:
+time	name	mols_cen	mols_sur	mols_outer	insize	outsize	energyev	Uqq	Uqd	Udd	Totdip_x	Totdip_y	Totdip_z
+Sat, 21 Jun 2014 01:36:29 +0000	C8_BTBT_cation_neut_inner0_outer0	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	0	0	-1.48892370249	0.0	-2.97784740497	1.48892370249	9.89310684945	13.5182190774	1.19220470123time	name	mols_cen	mols_sur	mols_outer	insize	outsize	a	b	c	molincell	Reorg(eV)
+Sat, 21 Jun 2014 01:36:29 +0000	C8_BTBT_cation_neut_inner0_outer0	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	0	0	0	0	0	0	0.0
+Sat, 21 Jun 2014 01:36:29 +0000	C8_BTBT_cation_neut_inner0_outer0	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	0	0	0	0	0	1	1.32721671132
+
+dat files:
+Job finished:
+Sat Jun 21 02:41:30 BST 2014
+ 
+Imperial College London HPC Service
+-----------------------------------
+Job C8_BTBT_cation_, jobid 7444802.cx1b, username spf310 - end of execution at 02:41:30 Sat 21/06/14 on system cx1-1-13-1.cx1.hpc.ic.ac.uk
+ 

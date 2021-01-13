@@ -1,0 +1,23 @@
+ 
+Imperial College London HPC Service
+-----------------------------------
+Job Pc_cation_neut_, jobid 7444809.cx1b, username spf310 - started execution at 02:42:56 Sat 21/06/14 on system cx1-13-33-2.cx1.hpc.ic.ac.uk
+ 
+Execution started:
+Sat Jun 21 02:42:56 BST 2014
+
+
+csvs:
+time	name	mols_cen	mols_sur	mols_outer	insize	outsize	energyev	Uqq	Uqd	Udd	Totdip_x	Totdip_y	Totdip_z
+Sat, 21 Jun 2014 01:42:56 +0000	Pc_cation_neut_inner0_outer0	['sp_Pc_mola_neut.xyz', 'sp_Pc_molb_neut.xyz']	['sp_Pc_mola_neut.xyz', 'sp_Pc_molb_neut.xyz']	['sp_Pc_mola_neut.xyz', 'sp_Pc_molb_neut.xyz']	0	0	-0.359032317689	0.0	-0.718064635378	0.359032317689	-2.5930302722	-2.9191571682	1.45788189195time	name	mols_cen	mols_sur	mols_outer	insize	outsize	a	b	c	molincell	Reorg(eV)
+Sat, 21 Jun 2014 01:42:56 +0000	Pc_cation_neut_inner0_outer0	['sp_Pc_mola_neut.xyz', 'sp_Pc_molb_neut.xyz']	['sp_Pc_mola_neut.xyz', 'sp_Pc_molb_neut.xyz']	['sp_Pc_mola_neut.xyz', 'sp_Pc_molb_neut.xyz']	0	0	0	0	0	0	0.0
+Sat, 21 Jun 2014 01:42:56 +0000	Pc_cation_neut_inner0_outer0	['sp_Pc_mola_neut.xyz', 'sp_Pc_molb_neut.xyz']	['sp_Pc_mola_neut.xyz', 'sp_Pc_molb_neut.xyz']	['sp_Pc_mola_neut.xyz', 'sp_Pc_molb_neut.xyz']	0	0	0	0	0	1	0.245552683004
+
+dat files:
+Job finished:
+Sat Jun 21 02:47:57 BST 2014
+ 
+Imperial College London HPC Service
+-----------------------------------
+Job Pc_cation_neut_, jobid 7444809.cx1b, username spf310 - end of execution at 02:47:57 Sat 21/06/14 on system cx1-13-33-2.cx1.hpc.ic.ac.uk
+ 

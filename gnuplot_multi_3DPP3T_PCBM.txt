@@ -1,0 +1,175 @@
+set termopt enhanced
+set format y "%T"
+set ytics 0.0001,10,1e1
+
+set termopt enhanced
+set format y "%T"
+set ytics 0.0001,10,1e1
+
+
+#
+#          Stacked Plot Demo
+#
+
+set terminal svg size 480,600
+set output "3DPP-3T_PCBM_small.svg"
+
+set tmargin 0
+set bmargin 0
+set lmargin 12
+set rmargin 3
+unset xtics
+set termopt enhanced 
+
+set multiplot layout 5,1 
+set title "3DPP-TT-T-TT_PC71BM\n"
+
+#set title "3DPP-TT-T-TTPC71BM   Absorption"
+
+set key autotitle column nobox samplen 1 noenhanced
+unset title
+
+set label '3DPP-TT-T-TT HOMO=-4.7eV' font ",6" at graph 0, graph 1.05 tc lt 3
+set label 'PC71BM  HOMO=-5.7eV' font ",6" at graph 0, graph 1.02 tc lt 3
+set label 'LUMO(A)-HOMO(D) =' right font ",6" at graph 1, graph 1.05 tc lt 3
+set label '1.06eV' right font ",6" at graph 1, graph 1.02 tc lt 3
+
+unset key
+unset arrow
+unset label
+
+
+
+#set key left below
+set termopt enhanced
+#set yrange [0.00001:4]
+set logscale y
+
+set style arrow 1 nohead size screen 0.008,90 ls 2 lt 3
+set arrow from 1.514, 0.0000101 to 1.514,3.436 as 1
+set arrow from 1.733, 0.0000101 to 1.733,0.008 as 1
+set arrow from 1.901, 0.0000101 to 1.901,0.230 as 1
+set label '3DPP-3T ' at graph 0.98, graph 0.5 right
+set xrange [1.3350000:2.1680000]
+#set xrange [1.3:2.2]
+#set yrange [0.00001:6.66694000]
+set yrange [0.00001:50]
+set samples 600
+plot 0
+
+unset key
+unset arrow
+unset label
+
+
+
+#set key left below
+set termopt enhanced
+#set yrange [0.00001:4]
+set logscale y
+
+set style arrow 1 nohead size screen 0.008,90 ls 2 lt 3
+set arrow from 1.9280000, 0.0000101 to 1.9280000,0.0014000 as 1
+set label "*" at 1.9930000, graph 0.02 tc lt 3
+set label "*" at 2.0590000, graph 0.02 tc lt 3
+set label "*" at 2.0740000, graph 0.02 tc lt 3
+set label "*" at 2.1420000, graph 0.02 tc lt 3
+set arrow from 2.1680000, 0.0000101 to 2.1680000,0.0002000 as 1
+set label "*" at 2.2170000, graph 0.02 tc lt 3
+set arrow from 2.2640000, 0.0000101 to 2.2640000,0.0002000 as 1
+set arrow from 2.3320000, 0.0000101 to 2.3320000,0.0024000 as 1
+set arrow from 2.3560000, 0.0000101 to 2.3560000,0.0001000 as 1
+set label "*" at 2.3840000, graph 0.02 tc lt 3
+set arrow from 2.4100000, 0.0000101 to 2.4100000,0.0017000 as 1
+set arrow from 2.4450000, 0.0000101 to 2.4450000,0.0003000 as 1
+#set arrow from 2.4940000, 0.0000101 to 2.4940000,0.0011000 as 1
+set label "*" at 1.9930000, graph 0.02 tc lt 3
+set label "*" at 2.0590000, graph 0.02 tc lt 3
+set label "*" at 2.0740000, graph 0.02 tc lt 3
+set label "*" at 2.1420000, graph 0.02 tc lt 3
+set arrow from 2.1680000, 0.0000101 to 2.1680000,0.0002000 as 1
+set label "*" at 2.2170000, graph 0.02 tc lt 3
+set arrow from 2.2640000, 0.0000101 to 2.2640000,0.0002000 as 1
+set arrow from 2.3320000, 0.0000101 to 2.3320000,0.0024000 as 1
+set arrow from 2.3560000, 0.0000101 to 2.3560000,0.0001000 as 1
+set label "*" at 2.3840000, graph 0.02 tc lt 3
+set arrow from 2.4100000, 0.0000101 to 2.4100000,0.0017000 as 1
+set arrow from 2.4450000, 0.0000101 to 2.4450000,0.0003000 as 1
+set arrow from 2.1680000, 0.0000101 to 2.1680000,0.0002000 as 1
+set arrow from 2.2640000, 0.0000101 to 2.2640000,0.0002000 as 1
+set arrow from 2.3320000, 0.0000101 to 2.3320000,0.0024000 as 1
+set arrow from 2.3560000, 0.0000101 to 2.3560000,0.0001000 as 1
+set label 'PCBM'  at graph 0.04, graph 0.5 left
+
+set xrange [1.3350000:2.1680000]
+#set xrange [1.3:2.2]
+#set yrange [0.00001:6.66694000]
+set yrange [0.00001:50]
+set samples 600
+plot 0
+
+unset key
+unset arrow
+unset label
+
+set label 'log_{10} (Oscillator Strength)' at graph -0.17, graph 0.1 rotate left
+
+#set key left below
+set termopt enhanced
+#set yrange [0.00001:4]
+set logscale y
+
+set style arrow 1 nohead size screen 0.008,90 ls 2 lt 1
+set style arrow 2 nohead size screen 0.008,90 ls 2 lt 2
+set style arrow 3 nohead size screen 0.008,90 ls 2 lt 3
+set label 'DPP:PCBM ' at graph 0.98, graph 0.5 right
+set arrow from 1.494, 0.0000101 to 1.494,0.570 as 2
+set label "0.82e" at 1.494,0.570 tc lt 2
+set arrow from 1.504, 0.0000101 to 1.504,2.617 as 2
+set label "0.20e" at 1.504,2.617 tc lt 2
+set arrow from 1.542, 0.0000101 to 1.542,0.044 as 3
+set label "0.98e" at 1.542,0.044 tc lt 3
+set arrow from 1.730, 0.0000101 to 1.730,0.005 as 1
+set label "0.02e" at 1.730,0.005 tc lt 1
+set arrow from 1.746, 0.0000101 to 1.746,0.047 as 3
+set label "0.96e" at 1.746,0.047 tc lt 3
+
+set xrange [1.3350000:2.1680000]
+#set xrange [1.3:2.2]
+#set yrange [0.00001:6.66694000]
+set yrange [0.00001:50]
+set samples 600
+plot 0
+
+unset key
+unset arrow
+unset label
+
+#set key left below
+set termopt enhanced
+#set yrange [0.00001:4]
+set logscale y
+
+set style arrow 1 nohead size screen 0.008,90 ls 2 lt 1
+set style arrow 2 nohead size screen 0.008,90 ls 2 lt 2
+set style arrow 3 nohead size screen 0.008,90 ls 2 lt 3
+set label 'T:PCBM ' at graph 0.98, graph 0.5 right
+
+set arrow from 1.487, 0.0000101 to 1.487,0.826 as 2
+set label "0.75e" at 1.487,0.826 tc lt 2
+set arrow from 1.506, 0.0000101 to 1.506,1.890 as 2
+set label "0.42e" at 1.506,1.890 tc lt 2
+set arrow from 1.539, 0.0000101 to 1.539,0.576 as 2
+set label "0.81e" at 1.539,0.576 tc lt 2
+set arrow from 1.730, 0.0000101 to 1.730,0.011 as 1
+set label "0.05e" at 1.730,0.011 tc lt 1
+set arrow from 1.746, 0.0000101 to 1.746,0.022 as 3
+set label "0.97e" at 1.746,0.022 tc lt 3
+set xrange [1.3350000:2.1680000]
+#set xrange [1.3:2.2]
+#set yrange [0.00001:6.66694000]
+set yrange [0.00001:50]
+set samples 600
+set xtics
+set xlabel "Energy (eV)"
+plot 0

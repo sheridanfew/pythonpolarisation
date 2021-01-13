@@ -1,0 +1,15 @@
+TODO:
+
+- New fits with bonds, working Thole model
+- Check out atom&bond molecule files, make crystal jobs with these
+- Add capacity to calc reorg energies with these molecules.
+
+
+
+
+- New fit pol jobs, modify polarisability of atom according to requested starting points, then look up values.
+
+
+./gauss_log_to_py_xyz.sh -b TMTSF_mola_cif.xyz -n TMTSF_mola -y TMTSF_connectivity.dat TMTSF.log
+CORRECTED connectivity
+... similar for other mols ...

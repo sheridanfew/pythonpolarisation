@@ -1,0 +1,13 @@
+CWD=$(pwd)
+
+./gauss_log_to_py_xyz_anisobonds_CORRECTEDBONDS.sh -b PTCDA_cif.xyz -n PTCDA_neut -y PTCDA_connectivity.dat -z 8.0 PTCDA.log 
+
+
+
+#	  ./gauss_log_to_py_xyz_anisobonds.sh -b ${struct}_mol${mol}.xyz -n ${struct}_mol${mol}_neut -y ${struct}_connectivity.dat -z 8.0 ${struct}_neut.log 
+
+#for struct in BENZENE
+#do
+#  ./gauss_log_to_py_xyz_anisobonds.sh -a ${struct}_cif_no_gauss_orient.xyz -b ${struct}.xyz -y ${struct}_neut_HF631PLUSGSTAR_connectivity.dat -z 8.0 ${struct}_neut_HF631PLUSGSTAR.log 
+#done
+

@@ -1,0 +1,17 @@
+POLARISABILITY
+
+polarisabilities are (e.bohr)^2/E_hartree
+
+[Polarisability (cubic angstroms)] = (10^30)/(4*pi*vacuum permittivity)*(electron charge * bohr radius)^2/(Hartree Energy) * [Polarisability in (e.bohr)^2/E_hartree]
+
+[Polarisability (cubic angstroms)] = (10^30)/(4*pi*electric constant)*(electron charge * 5.2917720859*(10^-11))^2/(4.35974417*(10^-18)) [Polarisability in (e.bohr)^2/E_hartree]
+
+[Polarisability (cubic angstroms)] = 0.148184697 [Polarisability in (e.bohr)^2/E_hartree]
+
+[Polarisability in (e.bohr)^2/E_hartree] = 6.74833515 [Polarisability (cubic angstroms)] 
+
+Agreement with http://books.google.co.uk/books?id=1E8M117QOFEC&pg=PA208&lpg=PA208&dq=angstrom+cubed+to+atomic+units+polarisability&source=bl&ots=KPdsCoXA8m&sig=8ezgBkpyxF9CnrcrMI5iePQN03s&hl=en&sa=X&ei=ZOxBUdizFojQOdbcgJgI&ved=0CD0Q6AEwAw#v=onepage&q=angstrom%20cubed%20to%20atomic%20units%20polarisability&f=false
+
+Polarisability in Gaussian is in au http://www.gaussian.com/g_tech/g_ur/k_constants.htm
+
+(Also, Electric polarizability: 1 au 	= 1.648777 x 10-41 C2-m2-J-1)

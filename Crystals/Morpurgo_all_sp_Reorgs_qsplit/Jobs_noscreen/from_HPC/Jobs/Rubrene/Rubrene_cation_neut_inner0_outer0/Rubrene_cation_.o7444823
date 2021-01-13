@@ -1,0 +1,23 @@
+ 
+Imperial College London HPC Service
+-----------------------------------
+Job Rubrene_cation_, jobid 7444823.cx1b, username spf310 - started execution at 02:53:08 Sat 21/06/14 on system cx1-13-33-2.cx1.hpc.ic.ac.uk
+ 
+Execution started:
+Sat Jun 21 02:53:08 BST 2014
+
+
+csvs:
+time	name	mols_cen	mols_sur	mols_outer	insize	outsize	a	b	c	molincell	Reorg(eV)
+Sat, 21 Jun 2014 01:53:09 +0000	Rubrene_cation_neut_inner0_outer0	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	0	0	0	0	0	0	0.0
+Sat, 21 Jun 2014 01:53:09 +0000	Rubrene_cation_neut_inner0_outer0	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	0	0	0	0	0	1	0.0236179520373time	name	mols_cen	mols_sur	mols_outer	insize	outsize	energyev	Uqq	Uqd	Udd	Totdip_x	Totdip_y	Totdip_z
+Sat, 21 Jun 2014 01:53:09 +0000	Rubrene_cation_neut_inner0_outer0	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	0	0	-0.0430437432857	0.0	-0.0860874865713	0.0430437432857	1.01261585284	0.75818175974	0.0699840395478
+
+dat files:
+Job finished:
+Sat Jun 21 02:53:10 BST 2014
+ 
+Imperial College London HPC Service
+-----------------------------------
+Job Rubrene_cation_, jobid 7444823.cx1b, username spf310 - end of execution at 02:53:10 Sat 21/06/14 on system cx1-13-33-2.cx1.hpc.ic.ac.uk
+ 

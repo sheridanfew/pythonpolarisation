@@ -1,0 +1,77 @@
+ 
+Imperial College London HPC Service
+-----------------------------------
+Job Rubrene_cation_, jobid 7444824.cx1b, username spf310 - started execution at 02:53:13 Sat 21/06/14 on system cx1-13-33-2.cx1.hpc.ic.ac.uk
+ 
+Execution started:
+Sat Jun 21 02:53:13 BST 2014
+
+
+csvs:
+time	name	mols_cen	mols_sur	mols_outer	insize	outsize	a	b	c	molincell	Reorg(eV)
+Sat, 21 Jun 2014 01:53:14 +0000	Rubrene_cation_neut_inner1_outer0	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	1	0	1	1	1	0	0.0
+Sat, 21 Jun 2014 01:53:14 +0000	Rubrene_cation_neut_inner1_outer0	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	1	0	1	1	1	1	0.227550269541
+Sat, 21 Jun 2014 01:53:14 +0000	Rubrene_cation_neut_inner1_outer0	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	1	0	0	0	0	0	[]
+Sat, 21 Jun 2014 01:53:14 +0000	Rubrene_cation_neut_inner1_outer0	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	1	0	0	0	0	1	[]
+Sat, 21 Jun 2014 01:53:14 +0000	Rubrene_cation_neut_inner1_outer0	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	1	0	0	0	1	0	[]
+Sat, 21 Jun 2014 01:53:14 +0000	Rubrene_cation_neut_inner1_outer0	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	1	0	0	0	1	1	[]
+Sat, 21 Jun 2014 01:53:14 +0000	Rubrene_cation_neut_inner1_outer0	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	1	0	0	0	2	0	[]
+Sat, 21 Jun 2014 01:53:14 +0000	Rubrene_cation_neut_inner1_outer0	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	1	0	0	0	2	1	[]
+Sat, 21 Jun 2014 01:53:14 +0000	Rubrene_cation_neut_inner1_outer0	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	1	0	0	1	0	0	[]
+Sat, 21 Jun 2014 01:53:14 +0000	Rubrene_cation_neut_inner1_outer0	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	1	0	0	1	0	1	[]
+Sat, 21 Jun 2014 01:53:14 +0000	Rubrene_cation_neut_inner1_outer0	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	1	0	0	1	1	0	0.257301452189
+Sat, 21 Jun 2014 01:53:14 +0000	Rubrene_cation_neut_inner1_outer0	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	1	0	0	1	1	1	0.182072892518
+Sat, 21 Jun 2014 01:53:14 +0000	Rubrene_cation_neut_inner1_outer0	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	1	0	0	1	2	0	[]
+Sat, 21 Jun 2014 01:53:14 +0000	Rubrene_cation_neut_inner1_outer0	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	1	0	0	1	2	1	[]
+Sat, 21 Jun 2014 01:53:14 +0000	Rubrene_cation_neut_inner1_outer0	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	1	0	0	2	0	0	[]
+Sat, 21 Jun 2014 01:53:14 +0000	Rubrene_cation_neut_inner1_outer0	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	1	0	0	2	0	1	[]
+Sat, 21 Jun 2014 01:53:14 +0000	Rubrene_cation_neut_inner1_outer0	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	1	0	0	2	1	0	[]
+Sat, 21 Jun 2014 01:53:14 +0000	Rubrene_cation_neut_inner1_outer0	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	1	0	0	2	1	1	[]
+Sat, 21 Jun 2014 01:53:14 +0000	Rubrene_cation_neut_inner1_outer0	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	1	0	0	2	2	0	[]
+Sat, 21 Jun 2014 01:53:14 +0000	Rubrene_cation_neut_inner1_outer0	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	1	0	0	2	2	1	[]
+Sat, 21 Jun 2014 01:53:14 +0000	Rubrene_cation_neut_inner1_outer0	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	1	0	1	0	0	0	[]
+Sat, 21 Jun 2014 01:53:14 +0000	Rubrene_cation_neut_inner1_outer0	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	1	0	1	0	0	1	[]
+Sat, 21 Jun 2014 01:53:14 +0000	Rubrene_cation_neut_inner1_outer0	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	1	0	1	0	1	0	0.400544873382
+Sat, 21 Jun 2014 01:53:14 +0000	Rubrene_cation_neut_inner1_outer0	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	1	0	1	0	1	1	0.308524360973
+Sat, 21 Jun 2014 01:53:14 +0000	Rubrene_cation_neut_inner1_outer0	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	1	0	1	0	2	0	[]
+Sat, 21 Jun 2014 01:53:14 +0000	Rubrene_cation_neut_inner1_outer0	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	1	0	1	0	2	1	[]
+Sat, 21 Jun 2014 01:53:14 +0000	Rubrene_cation_neut_inner1_outer0	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	1	0	1	1	0	0	0.432145481529
+Sat, 21 Jun 2014 01:53:14 +0000	Rubrene_cation_neut_inner1_outer0	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	1	0	1	1	0	1	0.435235380377
+Sat, 21 Jun 2014 01:53:14 +0000	Rubrene_cation_neut_inner1_outer0	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	1	0	1	1	1	0	0.0
+Sat, 21 Jun 2014 01:53:14 +0000	Rubrene_cation_neut_inner1_outer0	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	1	0	1	1	1	1	0.227550269541
+Sat, 21 Jun 2014 01:53:14 +0000	Rubrene_cation_neut_inner1_outer0	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	1	0	1	1	2	0	0.431723773458
+Sat, 21 Jun 2014 01:53:14 +0000	Rubrene_cation_neut_inner1_outer0	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	1	0	1	1	2	1	0.435739705578
+Sat, 21 Jun 2014 01:53:14 +0000	Rubrene_cation_neut_inner1_outer0	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	1	0	1	2	0	0	[]
+Sat, 21 Jun 2014 01:53:14 +0000	Rubrene_cation_neut_inner1_outer0	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	1	0	1	2	0	1	[]
+Sat, 21 Jun 2014 01:53:14 +0000	Rubrene_cation_neut_inner1_outer0	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	1	0	1	2	1	0	0.411182394785
+Sat, 21 Jun 2014 01:53:14 +0000	Rubrene_cation_neut_inner1_outer0	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	1	0	1	2	1	1	0.455472008048
+Sat, 21 Jun 2014 01:53:14 +0000	Rubrene_cation_neut_inner1_outer0	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	1	0	1	2	2	0	[]
+Sat, 21 Jun 2014 01:53:14 +0000	Rubrene_cation_neut_inner1_outer0	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	1	0	1	2	2	1	[]
+Sat, 21 Jun 2014 01:53:14 +0000	Rubrene_cation_neut_inner1_outer0	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	1	0	2	0	0	0	[]
+Sat, 21 Jun 2014 01:53:14 +0000	Rubrene_cation_neut_inner1_outer0	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	1	0	2	0	0	1	[]
+Sat, 21 Jun 2014 01:53:14 +0000	Rubrene_cation_neut_inner1_outer0	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	1	0	2	0	1	0	[]
+Sat, 21 Jun 2014 01:53:14 +0000	Rubrene_cation_neut_inner1_outer0	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	1	0	2	0	1	1	[]
+Sat, 21 Jun 2014 01:53:14 +0000	Rubrene_cation_neut_inner1_outer0	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	1	0	2	0	2	0	[]
+Sat, 21 Jun 2014 01:53:14 +0000	Rubrene_cation_neut_inner1_outer0	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	1	0	2	0	2	1	[]
+Sat, 21 Jun 2014 01:53:14 +0000	Rubrene_cation_neut_inner1_outer0	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	1	0	2	1	0	0	[]
+Sat, 21 Jun 2014 01:53:14 +0000	Rubrene_cation_neut_inner1_outer0	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	1	0	2	1	0	1	[]
+Sat, 21 Jun 2014 01:53:14 +0000	Rubrene_cation_neut_inner1_outer0	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	1	0	2	1	1	0	0.177375549289
+Sat, 21 Jun 2014 01:53:14 +0000	Rubrene_cation_neut_inner1_outer0	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	1	0	2	1	1	1	0.377484117952
+Sat, 21 Jun 2014 01:53:14 +0000	Rubrene_cation_neut_inner1_outer0	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	1	0	2	1	2	0	[]
+Sat, 21 Jun 2014 01:53:14 +0000	Rubrene_cation_neut_inner1_outer0	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	1	0	2	1	2	1	[]
+Sat, 21 Jun 2014 01:53:14 +0000	Rubrene_cation_neut_inner1_outer0	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	1	0	2	2	0	0	[]
+Sat, 21 Jun 2014 01:53:14 +0000	Rubrene_cation_neut_inner1_outer0	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	1	0	2	2	0	1	[]
+Sat, 21 Jun 2014 01:53:14 +0000	Rubrene_cation_neut_inner1_outer0	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	1	0	2	2	1	0	[]
+Sat, 21 Jun 2014 01:53:14 +0000	Rubrene_cation_neut_inner1_outer0	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	1	0	2	2	1	1	[]
+Sat, 21 Jun 2014 01:53:14 +0000	Rubrene_cation_neut_inner1_outer0	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	1	0	2	2	2	0	[]
+Sat, 21 Jun 2014 01:53:14 +0000	Rubrene_cation_neut_inner1_outer0	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	1	0	2	2	2	1	[]time	name	mols_cen	mols_sur	mols_outer	insize	outsize	energyev	Uqq	Uqd	Udd	Totdip_x	Totdip_y	Totdip_z
+Sat, 21 Jun 2014 01:53:14 +0000	Rubrene_cation_neut_inner1_outer0	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	['sp_Rubrene_mola_neut.xyz', 'sp_Rubrene_molb_neut.xyz']	1	0	-0.603730294206	0.0	-1.20746058841	0.603730294206	1.74912310455	3.32322646773	-0.0387698455541
+
+dat files:
+Job finished:
+Sat Jun 21 02:58:15 BST 2014
+ 
+Imperial College London HPC Service
+-----------------------------------
+Job Rubrene_cation_, jobid 7444824.cx1b, username spf310 - end of execution at 02:58:15 Sat 21/06/14 on system cx1-13-33-2.cx1.hpc.ic.ac.uk
+ 

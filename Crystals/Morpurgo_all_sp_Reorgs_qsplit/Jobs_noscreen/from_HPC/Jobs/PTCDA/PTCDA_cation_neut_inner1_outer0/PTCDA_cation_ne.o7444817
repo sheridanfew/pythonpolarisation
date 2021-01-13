@@ -1,0 +1,77 @@
+ 
+Imperial College London HPC Service
+-----------------------------------
+Job PTCDA_cation_ne, jobid 7444817.cx1b, username spf310 - started execution at 02:46:54 Sat 21/06/14 on system cx1-1-8-3.cx1.hpc.ic.ac.uk
+ 
+Execution started:
+Sat Jun 21 02:46:54 BST 2014
+
+
+csvs:
+time	name	mols_cen	mols_sur	mols_outer	insize	outsize	energyev	Uqq	Uqd	Udd	Totdip_x	Totdip_y	Totdip_z
+Sat, 21 Jun 2014 01:46:54 +0000	PTCDA_cation_neut_inner1_outer0	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	1	0	-3.57872347988	0.0	-7.15744695976	3.57872347988	1.01050064784	11.4326814469	1.52506787919time	name	mols_cen	mols_sur	mols_outer	insize	outsize	a	b	c	molincell	Reorg(eV)
+Sat, 21 Jun 2014 01:46:54 +0000	PTCDA_cation_neut_inner1_outer0	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	1	0	1	1	1	0	0.0
+Sat, 21 Jun 2014 01:46:54 +0000	PTCDA_cation_neut_inner1_outer0	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	1	0	1	1	1	1	1.47654999787
+Sat, 21 Jun 2014 01:46:54 +0000	PTCDA_cation_neut_inner1_outer0	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	1	0	0	0	0	0	[]
+Sat, 21 Jun 2014 01:46:54 +0000	PTCDA_cation_neut_inner1_outer0	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	1	0	0	0	0	1	[]
+Sat, 21 Jun 2014 01:46:54 +0000	PTCDA_cation_neut_inner1_outer0	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	1	0	0	0	1	0	[]
+Sat, 21 Jun 2014 01:46:54 +0000	PTCDA_cation_neut_inner1_outer0	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	1	0	0	0	1	1	[]
+Sat, 21 Jun 2014 01:46:54 +0000	PTCDA_cation_neut_inner1_outer0	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	1	0	0	0	2	0	[]
+Sat, 21 Jun 2014 01:46:54 +0000	PTCDA_cation_neut_inner1_outer0	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	1	0	0	0	2	1	[]
+Sat, 21 Jun 2014 01:46:54 +0000	PTCDA_cation_neut_inner1_outer0	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	1	0	0	1	0	0	[]
+Sat, 21 Jun 2014 01:46:54 +0000	PTCDA_cation_neut_inner1_outer0	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	1	0	0	1	0	1	[]
+Sat, 21 Jun 2014 01:46:54 +0000	PTCDA_cation_neut_inner1_outer0	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	1	0	0	1	1	0	2.86057934725
+Sat, 21 Jun 2014 01:46:54 +0000	PTCDA_cation_neut_inner1_outer0	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	1	0	0	1	1	1	2.13933298716
+Sat, 21 Jun 2014 01:46:54 +0000	PTCDA_cation_neut_inner1_outer0	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	1	0	0	1	2	0	[]
+Sat, 21 Jun 2014 01:46:54 +0000	PTCDA_cation_neut_inner1_outer0	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	1	0	0	1	2	1	[]
+Sat, 21 Jun 2014 01:46:54 +0000	PTCDA_cation_neut_inner1_outer0	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	1	0	0	2	0	0	[]
+Sat, 21 Jun 2014 01:46:54 +0000	PTCDA_cation_neut_inner1_outer0	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	1	0	0	2	0	1	[]
+Sat, 21 Jun 2014 01:46:54 +0000	PTCDA_cation_neut_inner1_outer0	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	1	0	0	2	1	0	[]
+Sat, 21 Jun 2014 01:46:54 +0000	PTCDA_cation_neut_inner1_outer0	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	1	0	0	2	1	1	[]
+Sat, 21 Jun 2014 01:46:54 +0000	PTCDA_cation_neut_inner1_outer0	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	1	0	0	2	2	0	[]
+Sat, 21 Jun 2014 01:46:54 +0000	PTCDA_cation_neut_inner1_outer0	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	1	0	0	2	2	1	[]
+Sat, 21 Jun 2014 01:46:54 +0000	PTCDA_cation_neut_inner1_outer0	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	1	0	1	0	0	0	[]
+Sat, 21 Jun 2014 01:46:54 +0000	PTCDA_cation_neut_inner1_outer0	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	1	0	1	0	0	1	[]
+Sat, 21 Jun 2014 01:46:54 +0000	PTCDA_cation_neut_inner1_outer0	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	1	0	1	0	1	0	2.05711700243
+Sat, 21 Jun 2014 01:46:54 +0000	PTCDA_cation_neut_inner1_outer0	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	1	0	1	0	1	1	2.10651440668
+Sat, 21 Jun 2014 01:46:54 +0000	PTCDA_cation_neut_inner1_outer0	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	1	0	1	0	2	0	[]
+Sat, 21 Jun 2014 01:46:54 +0000	PTCDA_cation_neut_inner1_outer0	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	1	0	1	0	2	1	[]
+Sat, 21 Jun 2014 01:46:54 +0000	PTCDA_cation_neut_inner1_outer0	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	1	0	1	1	0	0	2.28205497543
+Sat, 21 Jun 2014 01:46:54 +0000	PTCDA_cation_neut_inner1_outer0	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	1	0	1	1	0	1	2.28912269311
+Sat, 21 Jun 2014 01:46:54 +0000	PTCDA_cation_neut_inner1_outer0	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	1	0	1	1	1	0	0.0
+Sat, 21 Jun 2014 01:46:54 +0000	PTCDA_cation_neut_inner1_outer0	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	1	0	1	1	1	1	1.47654999787
+Sat, 21 Jun 2014 01:46:54 +0000	PTCDA_cation_neut_inner1_outer0	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	1	0	1	1	2	0	2.285585746
+Sat, 21 Jun 2014 01:46:54 +0000	PTCDA_cation_neut_inner1_outer0	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	1	0	1	1	2	1	2.30055948807
+Sat, 21 Jun 2014 01:46:54 +0000	PTCDA_cation_neut_inner1_outer0	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	1	0	1	2	0	0	[]
+Sat, 21 Jun 2014 01:46:54 +0000	PTCDA_cation_neut_inner1_outer0	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	1	0	1	2	0	1	[]
+Sat, 21 Jun 2014 01:46:54 +0000	PTCDA_cation_neut_inner1_outer0	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	1	0	1	2	1	0	2.21802661462
+Sat, 21 Jun 2014 01:46:54 +0000	PTCDA_cation_neut_inner1_outer0	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	1	0	1	2	1	1	2.51843380375
+Sat, 21 Jun 2014 01:46:54 +0000	PTCDA_cation_neut_inner1_outer0	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	1	0	1	2	2	0	[]
+Sat, 21 Jun 2014 01:46:54 +0000	PTCDA_cation_neut_inner1_outer0	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	1	0	1	2	2	1	[]
+Sat, 21 Jun 2014 01:46:54 +0000	PTCDA_cation_neut_inner1_outer0	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	1	0	2	0	0	0	[]
+Sat, 21 Jun 2014 01:46:54 +0000	PTCDA_cation_neut_inner1_outer0	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	1	0	2	0	0	1	[]
+Sat, 21 Jun 2014 01:46:54 +0000	PTCDA_cation_neut_inner1_outer0	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	1	0	2	0	1	0	[]
+Sat, 21 Jun 2014 01:46:54 +0000	PTCDA_cation_neut_inner1_outer0	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	1	0	2	0	1	1	[]
+Sat, 21 Jun 2014 01:46:54 +0000	PTCDA_cation_neut_inner1_outer0	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	1	0	2	0	2	0	[]
+Sat, 21 Jun 2014 01:46:54 +0000	PTCDA_cation_neut_inner1_outer0	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	1	0	2	0	2	1	[]
+Sat, 21 Jun 2014 01:46:54 +0000	PTCDA_cation_neut_inner1_outer0	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	1	0	2	1	0	0	[]
+Sat, 21 Jun 2014 01:46:54 +0000	PTCDA_cation_neut_inner1_outer0	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	1	0	2	1	0	1	[]
+Sat, 21 Jun 2014 01:46:54 +0000	PTCDA_cation_neut_inner1_outer0	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	1	0	2	1	1	0	1.65903877652
+Sat, 21 Jun 2014 01:46:54 +0000	PTCDA_cation_neut_inner1_outer0	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	1	0	2	1	1	1	3.16250202644
+Sat, 21 Jun 2014 01:46:54 +0000	PTCDA_cation_neut_inner1_outer0	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	1	0	2	1	2	0	[]
+Sat, 21 Jun 2014 01:46:54 +0000	PTCDA_cation_neut_inner1_outer0	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	1	0	2	1	2	1	[]
+Sat, 21 Jun 2014 01:46:54 +0000	PTCDA_cation_neut_inner1_outer0	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	1	0	2	2	0	0	[]
+Sat, 21 Jun 2014 01:46:54 +0000	PTCDA_cation_neut_inner1_outer0	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	1	0	2	2	0	1	[]
+Sat, 21 Jun 2014 01:46:54 +0000	PTCDA_cation_neut_inner1_outer0	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	1	0	2	2	1	0	[]
+Sat, 21 Jun 2014 01:46:54 +0000	PTCDA_cation_neut_inner1_outer0	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	1	0	2	2	1	1	[]
+Sat, 21 Jun 2014 01:46:54 +0000	PTCDA_cation_neut_inner1_outer0	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	1	0	2	2	2	0	[]
+Sat, 21 Jun 2014 01:46:54 +0000	PTCDA_cation_neut_inner1_outer0	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	['sp_C8_BTBT_mola_neut.xyz', 'sp_C8_BTBT_molb_neut.xyz']	1	0	2	2	2	1	[]
+
+dat files:
+Job finished:
+Sat Jun 21 02:51:55 BST 2014
+ 
+Imperial College London HPC Service
+-----------------------------------
+Job PTCDA_cation_ne, jobid 7444817.cx1b, username spf310 - end of execution at 02:51:55 Sat 21/06/14 on system cx1-1-8-3.cx1.hpc.ic.ac.uk
+ 

@@ -1,0 +1,51 @@
+todo:
+
+-Add bonds when importing atoms:
+
+Will need to:
+
+define bond type "single" "pi" "double" "triple"
+define neighbours
+
+NB. Worth checking agree with Gaussian's bond assignment in connectivity file first, likes to make pi bonds double
+
+guess_mag[1]=BLAH
+
+
+bondpartners[1]="1 2"
+
+bond_no_gauss[1]="..."
+
+if [[ $bondnogauss == "1" ]]
+then
+	bond_type[1]="single"
+fi
+
+bond_pos_x[1]=pos[1]+pos[2]/2
+
+mag_distance[1]=...
+
+pol_guess_x[1]=guess_mag[${bond_no_gauss[1]}] * ( pos[1] - pos[2]) / mag_dist
+#modulus
+pol_guess_x[1]=${pol_guess_x[1]#-}
+
+
+
+<<<OLDIDEA
+if (eltype1 = C && eltype2 = C || eltype1 = Si && eltype2 = Si )
+then
+	if (nbonds1=4 || nbondss2=4 ))
+	then
+		bondtype[1]=sigma
+		#think this will always be true
+	fi
+
+	if [[ 3 && 3 ]]
+		pi
+		#WARNING: Careful, not sure if this is true for rubrene bonds attaching tetracene to phenyls
+
+
+
+if (eltype1 = C && eltype2 = C)
+
+OLDIDEA
