@@ -14,14 +14,18 @@ As used in:
 
 ### Overview ###
 
-I am a bit embarrassed how long it has taken to upload this model, but hopefully better late than never! Unfortunately, much of the workings have been lost in the mists of time, but the following may be helpful:
+This model has taken much longer than intended to upload. Unforunately I've lost familarity with details of the process, but am uploading the model now in the hope that it might be useful to others considering similar questions.
 
-BasicElements/tests/ and tests/ - Contain a number of small examples for initiating single atoms/ions and calculating interactions between pairs of atoms/ions/molecules which may be helpful in getting to grips with the model
+The following may be helpful:
 
-Crystal_Building_Instructions_0515.odt (or txt file of same name) - a detailed overview of how to build a crystal using this model (I seem to remember there were some additional steps I wanted to add, some creativity may be required)
+BasicElements/ contains scripts defining key attributes of the model
 
-Crystals/Morpurgo_all_sp_Reorgs_qsplit_Molscreen_largepiatoms_sq/Jobs/C60/C60_anion_neut_inner1_outer0/C60_anion_neut_inner1_outer0.py - a script for calculating the electronic interaction energy of a single C60 anion with its neighbouring molecules (one unit cell in each direction - NB. atoms are kept in equilibrium crystal positions rearrangement of atomic positions in response to the charge is not considered)
+BasicElements/tests/ and tests/ - Directories containing a number of small examples for initiating single atoms/ions and calculating interactions between pairs of atoms/ions/molecules which may be helpful in getting to grips with the model
 
-Crystals/video[...].gnp - I remember having fun using scripts like these to create pngs which I turned into animated gifs showing how atomic dipoles change as you separate a pair of molecules. Perhaps something in these could be useful for visualisations.
+Crystal_Building_Instructions_0515.odt (or txt file of same name) - an overview of how to build a crystal using this model (some creativity may be required)
 
-There is a lot that could be tidied in these directories, but I have left most of it in place as I may no longer be the best judge of what is and isn't useful here.
+Crystals/Morpurgo_all_sp_Reorgs/Jobs/Pc/Pc_anion_neut_inner1_outer0/Pc_anion_neut_inner1_outer0.py - a script for calculating the electronic interaction energy of a single pentacene anion with its neighbouring molecules (one unit cell in each direction). Atoms are kept in equilibrium crystal positions and rearrangement of atomic positions in response to the charge is not considered. "Electronic reorganisation energy" associated with the change in electronic interaction when the anion moves without changes to electronic polarisation of surroundings is also calculated in this script, but this may be a less useful concept. 
+
+Crystals/video[...].gnp - I remember having fun using scripts like these to create pngs which I turned into animated gifs showing how atomic dipoles change as you separate a pair of molecules. Perhaps something here could be useful for visualisations.
+
+There is a lot that could be tidied amongst these directories - I have left a lot in place, but much could be safely ignored/deleted
